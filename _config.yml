@@ -11,16 +11,16 @@ relative_permalinks: true
 # Setup
 title:              RoastPotatoes 
 tagline:             ''
-description:         ''
-url:                 http://lanyon.getpoole.com
+description:         'This is where I am hoping to write about keyboards and linux.'
+url:                 roastpotatoes.github.io 
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              
+  url:              
+  email:             
 
 # Custom vars
 version:             1.0.0
