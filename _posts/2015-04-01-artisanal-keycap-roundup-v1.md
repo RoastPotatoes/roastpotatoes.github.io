@@ -86,4 +86,4 @@ As pointed out by ripster I managed to miss a couple of people. But I think it i
 <a name="k3"><h2>K3Y/K3KC: Lobo sale</h2></a>
 [![the lobo](http://i2.wp.com/www.k3ycap.com/wp-content/uploads/lobo-mx-keycap.jpg)](http://www.k3ycap.com/lobo-sale/)
 These are the first original designs from K3Y and it is quite impressive. The keycap is more impressive on first glance. It does seem to have a reasonable level of detail which I'm sure is quite hard to produce. If anything this does show that K3Y does have some ability other than casting others caps.
-There are both Topre and MX versions available the sale starts on the 3<sup>nd</sup> of April the countdown clock is [here](http://www.timeanddate.com/countdown/to?iso=20150402T16&p0=137&fg1=000&fg2=b3b3b3&msg=Lobo+Sale&swk=1).
+There are both Topre and MX versions available the sale starts on the 2<sup>nd</sup> of April the countdown clock is [here](http://www.timeanddate.com/countdown/to?iso=20150402T16&p0=137&fg1=000&fg2=b3b3b3&msg=Lobo+Sale&swk=1).
