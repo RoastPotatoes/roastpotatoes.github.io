@@ -18,6 +18,7 @@ tags: [Artisan, Keycaps, Brocaps, Topre, MX, Meowcap, kwk, hipsterpunks, Koala-T
     <th class="tg-031e"><a href="#hipsterpunk">Hipsterpunks</a></th>
     <th class="tg-031e"><a href="#voidward">Voidward</a></th>
     <th class="tg-031e"><a href="#koalatk">Koala-T-Kaps</a></th>
+    <th class="tg-031e"><a href="#k3">K3Y/K3KC</a></th>
   </tr>
 </table>
 <a name="brocaps"><h2> Brocaps: Lick the Rainbow</h2></a>
@@ -77,3 +78,12 @@ Koala-T-Kaps alongside kudos\_and\_godspeed has entered the keycap scene as well
 ________ 
 That's all for this month. Sorry if I missed anyone. Honourable mention goes to **Defect** for their [watermelon](http://i.imgur.com/3jjqDRph.jpg) keycap.  
 I am going to try and make this a monthly feature because the sheer number of people making caps. Keep doing what your doing!
+
+-----
+## Update
+As pointed out by ripster I managed to miss a couple of people. But I think it is necessary that I include K3KC or K3Y as they now might be known. Because this is their first really original keycap design. They have made blanks before but even these have been criticized as knock offs. 
+
+<a name="k3"><h2>K3Y/K3KC: Lobo sale</h2></a>
+[![the lobo](http://i2.wp.com/www.k3ycap.com/wp-content/uploads/lobo-mx-keycap.jpg)](http://www.k3ycap.com/lobo-sale/)
+These are the first original designs from K3Y and it is quite impressive. The keycap is more impressive on first glance. It does seem to have a reasonable level of detail which I'm sure is quite hard to produce. If anything this does show that K3Y does have some ability other than casting others caps.
+There are both Topre and MX versions available the sale starts on the 3<sup>nd</sup> of April the countdown clock is [here](http://www.timeanddate.com/countdown/to?iso=20150402T16&p0=137&fg1=000&fg2=b3b3b3&msg=Lobo+Sale&swk=1).
