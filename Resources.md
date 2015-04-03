@@ -11,3 +11,7 @@ description: ""
 
  * [How to build TMK firmware for an ErgoDox]({{site-url}}/2015/03/22/ergodox/)
  * [Introduction to TMK firmware how to use layers]({{site-url}}/2015/03/30/introduction-to-the-tmk-firmware/)
+
+## Memrise:
+
+ * [Learn your cherry switches](http://www.memrise.com/course/591463/cherry-switches/)
