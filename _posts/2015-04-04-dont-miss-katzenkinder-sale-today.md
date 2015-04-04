@@ -10,3 +10,6 @@ The sale is taking place sometime today. It should be taking place somewhere on 
 Follow this [thread](https://geekhack.org/index.php?topic=64501.0) for additional information.
 
 I will update with a link to the sale as it happens.
+
+**Update**  
+It's almost happening. Main [thread](https://geekhack.org/index.php?topic=64501.0) has been updated with images of the caps included in the sale. 
