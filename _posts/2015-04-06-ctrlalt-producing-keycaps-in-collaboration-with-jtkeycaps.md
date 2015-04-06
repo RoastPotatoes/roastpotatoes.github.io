@@ -5,6 +5,9 @@ description: ""
 category: 
 tags: ["[CTRL]ALT", Keycaps, ABS, Doubleshot, News]
 ---
+**Note:**  
+I would just like to make it clear and reiterate that this is in fact a joint venture between [CTRL]ALT and JTKeycaps. [CTRL]ALT is not manufacturing the keycaps by themselves.
+
 Quite excitingly it seems that a new keycap producer is entering the game, and this time from a familiar familiar face. Just announced on geekhack. [CTRL]ALT is collaborating with JTKeycaps to produce keycaps to rival the current offering. There is little information at the moment but the current offering is **doubleshot** **ABS** keycaps. At the moment the offering is just for MX keycaps. But it seems like Topre keycaps are not an extreme suggestion. Quoting BunnyLake "just mx....for now".
 
 [![ctrl keycap](http://i.imgur.com/0OeVdLH.jpg)](https://geekhack.org/index.php?topic=70659.0)*BunnyLake's photo*  
