@@ -4,7 +4,9 @@ title: "Hasu's Alternative Controller"
 description: ""
 category: 
 tags: [Hasu, HHKB, Controller, TMK]
+date: 2015-04-08 19:00 
 ---
+![alt controller](http://i.imgur.com/Bx3iYsn.jpg)  
 One of the first things I wanted to do when I got my HHKB was to customize the layout. This was mostly because I use colemak and to change the layout I had to do this software side on my computer. This was annoying as it meant having multiple configurations for all of my layouts. I also ran into problems with my window manager not working properly. Another problem this caused was that I already had a programmable keyboard (my ergodox) that was programmed to use colemak. This meant the computer had to be set to qwerty so the scancodes were interpreted as colemak. Since all my keyboards aren't programmable this caused problems. So instead of taking the easy decision and just having everything qwerty apart from my X configuration, I chose to get as many programmable keyboards as possible.
 
 Hasu provides a great solution to this problem. It really is the only solution, as no one else makes these. You could of course have different keybinds set on your computer but this is not portable or at all ideal. The Hasu's controller is a simple replacement controller that allows you to non destructively change the keymap of your HHKB. This is good if in the future you want to sell the keyboard as stock or if you (understandably) don't want to do any irreversible modification to your $235 keyboard. As you are just able to remove the controller and replace it with the original. 
@@ -22,7 +24,7 @@ The installation process is very simple. As I stated earlier you don't damage th
 
 * Then grasp the cable by its width so you are applying even pressure when you pull it out.
 
-* Then simply connect Hasu's controller. Remember do push it in evenly so you don't bend any pins.
+* Then simply connect Hasu's controller. Remember, do push it in evenly so you don't bend any pins.
 
 * Reassembling the keyboard can be a little bit tricky as you have to screw the controller in before you put the top part on.
 
@@ -58,11 +60,17 @@ Then if you want to build your keymap use:
 
     sudo make Makefile KEYMAP=example dfu
 
-Appending `dfu` to the end of the command instantly tries to program your controller. To be able to do this you must have pressed the reset button on your controller.
+Appending `dfu` to the end of the command instantly tries to program your controller. **To be able to do this you must have pressed the reset button on your controller.**
 
 Refer to my [introduction to the tmk firmware]({% post_url 2015-03-30-introduction-to-the-tmk-firmware %}) when you want to use some of the more interesting functions of the firmware. Or look at the official documentation [here](https://github.com/tmk/tmk_keyboard/blob/master/doc/keymap.md).
 
 # Overview
 Hasu has provided some of the best firmware that is most commonly used with keyboard projects. But also provides the alternative controller for the HHKB. It is a great project that works extremely well. It is constantly going through revisions and improving. However it is still a stable board that I have had no trouble with. I highly recommend purchasing one and improving your HHKB just a little bit more. It makes a brilliant keyboard even better and really provides the only thing that the HHKB is missing. Thank you Hasu for making it.
 
-You can purchase one of these controllers from this thread
+You can purchase one of these controllers from this thread:
+[https://geekhack.org/index.php?topic=56494.0](https://geekhack.org/index.php?topic=56494.0)
+
+The usb controller is $48   
+The bluetooth is $79-89 depending on part availability
+
+![HHKB Glamour out of focus shot](http://i.imgur.com/08wLd7G.jpg)
