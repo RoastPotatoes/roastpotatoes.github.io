@@ -5,16 +5,19 @@ description: ""
 category: 
 tags: [Trackball, CST, Vintage, Mice, Balls]
 ---
+![box](http://i.imgur.com/He8rqU5.jpg)
 Another thing that I have learnt through my exploration of keyboards is appreciating older technology or peripherals. I have grown to appreciate and often favour the older design of keyboards. I particularly like the pearl and pebble colours scheme of the Model M. This is also something that I like in the HHKB. Even though it isn't quite the pearl and pebble combination I really like that simple scheme over other brighter keycaps.
 
+![profile](http://i.imgur.com/c2O5TI3.jpg)
 But what I have recently acquired is a trackball. This was something that I had considered getting in my earlier mechanical keyboard days, but never got round to. Although I said I appreciated older technology this is not the greatest example as it really isn't that old. I believe it is from around 1999.
 
 I found this MICROSPEED PC-TRAC Deluxe for $10 on ebay. I was originally looking for a cst trackball as I knew them to be of high quality. However what I learnt is that MICROSPEED is CST or what they came to be.  
 
-It is in essence the CST KidTRAC and what might be the current PC-Trac. But without the RGB colour scheme. So this does mean it does not have an insanely high DPI like the L-Trac but it does have the signature design. I can't find the exact specifications anywhere but I believe it has around 160 DPI.  
+It is in essence the CST KidTRAC and what might be the current PC-Trac. But without the RGB colour scheme. So this does mean it does not have an insanely high DPI like the L-Trac but it does have the signature design. I can't find the exact specifications anywhere but I believe it has around 160 DPI.![back](http://i.imgur.com/nTR6CeV.jpg)  
 
 The first problem I encountered that it came with a serial connection. I thought I would be equipped to handle this since it came with a ps/2 converter. However I learnt that the ps/2 to usb converter I had was only for keyboards. So I had to order a whole new cable.  
 
+![buttons](http://i.imgur.com/h44EAxC.jpg)
 The trackball itself has 3 buttons. Two of which I have gotten to work with a useful function. The left and right button function as the standard mouse buttons. But the main problem that comes with a trackball of this design is that it does not have a scroll wheel. Since I use the scroll function I thought it might be necessary to come up with some kind of solution. Although I had trouble setting a solution up it is rather simple. The Arch wiki is of course ever helpful.  
 
 <script src="https://gist.github.com/RoastPotatoes/ba04cd0e48280319602d.js"></script>
@@ -23,6 +26,7 @@ That is my mouse configuration on Arch for windows I haven't found a solution ye
 
 I have yet to configure the middle button to what I want it. But being without it has not effected me at all so for this reason it is not a pressing issue.
 
+![internal](http://i.imgur.com/Vyskgah.jpg)
 Another interesting point is that it might be possible to add additional buttons. If it is the same model as the KidTRAC then it might have the same pcb. Which means it might be possible to add 3 additional buttons. I'm not quite sure on this at the moment but it is something I am looking into
 
 -------------
