@@ -40,8 +40,7 @@ The use of material design works well in this keyset because of how simple colou
 Not only is this set pleasant to look at, it also is true to the reference material and this is another reason the keyset stands out from many others. This is also a great second attempt by Shining Wing and I can't wait to see what else they come up with.
 # Giveaway
 With the launch of this new set, PMK is hosting a giveaway in the first week of the groupbuy. All you have to do is like Pimp My Keyboard's Facebook page and share the groupbuy on Facebook.   
-<img src="{{situ-url}}/assets/materialmatter/PMK-facebook-campaign-graphic.jpg" alt="" usemap="#map" />
-<map name="map">
-    <area href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbit.ly%2F1rwqUQY&t=The+Material+Metaphor+%28dye-sub%2C+PBT%2C+DSA%29+%3E+Pimp+My+Keyboard" shape="rect" coords="264, 254, 454, 305" />
-    <area href="https://www.facebook.com/pages/Pimp-My-Keyboard/589719521065041?fref=ts" shape="rect" coords="17, 254, 214, 305" />
-</map>
+# Update
+Here is a direct link to the giveaway:
+
+[http://s.heyo.com/474c3d](http://s.heyo.com/474c3d)
