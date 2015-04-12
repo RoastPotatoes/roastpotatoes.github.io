@@ -28,7 +28,8 @@ version:             1.0.0
 
 Prose:
 	siteurl:'https://roastpotatoes.github.io'
-_posts:
+    metadata:
+	_posts:
 	- name: "layout"
 	      field:
 		element: "hidden"
