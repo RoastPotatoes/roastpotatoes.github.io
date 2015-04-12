@@ -29,7 +29,7 @@ version:             1.0.0
 prose:
 	siteurl:'https://roastpotatoes.github.io'
     metadata:
-	_posts:
+      _posts/:
 	- name: "layout"
 	      field:
 		element: "hidden"
@@ -38,7 +38,7 @@ prose:
               field:
 		element: "text"
                 label: "Title"
-                 value: ""
+               value: ""
       - name: "tags"
         field:
           element: "multiselect"
