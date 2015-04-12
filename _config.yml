@@ -27,8 +27,8 @@ author:
 version:             1.0.0
 
 prose:
-	rooturl: "_posts
-siteurl: "https://roastpotatoes.github.io"
+rooturl: "_posts"
+		siteurl: "https://roastpotatoes.github.io"
     metadata:
       _posts/:
 	- name: "layout"
