@@ -27,7 +27,8 @@ author:
 version:             1.0.0
 
 prose:
-	siteurl: 'https://roastpotatoes.github.io'
+	rooturl: "_posts
+siteurl: "https://roastpotatoes.github.io"
     metadata:
       _posts/:
 	- name: "layout"
@@ -53,7 +54,7 @@ prose:
               value: "News"
 	    - name: "How-to"
 	    value: "How-to"
-	_drafts:
+_drafts:
 	- name: "layout"
 	      field:
 		element: "hidden"
