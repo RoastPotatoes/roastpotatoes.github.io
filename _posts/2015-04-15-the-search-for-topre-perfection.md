@@ -31,12 +31,12 @@ I honestly do not really know what causes this problem. What I am guessing is th
 To corroborate what I am saying and give at least some validity to what I am saying. cookie mentions something similar [here](http://deskthority.net/photos-f62/did-a-silence-mod-on-my-topre-88ub-t5955.html#wrapper)
 
 # Investigation
-My fist thought was that I had put the bands on wrong or I had unseated the springs. This is where I lost a lot of time, I have taken my HHKB apart and reassembled it a lot. I was madly trying to find the solution to this problem. 
+My first thought was that I had put the bands on wrong or I had unseated the springs. This is where I lost a lot of time, I have taken my HHKB apart and reassembled it a lot. I was madly trying to find the solution to this problem. 
 
 The first trial was to ensure the bands were oriented correctly on each slider. So it was flat and not twisted. This had little effect.
 The next step I took was to take the domes off and reseat the springs myself. Here is an action that I resent. It did not help with the problem and has made my life a lot harder when disassembling my HHKB. It means you have to put all the domes on correctly and then align the springs yourself. If your domes have not come off by themselves just enjoy it while it lasts. I did briefly look for information on whether it was better to separate the domes or not, but I found nothing. I would like to go on record recommending to not do so. 
 
-My next thought was the dental bands I was using. Were 1/8th dental bands. I had seen in the guides that either 1/8 or 3/16 were fine, and both had been used to great effect. I then got my 3/16 bands and repeated the same trials. This did not help anything.
+My next thought was the dental bands I was using. The first I used were 1/8th dental bands. I had seen in the guides that either 1/8 or 3/16 were fine, and both had been used to great effect. I then got my 3/16 bands and repeated the same trials. This did not help anything.
 
 The next step was creating my own silencing 'bands' this was done quite spontaneously after finding the perfect material. That material was foam earplugs. The material seemed perfect because they were squishy and resilient from being squashed. I then began slicing them up until I had around 70, just enough to allow for mistakes. I had managed to create some uniformity with having the discs around 1mm. After some extensive testing where I took out some compared to dental bands and reassembled everything. They were no good. I was having a similar problem. The pinging had been reduced but the vibration was still there. When making them it seemed like I was onto the final solution. But it did not turn out that way. They were just too big. These were not a success.
 
