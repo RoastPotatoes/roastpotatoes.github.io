@@ -5,6 +5,8 @@ description: ""
 category: 
 tags: [PMK, Material Metaphor, Keycaps, Giveaway]
 ---
+PMK have asked me to create an overview of the set and this article was created for promotion. Whilst this is true these are my own thoughts and what I think of ShiningWing's design. Please note that I have been offered the keyset if it were to tip in payment for this post.
+
 Material Metaphor is one of the upcoming groupbuys hosted by PMK. First to introduce the set, You must understand the inspiration behind the set. It spawned from Google's new design guidelines that were introduced in Android 5 lollipop. So the main inspiration is the Google keyboard. As It is based on the Google keyboard it translates quite well to a physical keyboard (a real keyboard). The basic principle is colour must be used sparingly and to great effect.
 
 ## The Design
