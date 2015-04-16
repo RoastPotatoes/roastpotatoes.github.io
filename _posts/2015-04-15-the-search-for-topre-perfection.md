@@ -8,7 +8,7 @@ tags: [Topre, Silencing, Overview, cookie, keychatter,]
 ![my band selection](http://i.imgur.com/0LME7hH.jpg)
 *From left to right: 1/8", 3/16" and Limited edition RoastPotatoes silencing pad.*
 
-Upon and before purchasing my HHKB I was quite sure there was a sure-fire way to silence the HHKB quite easily with little cost. It is also supposed to be one of the better ways to silence Topre. Because of this I thought that I need not look any further to find a method to silence my HHKB.
+Upon and before purchasing my HHKB I was quite sure there was a sure-fire way to silence the HHKB quite easily with little cost. It is also supposed to be one of the better ways to silence Topre, because of this I thought that I need not look any further to find a method to silence my HHKB.
 
 When I received my HHKB I was wholly enamoured with the feel of Topre. I was like many before my happy with my happy hacking. But In the keyboard world you have to strive for perfection. I just watched a [video](https://youtu.be/TnccjYX2ItI) and couldn't get the sounds out of my head. In my mind the dental banded HHKB just seemed a little better to me. And at that time I just wasn't entirely happy with the noise produced by my HHKB. But as I mentioned earlier I went into this purchasing knowing of a 'sure-fire' way to silence it. This method is of course dental banding the sliders.  
 
@@ -19,14 +19,14 @@ Originally I had thought of putting together a guide on how to perform the denta
 I have used 'sure-fire' as how I saw this method prior to carrying it out. This is because this is how it is portrayed on every place I can find on the internet. I will credit cookie as one of the people who seems most instrumental in the current effort to find the ideal method to silence Topre avoiding all side effects.
 
 # Issues
-I feel that the dental band mod only gets good press. I would like introduce my alternative view. Because I feel like people might have the same issues in the future.
+I feel that the dental band mod only gets good press. I would like introduce my alternative view because I feel like people might have the same issues in the future.
 
-When I put the dental bands on, immediately it was noticeably quieter. This was fairly indisputable. However when listening closer I heard a quite prevalent pinging sound. It was if I could just hear the spring pinging about. When typing and hearing the "Topre Rain" this is exactly what you don't want. Once you hear it you will never go back,to how you once viewed the mod. Just in the background you can hear the pinging.
+When I put the dental bands on, immediately it was noticeably quieter. This was fairly indisputable however when listening closer I heard a quite prevalent pinging sound. It was if I could just hear the spring pinging about. When typing and hearing the "Topre Rain" this is exactly what you don't want. Once you hear it you will never go back, to how you once viewed the mod. Just in the background you can hear the pinging.
 This was the main problem. It was just not what I was looking for. Topre is an entirely different experience than buckling spring. With buckling springs the pinging is a part of the experience (unless you have flossed) and is something that is welcome.
-The other issue is the feeling. Alongside the sound I could feel the vibrations in my finger tips. This was very unpleasant and just felt like the tips of my finger tips were vibrating with every press. I find it very hard do put into words but it was certainly the most disagreeable typing experience I have had.    
-I should also mention the reduced travel. I did not have any problem with this. So I will not list this as a problem with the dental band mod.
+The other issue is the feeling. Alongside the sound I could feel the vibrations in my finger tips. This was very unpleasant and just felt like the tips of my finger tips were vibrating with every press. Putting it into words is not easy but it was certainly the most disagreeable typing experience I have had.    
+In reference to the reduced travel, I did not have any problem with this. So I will not list this as a problem with the dental band mod.
 
-I honestly do not really know what causes this problem. What I am guessing is that the springs are already compressed (due to the reduced space because of the dental bands) and this effects how they spring back up when further compressed. The bands push the sliders up slightly so when you put the domes and plate on, the plate does not sit flat in the case. It has to be screwed in in order for the keyboard to actually become together.
+I honestly do not really know what causes this problem. What I am guessing is that the springs are already compressed (due to the reduced space because of the dental bands) and this effects how they spring back up when further compressed. The bands push the sliders up slightly so when you put the domes and plate on, the plate does not sit flat in the case. It has to be screwed in order for the keyboard to actually become together.
 
 To corroborate what I am saying and give at least some validity to what I am saying. cookie mentions something similar [here](http://deskthority.net/photos-f62/did-a-silence-mod-on-my-topre-88ub-t5955.html#wrapper)
 
@@ -46,7 +46,7 @@ After going back to dental bands and giving them a longer trial around a month. 
 I understand that there are people who still want to find the perfect Topre silencing method. Going on the current research thin foam is the way to go. I would also like to draw attention to [this](http://deskthority.net/help-f53/silencing-rings-for-topre-rf-or-hhkb-t10051.html) interest check. This is the most promising way you will achieve the 'perfect' Topre sound.  
 I did not find the solution to my problem or even find out the cause. But I have enjoyed the process and am very happy with my current almost stock HHKB.
 
-For me, dental banding did not work, and overall was a bad experience but others may like to try it out. Here are some of the guides I found most useful:
+For me, dental banding did not work, and overall was a bad experience but others may like to try it out. Here are some guides I found most useful:
 
 * <https://geekhack.org/index.php?topic=68128.0>
 * <https://geekhack.org/index.php?topic=61502>
