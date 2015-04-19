@@ -1,0 +1,42 @@
+---
+layout: post
+title: "The Majesty of the Model M"
+description: "All about my Model M experiences and layout diffitulties. There isn't the best direction in this post."
+category: 
+tags: [Model M, SSK, xkb, IBM]
+---
+![bad model m photo]({{site-url}}/assets/modelm/modelm.jpg)
+The IBM Model M, was my first foray into mechanical keyboards. The reason for buying was part necessity and part intrigue in the mechanical keyboard world. I had just spilt coffee on my unbranded rubber dome. Yet the demise of the rubber dome was not a sad affair. I felt compelled to purchase a better keyboard. The time between the Model M and the rubber dome was filled with another rubber dome. A logitech K518. It is not a bad keyboard, certainly not the worst rubber dome. But it gave me no excitement or pleasure to type on.
+
+The reason for buying the Model M was both price and availability. At the time it seemed easy to attain. Nonetheless, it currently seems easier and cheaper to buy a Model M. So if you feel the need for a new keyboard as well as having an interest in vintage keyboards, the Model M is an incredible purchase. Not only is it a great keyboard it can be a gateway to other knowledge and interest in other keyboards. One of the great things about the Model M is the ability to modify the keyboard without breaking it. Depending on what level you are on, this might lead to new skills you learn from carrying out your own modifications.
+
+The behemoth I received was a 1391401 dated 03-31-92. I purchased it for £74.62 which is now see as a high price for the board although to the sellers credit it was in impeccable condition. Incredibly, unknown to me the purchase included a blue box, plus one of the longer ps/2 cables. This was lucky as I had disregarded thoughts on how I was actually going to be able to use the keyboard.
+
+Instantly this was a much better typing experience. But I attribute this to typing on a lacklustre rubber dome beforehand. I am glad to say that I was very excited with my new keyboard. I had never before enjoyed typing as much as I now was typing on the weight of the buckling spring. This was a new experience and a welcome one. Contrary to the previous statements the Model M is apparently not the greatest buckling spring keyboard available. Model F's are highly thought of and in most cases superior to the Model M. Considering this I have a new keyboard goal which is obtaining a kishsaver. Bold this goal may be, it is only a long term goal. 
+
+This is a very good keyboard. There isn't much more that I can say to really convey how good it is. It will last forever. Sort of. The next step wast to bolt mod my Model M. This was something that I had seen a lot of guides on and felt fairly confident doing. At the time however, there was really no reason to perform the mod. It was performing fine and all keys were functioning. But this was just a mod to increase the longevity of the keyboard. Increasing the 'feeling' of the board was also a reason behind the mod. Most of all I just wanted to do something interesting with it.
+
+What I can say is that it added some uniformity to the board. Overall the feel improved. It was a slightly sharper click. No flaky weak clicks. This is I think the final form of the Model M. The highest of the high. The only thing I resent is the layout. Standard ansi backspace positioning just infuriates me. I much prefer it to iso, but the backspace positioning holds it back. It is too far for my hands to comfortably reach. The hhkb backspace position is much more comfortable to me. Having it just a bit closer means you have to move your hand less. This has an overall positive effect on strain as well as speed. The problem that then comes with changing the standard layout, is that when typing on a standard ansi my typing becomes noticeably worse. Problems like this are becoming something that are commonplace to me. Changing to colemak has made it infinitely harder to type on a standard qwerty keyboard. So strangely all the changes that I have made to my keyboards to make them 'better', have had somewhat of a negative effect on my typing experience. But I still don't regret them.
+
+Since the layout is the only aspect that I am not satisfied with I have been looking for a solution to perfect this final aspect. One step I took was to change board. This was just a small step to getting a nicer layout in a nicer package. The change was not really necessary as well as not being in-line with my goals of changing the main layout. I bought an SSK, so although I switched boards, it is still a Model M. What this solved was having more space on the right of my keyboard, as I never used the numpad it seemed like a good decision. There was just no point in it taking up space. Changing the layout on any Model M is easy. There are quite a surprising number of options available, as I have said before the Model M's are mod friendly. Changing layouts is another aspect where this factor is in play. Despite the available options none of them are relevant to my needs. My issue is just with the backspace. Resolving this problem was just something I resorted to doing software side. I did not feel like this was a defeat as all I wanted to do is change the backslash key to backspace, since backslash is the same size as it is on a hhkb. I did not want to do any hardware mod.
+
+Changing the keyboard layout has been done in a non graceful way by awkwardly creating a new layout specifically for the SSK. I created a new layout called 'ibm' and it is located with the rest of the layouts in '/usr/share/X11/xkb/symbols' I started out by just copying the 'us' layout and renaming it to 'ibm'. Keeping it separate was a decision to be as non-destructive as possible, since I use a lot of different keyboards I want this to be a flexible solution. If I were to use the 'ibm' layout with my hhkb, I would have essentially created an ansi hhkb. This is of course a step backwards.
+
+<script src="https://gist.github.com/RoastPotatoes/fb47151c3f3ed4b93de7.js"></script>
+[Link to full layout](https://gist.github.com/RoastPotatoes/f84b08c20dce50445805)
+
+As you can see in the gist, it is just a simple change. One mistake I made was changing the default `us` layout. This refers to qwerty only. So when I was using colemak the change was not in effect, to actually change the layout you have to edit the colemak portion in the `us` file.
+The two important lines are:
+
+```
+	key <BKSL> { [    BackSpace,    BackSpace,       BackSpace,        BackSpace ] };
+	key <BKSP> { [    backslash,          bar,      asciitilde,       asciitilde ] };
+```
+
+This just shows how the two keys definitions have been switched. Now the backspace is backslash and to avoid loss of functionality, backslash is now backspace.
+
+This seemed like the perfect solution. But actually transitioning is much harder than I had anticipated. I find myself going for the old backspace position time and time again. Now the layout is virtually the same as the hhkb but I don't type on it the same. This is something I find truly peculiar. It may just indicate how differently I type on different keyboards, and I am set in my ways. Nevertheless, this has not deterred me. I am sticking with the layout as I think it will be better in the long run. At least this is what I am hoping. Another step I have to take is to bolt mod my SSK. Whilst I bolt modded my first Model M, I still haven't got around to bolt modding the SSK. I will be creating a guide on the future or at least a log of how this goes.
+
+Another option would to completely emulate the hhkb layout on the SSK. This seems to be a [common](https://geekhack.org/index.php?topic=5906.0) idea that has been done before. But it seems that the files may have been lost when ripster was banned from geekhack. Despite this I do not think this would be usable for me. For this to work you must put a Fn key somewhere. To emulate the hhkb layout on a SSK I would then have to sacrifice right shift, which for me would not work as I use both shift keys when typing. Then again the very nature of the SSK means it does not need the extended functions that come with the hhkb. So this is not something I really want to pursue.
+
+For the moment I am content with both my hhkb and my SSK. They are currently my favourite keyboards. The SSK is a joy to type on and the sound is incredible. The buckling spring is most deservingly one of the better switches available, and holds its own against today's switches.
