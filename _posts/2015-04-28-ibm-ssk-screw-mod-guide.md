@@ -30,7 +30,7 @@ My technique to remove the label was to use a hair dryer to heat the area, then 
 --------------------------
 ## Removing Existing Rivets
 ![bare](http://i.imgur.com/SRo4lC7.jpg)
-Removing the rivets is an easy task but can seem hard. I found that using a stanley blade by hand was easy enough, but in the fast I have used a chisel. I do not recommend using a chisel as this is the fastest way to blunt a chisel. When removing the rivets you must ensure you don't slip and slice the traces as these can be quite a pain to repair. Once you have removed all the rivets, carefully separate the sections. Do not be to forceful at this stage as the barrels can be quite frail.
+Removing the rivets is an easy task but can seem hard. I found that using a stanley blade by hand was easy enough, but in the past I have used a chisel. I do not recommend using a chisel as this is the fastest way to blunt a chisel. When removing the rivets you must ensure you don't slip and slice the traces as these can be quite a pain to repair. Once you have removed all the rivets, carefully separate the sections. Do not be to forceful at this stage as the barrels can be quite frail.
 ![slice](http://i.imgur.com/H9pn7o4.jpg)
 ![all off](http://i.imgur.com/vyFbdUO.jpg)
 
