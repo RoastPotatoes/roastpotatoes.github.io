@@ -55,7 +55,7 @@ If you are programming complicated things, you are able to see the currently pro
 * >  
 * ? 
 
-These layers are not programmable. These are because these are the dedicated layer and programmability keys. The Fn layer is however programmable, what this means is you could potentially 'fix' the placement of the arrow keys.
+These layers are not programmable. This is because they are the dedicated layer and programmability keys. The Fn layer is however programmable, what this means is you could potentially 'fix' the placement of the arrow keys.
 
 The programming process goes as follows. Select a programmable layout. Press Fn combined with right control. This will activate programming mode. Then press the key you desire to program. Enter your desired function of previously pressed key. Press Pn or Fn + Right control to exit the process.
 
