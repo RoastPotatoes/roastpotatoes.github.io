@@ -81,7 +81,7 @@ Six hex screws secure the case. To unscrew them I you need a 1.5mm hex bit or sc
 Inside the case, you will find a plastic insert. Whilst I don't know for definite I believe the function is to both protect the PCB from the rough texture of the case and also stop any cross conductivity.
 ![case without insert](http://i.imgur.com/iYInV93.jpg)
 
-One thing that slightly irks me, is the PCB seems to sit slightly to the right in the case. Leaving a small gap on the right side. This cannot be adjusted because of the mini USB hole in the case. The dip switches also have their own cut-out on the bottom so this also limits how much it can move. But the USB cut-out is where the problem lies. I don't believe this to be a major problem and is probably just a slight variance in manufacturing. 
+One thing that slightly irks me, is the PCB seems to sit slightly to the right in the case. Leaving a small gap on the left side. This cannot be adjusted because of the mini USB hole in the case. The dip switches also have their own cut-out on the bottom so this also limits how much it can move. But the USB cut-out is where the problem lies. I don't believe this to be a major problem and is probably just a slight variance in manufacturing. 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
