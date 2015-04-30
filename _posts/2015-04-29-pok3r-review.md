@@ -46,7 +46,7 @@ Layer 4 Indicator light
 Programming Mode
 ![both sides of led on spacebar](http://i.imgur.com/qbHabQo.jpg)
 
-If you are programming complicated things, you are able to see the currently programmed output by using the Pn key There is no visual representation of what you are programming. Programming is only done on specified layers. Whilst this is OK it is not the full programmability that was once promised. There are 3 programmable layers bar the dip switch changes. But these layers are truly programmable however there is an exception:
+If you are programming complicated things, you are able to see the currently programmed output by using the Pn key. There is no visual representation of what you are programming. Programming is only done on specified layers. Whilst this is OK it is not the full programmability that was once promised. There are 3 programmable layers bar the dip switch changes. But these layers are truly programmable however there is an exception:
 
 * Fn 
 * R_ctrl 
