@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "White ISO Vortex POK3R Review"
+title: White ISO Vortex POK3R Review
 description: ""
-category: 
-tags: [Review, POK3R, Vortex, RhinoFeed]
+category: null
+tags: 
+  - Review
+  - POK3R
+  - Vortex
+  - RhinoFeed
+published: true
 ---
+
 ![Full poker shot](http://i.imgur.com/SKaepr9.jpg)
 Vortex were kind enough to give this item to review.
 
@@ -100,7 +106,7 @@ With the PCB there are not a huge lot of things to talk about. It is red, but it
 -------------------------
 ## Keycaps
 ![profile](http://i.imgur.com/LaQxbVP.jpg)
-Another boon of the POK3R is the inclusion of PBT keycaps. There seems to be a lot of elitism in keycap territory of only using PBT. But the existence of GMK shows how good ABS keycaps are not just trash. That said people like PBT keycaps and these are a nice example of PBT. They aren't the thickest but no where near the thinnest. The texture is chalky, it feels like a finer texture than  other PBT keycaps such as SP DSA. Typing on them is quite a nice experience but I can envision that not everyone will like the texture of the keycaps. The chalky fine nature of the texture is departure from what I normally think of new PBT keycap texture to feel like. I do quite like the sound of typing on clears and the keycaps contribute to the overall sound. The only complaint is the typeface used, it's not the nicest and looks rather gaudy. I prefer blanks but since I don't actually read the keycaps I do not see this as a minor issue. But I know for certain appearance issues like this are often not well received.
+Another boon of the POK3R is the inclusion of PBT keycaps. There seems to be a lot of elitism in keycap territory of only using PBT. But the existence of GMK shows how good ABS keycaps are not just trash. That said people like PBT keycaps and these are a nice example of PBT. They aren't the thickest but no where near the thinnest. The texture is chalky, it feels like a finer texture than  other PBT keycaps such as SP DSA. Typing on them is quite a nice experience but I can envision that not everyone will like the texture of the keycaps. The chalky fine nature of the texture is departure from what I normally think of new PBT keycap texture to feel like. I do quite like the sound of typing on clears and the keycaps contribute to the overall sound. The only complaint is the typeface used, it's not the nicest and looks rather gaudy. I prefer blanks but since I don't actually read the keycaps so I see this as a minor issue. But I know for certain appearance issues like this are often not well received.
 ![thickness](http://i.imgur.com/wkuS3Gz.jpg)
 
 ![stabs backspace, and enter](http://i.imgur.com/DmH3p0V.jpg)
