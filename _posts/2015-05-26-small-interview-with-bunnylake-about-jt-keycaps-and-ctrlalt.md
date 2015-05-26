@@ -135,7 +135,7 @@ I am very proud of what we have achieved in the time period we have, there are c
 
 **Are there any more planned 'podcasts' for the <span style="color:#DEA530">{{ site.ctrlalt }}</span> blog? Although, I am not sure if this is your area.**
 
-There are indeed, I worked very closely with sent on that side of the site, however do to some personal reasons he has had to step back for a bit, so it'll either return when he does, or if he is not in a position to continue, we will certainly find someone or several people to continue it
+There are indeed, I worked very closely with sent on that side of the site, however due to some personal reasons he has had to step back for a bit, so it'll either return when he does, or if he is not in a position to continue, we will certainly find someone or several people to continue it
 
 
  <h1><span style="color: #d8d8d8">End</span></h1>
