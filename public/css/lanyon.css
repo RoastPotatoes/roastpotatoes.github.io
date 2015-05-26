@@ -26,8 +26,11 @@
  * Reverse layout
  * Themes
  */
+.ctrlalt {
+	color: #753984;
+	font-weight:normal;
 
-
+}
 /*
  * Global resets
  *
@@ -433,8 +436,22 @@ a.pagination-item:hover {
  * Apply custom color schemes by adding the appropriate class to the `body`.
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
+/* purp */
+
+.theme-base-0p .sidebar,
+.theme-base-0p .sidebar-toggle:active,
+.theme-base-0p #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #311837;
+}
+.theme-base-0p .container a,
+.theme-base-0p .sidebar-toggle,
+.theme-base-0p .related-posts li a:hover {
+  color: #753984;
+}
+
 
 /* Red */
+
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
 .theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
