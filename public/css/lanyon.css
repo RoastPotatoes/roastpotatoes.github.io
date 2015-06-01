@@ -446,7 +446,8 @@ a.pagination-item:hover {
 .theme-base-0p .container a,
 .theme-base-0p .sidebar-toggle,
 .theme-base-0p .related-posts li a:hover {
-  color: #753984;
+/*  color: #753984;*/
+	color: #3e0d4f;
 }
 
 
