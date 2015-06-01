@@ -60,9 +60,7 @@ The file is also publicly available so if you want one all you need is access to
 <http://www.shapeways.com/shops/IgKe>
 
 ## Lootkeys by whizzard
-I believe this is the same maker who made the excellent Darkside copies.
-[![t](http://i.imgur.com/r7sQy9L.jpg)](http://redd.it/34unws)
-But they are now making their own designs. As of now there is only a single completed design which is called the "Abductor". However, there are many other designs in their progress thread. My current favourite is the flux capacitor and the campfire key. From the designs shown I could say this is the most creative offering in the current artisan market.
+Lootkeys is a new keycap project started by whizzard (not completley new). As of now there is only a single completed design which is called the "Abductor". However, there are many other designs in their progress thread. My current favourite is the flux capacitor and the campfire key. From the designs shown I could say this is the most creative offering in the current artisan market.
 
 ## Defect/WinterWinds
 [![winder](http://i.imgur.com/PRntyBb.jpg)](http://redd.it/37ac0o)
@@ -89,3 +87,12 @@ The JT Debut GB is almost over. If you want Topre to MX sliders, don't miss out.
 ## MeowCaps
 If anyone is wondering what has happened they are facing 'personal issues' and there status is unknown. I hope they are OK and return soon.  
 <http://redd.it/35jwdr>
+
+## Late Addition
+### Kill4Caps
+Kill4Caps contacted me to say that I had made a mistake and they have no affiliation with whizzard. Nevertheless they are a cap maker, and they are the person behind the excellent darkside copies. For obvious reasons they are not going to sell the copies they are just for personal use. However they have been working on their own design.
+[![t](http://i.imgur.com/r7sQy9L.jpg)](http://redd.it/34unws)
+The HGF:
+![the](http://i.imgur.com/HMzqpdz.jpg)
+This is just a prototype and it is not quite ready for production. I am told other designs will follow.  
+The main reason I grew interested in this maker was the copies they produced. Although these are copies this is a demonstration of ability.
