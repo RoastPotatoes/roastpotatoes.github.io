@@ -41,7 +41,10 @@ For those who don't know the keyboardio is a new ergonomic keyboard that has bee
 
 In a bold move it is only available in Matias quiet click switches. It is unusual for a keyboard in production to stray from the more standard cherry switches, but this may mark a turn in the popularity for Matias switches.
 
-The keyboardio is RGB backlit and features NKRO rollover over usb. This is said to work on all platforms without any program running on connected devices. Macros on the other hand do not work on the keyboard but run on a separate application on your OS. This is not that great but they are working to make macros work on all platforms. All this indicates custom firmware which is not surprising, but you will likely be able to run TMK at some point. Keycaps for the keyboardio also seem like an issue. Not only are they alps but they are oddly shaped with some rounded keycaps. You are also restricted by the bulky wooden casing. So getting keycaps might be tricky.
+The keyboardio is RGB backlit and features NKRO rollover over usb. This is said to work on all platforms without any program running on connected devices. Macros run on the keyboard but where I was confused is the application awareness that runs separately on your OS. What this does is tell the keyboard what application you are in. This then enables you to have your layer automatically change when you are using a specific application. I think this could be a potentially useful feature. I am thinking more for gaming, but I am sure there are better uses.
+
+All this indicates custom firmware which is not surprising, but you will likely be able to run TMK at some point. Keycaps for the keyboardio also seem like an issue. Not only are they alps but they are oddly shaped with some rounded keycaps. You are also restricted by the bulky wooden casing. So getting keycaps might be tricky.
+
 
 I was surprised at how fast this kickstarter was funded as it seems somewhat niche. But what this does demonstrate, is people are willing to buy expensive mechanical keyboards who might not be into making their own. But even the EZ Ergodox took longer to reach their goal. I will be interested to see who is buying these and what for. 
 
