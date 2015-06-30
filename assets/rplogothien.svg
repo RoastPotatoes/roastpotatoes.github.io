@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.664204mm"
+   height="44.00349mm"
+   viewBox="0 0 129.91253 155.91787"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="rplogothien.svg"
+   inkscape:export-filename="/home/jon/g4256.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5573"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5575" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="111.07005"
+     inkscape:cy="92.354829"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4256"
+     showgrid="false"
+     fit-margin-top="4"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="4"
+     inkscape:window-width="1270"
+     inkscape:window-height="1014"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.783465,-1.5461167)">
+    <g
+       id="g4256"
+       transform="translate(2.3676822,-5.2780911)">
+      <rect
+         y="27.97098"
+         x="46.487019"
+         height="113.62434"
+         width="9.9660273"
+         id="rect4136"
+         style="opacity:1;fill-opacity:1;stroke:#ffffff;stroke-width:12.1609726;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff" />
+      <path
+         id="rect4138-4"
+         transform="matrix(0,1,-1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:13.18500042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 95.556892,-90.831169 45.258738,0 0,7.795489 -45.258738,0 z m -21.818412,7.795486 0,-40.498627 8.888342,0 0,40.498627 z m -31.096592,-40.498627 36.432888,0 0,8.94245 -36.432888,0 z m -13.947911,40.728837 0,-40.728837 8.520031,0 0,40.728837 z" />
+    </g>
+  </g>
+</svg>

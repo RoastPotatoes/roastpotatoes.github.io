@@ -26,10 +26,17 @@
  * Reverse layout
  * Themes
  */
+.sidebarlogo {
+vertical-align: middle;
+margin: auto;
+}
 .ctrlalt {
 	color: #753984;
 	font-weight:normal;
 
+}
+.right{
+     text-align: right;
 }
 /*
  * Global resets
