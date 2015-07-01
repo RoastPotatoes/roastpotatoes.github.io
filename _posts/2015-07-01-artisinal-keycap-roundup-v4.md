@@ -10,7 +10,7 @@ tags: [Katzenkinder, keycaps, Binge KappaKapps, Keyboards, Hiddenpower, GirlDC, 
 Only a small update but as a fan I like KatzenKinder information. From the [ama](http://redd.it/39bxpw) on the /r/katzenkinder subreddit, there might possible be a sale around the beginning of August.
 
 # GirlDC Surfaces
-After the banning debacle on geekhack it seems like GirlDC is expanding their opportunities and is somewhat active on /r/MK I don't like the homer vader design but the keycaps are incredibly clean. The stormtroopers are much more to my liking however they are pricey. The vader's cost [$39 on techkeys.](http://techkeys.us/collections/artisan) 
+After the banning debacle on geekhack it seems like GirlDC is expanding their opportunities and is somewhat active on /r/MK I don't like the homer vader design but the keycaps are incredibly clean. The stormtroopers are much more to my liking however they are pricey. The stormtroopers cost [$39 on techkeys.](http://techkeys.us/collections/artisan) 
 [![t](https://i.imgur.com/3GBEbka.jpg)](http://redd.it/3a1a8z)
 
 - [First Post](http://redd.it/3a1a8z)
