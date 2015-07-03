@@ -39,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="111.07005"
+     inkscape:cx="39.437523"
      inkscape:cy="92.354829"
      inkscape:document-units="px"
      inkscape:current-layer="g4256"
@@ -48,8 +48,8 @@
      fit-margin-left="5"
      fit-margin-right="5"
      fit-margin-bottom="4"
-     inkscape:window-width="1270"
-     inkscape:window-height="1014"
+     inkscape:window-width="754"
+     inkscape:window-height="1010"
      inkscape:window-x="5"
      inkscape:window-y="5"
      inkscape:window-maximized="0" />
@@ -75,16 +75,16 @@
        transform="translate(2.3676822,-5.2780911)">
       <rect
          y="27.97098"
-         x="46.487019"
+         x="46.592396"
          height="113.62434"
          width="9.9660273"
          id="rect4136"
-         style="opacity:1;fill-opacity:1;stroke:#ffffff;stroke-width:12.1609726;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.1609726;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
+         inkscape:connector-curvature="0"
          id="rect4138-4"
-         transform="matrix(0,1,-1,0,0,0)"
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:13.18500042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 95.556892,-90.831169 45.258738,0 0,7.795489 -45.258738,0 z m -21.818412,7.795486 0,-40.498627 8.888342,0 0,40.498627 z m -31.096592,-40.498627 36.432888,0 0,8.94245 -36.432888,0 z m -13.947911,40.728837 0,-40.728837 8.520031,0 0,40.728837 z" />
+         d="m 90.936547,95.556892 0,45.258738 -7.795489,0 0,-45.258738 z m -7.795486,-21.818412 40.498629,0 0,8.888342 -40.498629,0 z m 40.498629,-31.096592 0,36.432888 -8.94245,0 0,-36.432888 z m -40.728839,-13.947911 40.728839,0 0,8.520031 -40.728839,0 z" />
     </g>
   </g>
 </svg>
