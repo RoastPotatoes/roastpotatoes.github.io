@@ -63,20 +63,20 @@ The backlighting can be changed in either 1% increments or 10% and you are also 
 From the gfy's you can see the backlighting is all red apart from win Fn and Num. Fn is only blue when locked. The win key is unlocked when blue. Backspace also goes blue when on but I do not see this a lot.
 
 **Decreasing and Increasing by 10%**
-<iframe src="http://gfycat.com/ifr/SelfassuredInfamousAfricanporcupine" frameborder="0" scrolling="no" width="500" height="300" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+<iframe src="https://gfycat.com/ifr/SelfassuredInfamousAfricanporcupine" frameborder="0" scrolling="no" width="500" height="300" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
 
 **Decreasing by 1%**
-<iframe src="http://gfycat.com/ifr/FlakyGracefulAsiaticlesserfreshwaterclam" frameborder="0" scrolling="no" width="500" height="300" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+<iframe src="https://gfycat.com/ifr/FlakyGracefulAsiaticlesserfreshwaterclam" frameborder="0" scrolling="no" width="500" height="300" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
 
 **Backlight Off and On**
 <iframe src="http://gfycat.com/ifr/ImmenseHonorableAyeaye" frameborder="0" scrolling="no" width="500" height="300" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
 
 **win-lock**
-<iframe src="http://gfycat.com/ifr/UnsungLoneEeve" frameborder="0" scrolling="no" width="500" height="300" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+<iframe src="https://gfycat.com/ifr/UnsungLoneEeve" frameborder="0" scrolling="no" width="500" height="300" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
 
 **Fn Lock**
 
-<iframe src="http://gfycat.com/ifr/EuphoricRevolvingKrill" frameborder="0" scrolling="no" width="500" height="300" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+<iframe src="https://gfycat.com/ifr/EuphoricRevolvingKrill" frameborder="0" scrolling="no" width="500" height="300" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
 
 The volume keys worked out of the box on windows 8.1 and are standard XFAudio keys that can be configured in Linux based operating systems and osx. This goes the same for the other media keys play, prev and next.
 
