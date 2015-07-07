@@ -74,6 +74,8 @@ Just a heads up a sale is happening tomorrow on the 8th of July. This is featuri
 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
+For those who want to be notified of new posts I have created a mailing list. [Join it here](http://eepurl.com/bsc4wH)
+
  ------------------------------------------------
  <p style="text-align: right" title="Colemak">Typed on Cherry <font color="#FE0058">MX 6.0</font></p>
    
