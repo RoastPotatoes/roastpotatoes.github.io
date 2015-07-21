@@ -65,6 +65,14 @@ This new website is part run by or just partnered with Leeku who has created 180
 
 * [KBDcraft Website](http://kbdcraft.com/)
 
+## Realforce on Massdrop
+This is something that I though mentioning as this is the first Topre board on Massdrop. The HHKB has always been in the voting stage but nothing has ever happened. I'm not sure what this might mean for the future. But it is nice to see. It is not the greatest drop as there are only limited units available and there is one price tier. The drop also comes with 4 matt3o PBT spacebars.
+
+I can't say that I'm not tempted by this. However, I am not interested in the variable weight and not brave enough for the 55g. I also prefer the grey. All in all this will be good for some but not for others.  
+The drop is priced at $215 + shipping
+
+* [Massdrop Page](https://www.massdrop.com/buy/topre-realforce-87u)
+
 # Keycaps
 
 ## Xenics PBT Doubleshot
