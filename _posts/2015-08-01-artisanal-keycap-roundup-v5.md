@@ -18,7 +18,6 @@ On the 31st user digi and some others do seem to be getting replies from "gnome 
 * [geekhack post](https://geekhack.org/index.php?topic=45955.msg1800669#msg1800669)
 
 ## XX7 GB Concluded
-![]()
 XX7 who is a maker known for their 3d printed artisans recently held a groupbuy for some designs to reduce the production cost. I think of XX7 as producing the better 3d printed keycaps available. 
 
 XX7 is also releasing the Topre MEGATRQN file which I believe uses XX7's original stem design.
