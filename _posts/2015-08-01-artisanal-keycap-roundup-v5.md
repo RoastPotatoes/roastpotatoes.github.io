@@ -2,10 +2,11 @@
 layout: post
 title: "Artisanal Keycap Roundup #5"
 description: "A look at July's artisan keycap happenings."
+
 category: 
 - artisanroundup
 
-tags: [, geekhack, keycaps, artisans, artisan, ]
+tags: [geekhack, keycaps, artisans, artisan, ]
 ---
 
 ## ClickClack
