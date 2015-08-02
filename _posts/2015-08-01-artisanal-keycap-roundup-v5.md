@@ -67,5 +67,21 @@ With the quality from meowcaps I expect them to be high quality. But this is sti
 
 * [KeyKollectiv Website](https://keykollectiv.com)
 
+## Update
+I forgot to include two more people.
+
+## Katzenkinder
+![](http://i.imgur.com/UhMEutA.jpg)
+I am very happy to see more Katzenkinder keycaps. I am a huge fan and I am really liking the current colourways. Katz also said that this will be the last axol v1's before the relaunch.  
+There seems to be a lot of Topre in this round. Alongside a lot of axols. I am looking forward to this next sale.
+
+* [geekhack Thread](https://geekhack.org/index.php?topic=64501.600)
+
+## Binge
+![](https://i.imgur.com/By9g6Up.png)
+Binge shared a photo of some upcoming '50 shades of green' keycaps. With whatever Binge does I am always impressed with the sculpt quality.
+
+* [reddit](http://www.reddit.com/r/mechanicalkeyboards/comments/3f1lv7/_/)
+
 --------------------------------
  <p style="text-align: right" title=":(">Typed on <font color="#373737">Moto G</font></p>
