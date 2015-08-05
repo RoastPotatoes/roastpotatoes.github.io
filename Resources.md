@@ -27,12 +27,25 @@ description: ""
  * [KatzenKinder 4.0 Keycaps]({{site-url}}/2015/05/06/keycap-spotlight-katzenkinder/)
  * [The PC-TRAC Deluxe +]({{ site-url }}/2015/04/10/the-pc-trac-deluxe/)
 
+{% for post in site.categories.review %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
 ## Artisan Keycap Roundup:
 
  * [Roundup 1]({{site-url}}/2015/04/01/artisanal-keycap-roundup-v1/)
  * [Roundup 2]({{site-url}}/2015/05/01/artisanal-keycap-roundup-v2/)
- * [Roundup 3]({{site-url}}/artisanroundup/2015/06/01/artisanal-keycap-roundup-v3/)
+
+{% for post in site.categories.artisanroundup %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
 
 ## Interviews
 
 * [BunnyLake of {{ site.ctrlalt }}]({{site-url}}/2015/05/26/small-interview-with-bunnylake-about-jt-keycaps-and-ctrlalt/)
+
+{% for post in site.categories.interview %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+

@@ -30,6 +30,13 @@
 vertical-align: middle;
 margin: auto;
 }
+.footerlogo {
+vertical-align: middle;
+margin: auto;
+padding: 15px
+
+}
+
 .ctrlalt {
 	color: #753984;
 	font-weight:normal;
