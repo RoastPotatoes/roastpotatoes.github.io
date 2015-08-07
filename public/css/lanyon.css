@@ -36,7 +36,12 @@ margin: auto;
 padding: 15px
 
 }
-
+blockquote.q {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: #753984;
+  border-left: .25rem solid #e5e5e5;
+}
 .ctrlalt {
 	color: #753984;
 	font-weight:normal;
