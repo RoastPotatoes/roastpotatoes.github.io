@@ -32,7 +32,7 @@ For those who missed the announcement. The K-Type is a new tenkeyless from Input
 ## Corsair Strafe
 With the previous announcement of the Corsair strafe it appeared to be a fairly standard gaming keyboard. This week there was another announcement of two other versions. The Corsair Strafe RGB and the Corsair Strafe RGB Silent.   
 
-Instantly my interest was drawn to the silent. The new silent Strafe includes a new type of cherry switches that are quieter. The quieter switches come in brown and red variants.
+Instantly my interest was drawn to the silent. The new silent Strafe includes a new type of cherry switches that are quieter. The quieter switches come in black and red variants.
 
 ![](https://i.imgur.com/JXcHVwv.jpg)
 
