@@ -26,6 +26,17 @@
  * Reverse layout
  * Themes
  */
+.box {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 2px;
+padding-right: 2px;
+vertical-align: top;
+}
+.sale {
+	float: right;
+	right: 5px;
+}
 .sidebarlogo {
 vertical-align: middle;
 margin: auto;
@@ -36,6 +47,10 @@ margin: auto;
 padding: 15px
 
 }
+.question {
+	color: #311837
+}
+
 blockquote.q {
   padding: .5rem 1rem;
   margin: .8rem 0;
