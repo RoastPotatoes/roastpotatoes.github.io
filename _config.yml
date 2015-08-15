@@ -26,3 +26,6 @@ author:
 # Custom vars
 version:             1.0.0
 ctrlalt: <span class="ctrlalt">[CTRL]ALT</span>
+
+gems:
+- jekyll-sitemap
