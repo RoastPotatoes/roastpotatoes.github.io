@@ -68,6 +68,12 @@ These are copies of ClickClacks skull design but as fridge magnets.
 I was surprised when I saw these as they are quite out of the blue. I am not a fan of these as they are far removed from what a keycap is and it removes a bit of the novelty. Then I was mildly surprised when I found out this was not an original idea, but done before [by Clack himself.](https://geekhack.org/index.php?topic=50090.msg1089168#msg1089168)
 
 
+## POKER IV
+![](http://i.imgur.com/GJ58Rw5.jpg)
+This is a late addition and it really caught me off guard. I was not expecting to see anything about another poker iteration for a while. From the photos available. It is a staggered split 60% that has keycaps and probably uses Gateron switches. How the two sides connect, and how it connects to the computer is still up for discussion.
+
+* [Vortex Facebook Page](https://www.facebook.com/Vortexgear)
+
 
 [<p style="text-align: center"><font color="#E62E8A">Stay up-to-date with my newsletter</font></p>](http://eepurl.com/bsc4wH)
 
