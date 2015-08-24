@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview With Zeal Concerning Zealios"
-description: ""
+description: "An interview with Zeal from zealpc.net"
 category: 
 - interview
 tags: []
