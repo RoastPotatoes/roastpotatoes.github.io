@@ -4,13 +4,22 @@ title: "Week in Keyboards #10"
 description: ""
 category: 
 - weekinkeyboards
-tags: []
+tags: [keychatter, zealios, GB, artisans, artisan, keycaps, geekhack, Binge,]
 ---
 ## Zealios Groupbuy Started
 This is an interesting GB as it is the first custom switch the community has seen. It comes in both tactile and linear variants with the option of 62g, 65g and 67g variants. It is being held at [zealpc.net](http://zealpc.net/collections/group-buy-pre-orders). Each order also allows you to be in an exclusive bingecap raffle.
 
 * [Tactile Zealios](http://zealpc.net/collections/group-buy-pre-orders/products/zealio)
 * [Linear Zealios](http://zealpc.net/collections/group-buy-pre-orders/products/zealioclear-1)
+
+## Keychatter Store 
+Preparations have begun for the opening of the keychatter store.
+
+> Artisan keycaps, custom cables, custom cases, and keyboard parts coming soon!
+
+I'm not sure what artisans and products will be offered. But this is a nice direction for the store to go. I belive livingspeedbump will do something good with it.
+
+* [Keychatter Store](https://www.keychatter.com/store/)
 
 ## Shine 5 Release Date Still Murky
 
@@ -77,3 +86,8 @@ Prices:
 
 * [GB Thread](https://geekhack.org/index.php?topic=74615.0)
 
+[<p style="text-align: center"><font color="#E62E8A">Stay up-to-date with my newsletter</font></p>](http://eepurl.com/bsc4wH)
+
+
+---------------------------------
+ <p style="text-align: right" title="Equipped with Hasu's alternative controller">Typed on <font color="#373737">HHKB Pro 2</font></p>
