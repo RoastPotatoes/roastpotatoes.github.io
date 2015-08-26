@@ -15,7 +15,7 @@ relative_permalinks: true
 title:              RoastPotatoes 
 tagline:             ''
 description:         'This is where I am hoping to write about keyboards and linux.'
-url:                 roastpotatoes.github.io 
+url:                 https://roastpotatoes.github.io 
 baseurl:             /
 paginate:            5
 
