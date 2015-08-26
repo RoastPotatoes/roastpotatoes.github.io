@@ -632,7 +632,7 @@ a.pagination-item:hover {
  */
 
 .anchorjs-link {
-  color: inherit !important;
+  color:#753984;
   text-decoration: none !important; // do not underline
 }
 
@@ -643,11 +643,7 @@ a.pagination-item:hover {
   }
 }
 
-*:hover > .anchorjs-link {
-  opacity: .75;
-  // To fade links as they appear, change transition-property from 'color' to 'all'
-  transition: color .16s linear;
-}
+
 
 *:hover > .anchorjs-link:hover,
 .anchorjs-link:focus {

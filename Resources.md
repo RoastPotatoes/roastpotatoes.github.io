@@ -5,7 +5,6 @@ description: ""
 ---
 
 
----
 ## Guides:  
 * #### TMK:  
 
@@ -20,7 +19,11 @@ description: ""
 
  * [Learn your cherry switches](http://www.memrise.com/course/591463/cherry-switches/)
 
+<h2>Keycap Spotlight:</h2>
 
+{% for post in site.categories.keycapspotlight %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
 ## Reviews:
 
  * [POK3R]({{site-url}}/2015/04/29/pok3r-review/)
