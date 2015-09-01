@@ -26,7 +26,7 @@ author:
 
 # Custom vars
 version:             1.0.0
-ctrlalt: <span class="ctrlalt">[CTRL]ALT</span>
+ctrlalt: <span class="ctrlalt"><a href="https://ctrlalt.io/">[CTRL]ALT</a></span>
 
 gems:
 - jekyll-sitemap
