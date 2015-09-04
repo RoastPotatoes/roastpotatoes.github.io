@@ -181,5 +181,15 @@ This is another newcomer with a duo keycap project. Between the user Temence and
 
 * [GH Thread](https://geekhack.org/index.php?topic=74558.0)
 
+# Late Addition
+## Nubbinator
+![](http://i.imgur.com/xK15o45.jpg)
+I managed to forget Nubbinator. The first event I missed was a sale. The pay-what-you-want Shadow  Stalker and Fn sale. This was an interesting sale due to the fact it was a pay-what-you-want (minimum of $10) and there were some truly outlandish colour combinations. The design of the Fn I find interesting as it does not look like a standard  Topre Fn. Not only the texture, which is admirable for the quality, but it has much harsher corners than you see on a stock Topre cap.  
+Interesting photos have also been posted in the "Post your Nubs Thread". [This photo in particular](https://geekhack.org/index.php?topic=52829.msg1846971#msg1846971) shows some very colourful Fn's with a lot of different colours.
+ 
+
+* [Shadow Stalker and Fn Sale. Over.](https://geekhack.org/index.php?topic=73886.0)
+* [More Nubbs Here](https://geekhack.org/index.php?topic=52829.0)
+
 ---------------------------------
  <p style="text-align: right" title="Equipped with Hasu's alternative controller">Typed on <font color="#373737">HHKB Pro 2</font></p>
