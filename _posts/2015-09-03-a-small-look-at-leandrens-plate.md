@@ -59,7 +59,7 @@ This is a solid plate from what seems to be quite a successful groupbuy by Leand
 
 ![](http://i.imgur.com/ncYHf2w.jpg)
 
-Orders are over and extras are currently unavailable. If you are still looking for one watching [this thread](https://geekhack.org/index.php?topic=73666.0) is your best bet.
+Orders are over and extras are currently unavailable. If you are still looking for one, watching [this thread](https://geekhack.org/index.php?topic=73666.0) is your best bet.
 
 * [LeandreN's Blog](http://leandren.blogspot.no/)
 * [Groupbuy Thread on GH (Over)](https://geekhack.org/index.php?topic=73666.0)
