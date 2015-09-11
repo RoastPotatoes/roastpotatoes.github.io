@@ -4,6 +4,7 @@ title: "Artisanal Keycap Roundup V1"
 description: "The first issue of the Artisanal Keycap Roundup. Heavily featuring Brocaps."
 category: 
 tags: [Artisan, Keycaps, Brocaps, Topre, MX, Meowcap, kwk, hipsterpunks, Koala-T-Kaps, kudos_and_godspeed, mtn dew, Voidward, ]
+keywords: Artisan, Keycaps, Brocaps, Topre, MX, Meowcap, kwk, hipsterpunks, Koala-T-Kaps, kudos_and_godspeed, mtn dew, Voidward, geekhack, artisankeycaps, keycaps, artisans, custom,
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}

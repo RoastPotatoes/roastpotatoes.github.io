@@ -4,6 +4,7 @@ title: "The PC-TRAC Deluxe +"
 description: "Review and overview of PC-TRAC Deluxe + / CST PC-Trac"
 category: 
 tags: [Trackball, CST, Vintage, Mice, Balls, Logitech, M310, Review, PC-TRAC,]
+keywords: trackball, pointing, device, cst, pc-trac, logitech, balls, mice, vintage, trackballs, DPI, kidtrac, omron, switches, logitech, review, microspeed,
 ---
 ![box](http://i.imgur.com/He8rqU5.jpg)
 Another thing that I have learnt through my exploration of keyboards is appreciating older technology or peripherals. I have grown to appreciate and often favour the older design of keyboards. I particularly like the pearl and pebble colours scheme of the Model M. This is also something that I like in the HHKB. Even though it isn't quite the pearl and pebble combination I really like that simple scheme over other brighter keycaps.

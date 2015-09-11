@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "The Universal Model M Controller"
-description: ""
+description: "Spotlight on a fully programmable controller for the IBM Model M."
 category: 
 tags: [phosphowglow, TMK, controller,]
 date: 2015-04-13 21:00
+keywords: IBM, model, m, keyboard, clicky, buckling, spring, phosphorglow, tmk, deskthority, programmable, controller,
 ---
 [![version 1.0](http://deskthority.net/resources/image/19918)](http://deskthority.net/workshop-f7/universal-model-m-controller-t9820-120.html?hilit=bom)
 I have said before that I like programmable keyboards. So there is a project that I am really looking forward to. That is the Universal Model M controller. Started by phosphorglow, the Universal Model M controller does what it sounds like. The goal it to create a universal controller which will fit in any Model M and allow you to run custom firmware. At the moment it is being designed so it is able to run TMK. I think this is fine as this is currently the best firmware available. 

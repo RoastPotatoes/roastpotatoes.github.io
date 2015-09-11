@@ -5,11 +5,20 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+{% if page.description %}
+<meta name="description" content="{{ page.description }}" />
+{% endif %}
+
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }}" />
+{% else %}
+ <meta name="keywords" content="mechanical, mechanical keyboards, keyboards, switches, plates, artisan, artisans, keycaps, custom, keycaps, cherry, topre, " />
+{% endif %}
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {{ page.title }}
     {% endif %}
   </title>
 

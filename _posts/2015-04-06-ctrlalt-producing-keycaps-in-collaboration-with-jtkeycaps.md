@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "[CTRL]ALT Producing Keycaps in Collaboration With JTKeycaps"
-description: ""
+description: "[CTRL]ALT producing keycaps with manufacturer JTKeycaps."
 category: 
 tags: ["[CTRL]ALT", Keycaps, ABS, Doubleshot, News]
+keywords: ctrl, alt, keycaps, GMK, JTKeycaps, ABS, doubleshot, keyset, custom , keyboard, keyboards, mechanical,
 ---
 **Note:**  
 I would just like to make it clear and reiterate that this is in fact a joint venture between [CTRL]ALT and JTKeycaps. [CTRL]ALT is not manufacturing the keycaps by themselves.

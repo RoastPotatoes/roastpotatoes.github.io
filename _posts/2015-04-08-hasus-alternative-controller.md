@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Hasu's Alternative Controller"
-description: ""
+description: "How to use and install Hasu's alternative controller in the HHKB Pro 2"
 category: 
 tags: [Hasu, HHKB, Controller, TMK]
 date: 2015-04-08 19:00 
+keywords: Hasu, TMK, Controller, Alternative, hhkb, topre, japan, topre, 45g, colemak, keymap, firmware, ergodox, keybinds, macros, geekhack,
 ---
 ![alt controller](http://i.imgur.com/Bx3iYsn.jpg)  
 One of the first things I wanted to do when I got my HHKB was to customize the layout. This was mostly because I use colemak and to change the layout I had to do this software side on my computer. This was annoying as it meant having multiple configurations for all of my layouts. I also ran into problems with my window manager not working properly. Another problem this caused was that I already had a programmable keyboard (my ergodox) that was programmed to use colemak. This meant the computer had to be set to qwerty so the scancodes were interpreted as colemak. Since all my keyboards aren't programmable, this caused problems. So instead of taking the easy decision and just having everything qwerty apart from my X configuration, I chose to get as many programmable keyboards as possible.

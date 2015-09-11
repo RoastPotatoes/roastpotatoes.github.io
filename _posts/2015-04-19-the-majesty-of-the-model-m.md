@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Majesty of the Model M"
-description: "All about my Model M experiences and layout diffitulties. There isn't the best direction in this post."
+description: "All about my experiences with the Model M and layout difficulties and why you should consider an older keyboard. "
 category: 
 tags: [Model M, SSK, xkb, IBM]
 ---

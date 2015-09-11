@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Introduction to the TMK Firmware"
-description: ""
+description: "A guide and introduction to get started with the TMK firmware commonly used for custom keyboard projects."
 category: 
 tags: [ErgoDox, TMK, Firmware, Keyboards, How-To]
+keywords: ErgoDox, TMK, Firmware, Mechanical, mechanical, keyboard, keyboards, geekhack, custom, split keybord, ergonomic, split, project, hasu, roastpotatoes, roast, potatoes,
 ---
 Just after I got my head around building the actual firmware I realised that I did not really understand how to customize and utilise the TMK firmware to make use of its unique features. This of course is necessary to do anything interesting at all. Even though there is some quite comprehensive documentation on the firmware, I still found it quite hard to get my head around. In this post I am aiming to make it a little easier to understand. I would just like to make it a little more understandable so more people can use it.  
 ## Introduction

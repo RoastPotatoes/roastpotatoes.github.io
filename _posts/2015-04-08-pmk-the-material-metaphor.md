@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "PMK: The Material Metaphor"
-description: ""
+description: "All about the Material Metaphor Keyset Interest Check on Signature Plastics."
 category: 
 tags: [PMK, Material Metaphor, Keycaps, Giveaway]
+keywords: keyset, interest check, geekhack, keyset, custom, mechanical, keyboard, keyboards, shining, wing, pimpmykeyboard, signatureplastics, signature, plastic, roast, potatoes, roastpotatoes, material,  metaphor, design, abs, doubleshot, pbt,
 ---
 PMK have asked me to create an overview of the set and this article was created for promotion. Whilst this is true these are my own thoughts and what I think of ShiningWing's design. Please note that I have been offered the keyset if it were to tip in payment for this post.
 

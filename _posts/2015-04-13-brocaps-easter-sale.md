@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brocaps Easter Sale
-description: ""
+description: "Brocaps sale notification."
 category: null
 tags: 
   - Brocaps
@@ -10,6 +10,7 @@ tags:
   - Topre
   - Easter
 published: true
+keywords: brobots, brocaps, geekhack, artisan, keycaps,
 ---
 
 [![pastel brobots](http://i.imgur.com/rjnl1QI.jpg)](https://geekhack.org/index.php?topic=70928.0)

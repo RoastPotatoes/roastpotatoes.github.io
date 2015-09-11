@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "ErgoDox Infinity"
-description: ""
+description: "About the newly announced ErgoDox iteration by Input Club."
 category:
 tags: [ErgoDox, huh, News, HaaTa, KLL]
+keywords: ErgoDox, ergodox, ergo, dox, Infinity, input club, massdrop, input, club,  mechanical, keyboard, keyboards, pcb, backlighting, with, LED,
 ---
 ![The ErgoDox Infinity looks like the ErgoDox with a screen!]({{site-url}}/assets/ergodox/ergodox-infinity.png)
  *image property of Andrew Lekashman*

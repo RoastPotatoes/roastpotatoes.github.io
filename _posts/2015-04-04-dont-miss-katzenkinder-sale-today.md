@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Miss KatzenKinder Sale Today"
-description: ""
+description: "Katzenkinder sale announcement."
 category: null
 tags: 
   - KatzenKinder
@@ -10,6 +10,7 @@ tags:
   - Sale
   - Geekhack
 published: true
+keywords: geekhack, sale, artisans, keysaps, KatzenKinder,
 ---
 
 The sale is taking place sometime today. It should be taking place somewhere on geekhack. At the moment it looks like it will be taking the form of a 24 hour raffle similar to how brocaps orchestrates his sales.  
@@ -19,4 +20,4 @@ I will update with a link to the sale as it happens.
 
 **Update**  
 It's almost happening. Main [thread](https://geekhack.org/index.php?topic=64501.0) has been updated with images of the caps included in the sale.
-Goodle doc for orders has been added.
+Google doc for orders has been added.

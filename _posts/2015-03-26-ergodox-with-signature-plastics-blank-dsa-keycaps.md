@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "The ErgoDox Experience"
-description: ""
+description: "A review of sorts of the whole ErgoDox usage experience with signature plastics keycaps."
 category: 
 tags: [ErgoDox, Review, Signature Plastics, FalbaTech, RoastPotatoes]
+keywords: ErgoDox, Signature Plastics, Signature, plastics, Falbatech, DSA, Keycaps, pbt, Falbatech, Howto, Build, Hand-made, geekhack, reddit, /r/mk, roastpotatoes, roast, potatoes,
 ---
 ![The Main ErgoDox]({{ site-url}}/assets/ergodox/2015-03-26-011.jpg)
 The ErgoDox is one of my favourite keyboards. It was also the first that I built myself. It is both advantageous because of its layout but also because of its easily customisable  nature.

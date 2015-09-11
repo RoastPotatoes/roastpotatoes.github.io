@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Small Look at LeandreN's 60% Plate"
-description: "A look at the in progress groupbuy for aluminium 60% plates."
+description: "A look at the in progress groupbuy for aluminium 60% plates by LeandreN over on geekhack."
 category: 
 tags: [groupbuy, leandren, geekhack, plate, keyboard]
 ---
