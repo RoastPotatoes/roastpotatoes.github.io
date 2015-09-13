@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "K3KC Interview"
-description: "Interview with the infamous artisan maker K3KC"
+description: "Interview with the infamous artisan maker K3KC. Most known for creating copies of clack skulls."
 category: 
 - interview
 tags: [K3KC, Controversy, keycaps, artisans, bro, sculls,]

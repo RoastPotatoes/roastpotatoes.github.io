@@ -1,7 +1,7 @@
 ---
 layout: post
 title: White ISO Vortex POK3R Review
-description: ""
+description: "A review of the long awaited follow up to the popular mechanical keybord the Poker II. This is the POK3R."
 category: null
 tags: 
   - Review

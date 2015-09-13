@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artisanal Keycap Roundup V2"
-description: "Keycap roundup for april"
+description: "Artisan Keycap roundup for April of 2015, again heavily featuring brocaps."
 category: 
 tags: [Keycap, Artisan, Brocaps, KatzenKinder, YM_Industries, CTRLALT, Girldc, HOTKEYS, Krytone, igke, buckling, defect]
 ---

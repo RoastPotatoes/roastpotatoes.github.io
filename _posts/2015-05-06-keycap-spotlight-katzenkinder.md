@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keycap Spotlight: KatzenKinder"
-description: ""
+description: "An introduction to the artisan keycap maker KatzenKinder."
 category: 
 tags: [Artisan, KatzenKinder, Keycaps, Keycap Spotlight,]
 ---

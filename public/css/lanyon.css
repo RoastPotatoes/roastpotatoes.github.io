@@ -627,26 +627,11 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
-/**
- * Link placement and hover behavior.
- */
-
 .anchorjs-link {
-  color:#753984;
-  text-decoration: none !important; // do not underline
-}
+  display: inline-block;
+  width: 14px;
+  height: 24px;
+  text-decoration: none !important;
+  color: #753984;
 
-@media (max-width: 768px) {
-  // do not display AnchorJS icon on less than 768px view point
-  .anchorjs-link {
-    display: none;
-  }
-}
-
-
-
-*:hover > .anchorjs-link:hover,
-.anchorjs-link:focus {
-  text-decoration: none !important; // do not underline
-  opacity: 1;
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week in Keyboards #1"
-description: ""
+description: "What happened this week in keyboards. Keyboardio kickstarter, atomic PCB and more."
 category: 
 - weekinkeyboards
 tags: [sonder, keyboard, e-ink, atomic, ortholinear, Jack Humbert, Keyboardio, Matias, Kinesis,]

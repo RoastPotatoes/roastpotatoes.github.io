@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artisanal Keycap Roundup V3"
-description: ""
+description: "The third keycap roundup for. Most notably the first appearance of Whizzard."
 category: 
 - artisanroundup
 tags: []

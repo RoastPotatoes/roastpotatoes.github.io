@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Small Interview with BunnyLake of [CTRL]ALT"
-description: ""
+description: "An interview with BunnyLake concerning the newly announced keyset from JTKeycaps."
 category: 
 tags: [ctrlalt, BunnyLake, JT Keycaps, Doubleshot, Interview]
 ---
