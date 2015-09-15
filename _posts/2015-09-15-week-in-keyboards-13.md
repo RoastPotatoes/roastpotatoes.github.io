@@ -3,6 +3,8 @@ layout: post
 title: "Week in Keyboards #13"
 description: "The 13th Week in Keyboards. Ace switches and new DIY cable colours."
 category: 
+- weekinkeyboards
+
 tags: []
 ---
 
