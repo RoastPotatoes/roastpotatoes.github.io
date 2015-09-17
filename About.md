@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: ""
+description: "What this blog is about. TL;DR It is about mechanical keyboards and artisan keycaps."
 ---
 This is a blog that is primarily about Mechanical Keyboards and various input devices. This occasionally includes trackballs when I can get them.
 
