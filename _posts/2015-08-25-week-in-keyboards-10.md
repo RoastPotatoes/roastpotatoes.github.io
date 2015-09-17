@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week in Keyboards #10"
-description: ""
+description: "Week 10 in Keyboards featuring the keychatter store and an unknown release date for the Ducky Shine 5."
 category: 
 - weekinkeyboards
 tags: [keychatter, zealios, GB, artisans, artisan, keycaps, geekhack, Binge,]

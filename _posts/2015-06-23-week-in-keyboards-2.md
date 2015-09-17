@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week in Keyboards #2"
-description: ""
+description: "The second week in keyboards, featuring cherry 6.0, blahlicus and a new UK vendor."
 category: 
 - weekinkeyboards
 tags: [Cherry, Keycaps, Keyboards, News, 6.0, Massdrop, massdrop, Royal Kludge, Keycaps, Ducky,]

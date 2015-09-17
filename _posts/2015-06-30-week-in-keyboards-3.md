@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week in Keyboards #3"
-description: ""
+description: "The third edition of this week in keyboards. Featuring the Infinity Ergodox, a new backlit keyboard and an Osu keyboard."
 category: 
 - weekinkeyboards
 tags: [Cherry, MX, Mechanical Keyboards,  Keyboards, TextBlade, 6.0, QuickFire, Coolermaster,Matt3o]

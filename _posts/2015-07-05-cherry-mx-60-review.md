@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cherry MX 6.0 Review"
-description: ""
+description: "The new aluminium keyboard from the popular switch manufacturer Cherry. The 6.0 is an interesting offering in a high quality package."
 category: 
 - review
 tags: [review, Cherry 6.0, red, ]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IBM SSK Screw Mod Guide"
-description: "A short guide on the ssk screw mod process"
+description: "How to perform a bolt mod on an IBM SSK buckling spring keyboard."
 category: 
 tags: [Guide, How-to, SSK, Model M, Potato, screw mod,]
 ---

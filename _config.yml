@@ -13,7 +13,7 @@ relative_permalinks: true
 # Setup
 title:              RoastPotatoes 
 tagline:             ''
-description:         'This is a blog about mechanical keyboards and and input devices. Artisan keycaps also crop up quite a lot.'
+description:         'This is a blog about mechanical keyboards and artisan keycaps'
 url:                 https://roastpotatoes.github.io 
 baseurl:             /
 paginate:            3

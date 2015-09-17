@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week in Keyboards #6"
-description: ""
+description: "An awesome new custom keyboard the TGR-Jane, geekhack fundraiser and the boardmakers podcast."
 category: 
 - weekinkeyboards
 

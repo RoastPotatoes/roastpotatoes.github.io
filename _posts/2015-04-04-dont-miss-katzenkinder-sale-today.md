@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Miss KatzenKinder Sale Today"
-description: "Katzenkinder sale announcement."
+description: "Katzenkinder Artisan Keycap's sale announcement."
 category: null
 tags: 
   - KatzenKinder

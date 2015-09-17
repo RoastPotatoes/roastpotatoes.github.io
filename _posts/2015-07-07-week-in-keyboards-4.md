@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week in Keyboards #4"
-description: ""
+description: "Week in Keyboards featuring the Diverge II, split ergonomic ergodox alternative keyboard."
 category: 
 - weekinkeyboards
 tags: [keyboard, Diverge, Blahlicus, Geekhack,]

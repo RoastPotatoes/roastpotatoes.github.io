@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artisinal Keycap Roundup V4"
-description: ""
+description:  "Artisan Keycaps in the month of June. Featuring Katzenkinder, Binge KappaKapps, Hiddenpower, GirlDC, Ctrlalt, Brocaps, XX7 and kudos and godspeed."
 category: 
 - artisanroundup
 tags: [Katzenkinder, keycaps, Binge KappaKapps, Keyboards, Hiddenpower, GirlDC, Ctrlalt, Brocaps, Bronads,]
