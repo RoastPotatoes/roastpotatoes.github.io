@@ -3,7 +3,11 @@ layout: post
 title: "Artisanal Keycap Roundup V2"
 description: "Artisan Keycap roundup for April of 2015, again heavily featuring brocaps."
 category: 
+- artisanroundup
+
 tags: [Keycap, Artisan, Brocaps, KatzenKinder, YM_Industries, CTRLALT, Girldc, HOTKEYS, Krytone, igke, buckling, defect]
+
+redirect_from: "/2015/05/01/artisanal-keycap-roundup-v2/"
 ---
 ## Brocaps
 Quite excitingly Brocaps has been very active recently. Straight into April Brocaps introduced his new line of keycaps "Precision Gaming".

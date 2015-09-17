@@ -13,7 +13,7 @@ relative_permalinks: true
 # Setup
 title:              RoastPotatoes 
 tagline:             ''
-description:         'This is where I am hoping to write about keyboards and linux.'
+description:         'This is a blog about mechanical keyboards and and input devices. Artisan keycaps also crop up quite a lot.'
 url:                 https://roastpotatoes.github.io 
 baseurl:             /
 paginate:            3
@@ -30,3 +30,4 @@ ctrlalt: <span class="ctrlalt"><a href="https://ctrlalt.io/">[CTRL]ALT</a></span
 
 gems:
 - jekyll-sitemap
+- jekyll-redirect-from

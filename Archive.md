@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: ""
+description: "All this blogs information and content on mechanical keyboards and input devices."
 ---
 
 ## Guides:  
@@ -35,19 +35,19 @@ description: ""
 
 ## Artisan Keycap Roundup:
 
- * [Roundup 1]({{site-url}}/2015/04/01/artisanal-keycap-roundup-v1/)
- * [Roundup 2]({{site-url}}/2015/05/01/artisanal-keycap-roundup-v2/)
-
 {% for post in site.categories.artisanroundup %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
 ## Interviews
 
-* [BunnyLake of {{ site.ctrlalt }}]({{site-url}}/2015/05/26/small-interview-with-bunnylake-about-jt-keycaps-and-ctrlalt/)
-
 {% for post in site.categories.interview %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
 
+## Week in Keyboards 
+
+{% for post in site.categories.weekinkeyboards %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}

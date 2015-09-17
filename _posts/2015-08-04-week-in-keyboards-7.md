@@ -3,7 +3,10 @@ layout: post
 title: "Week in Keyboards #7"
 description: ""
 category: 
+- weekinkeyboards
+
 tags: []
+redirect_from: "/2015/08/04/week-in-keyboards-7/"
 ---
 I have improved my organisation for this week and hopefully should have better coverage.
 

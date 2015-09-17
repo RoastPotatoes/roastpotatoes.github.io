@@ -4,6 +4,7 @@ title: "Week in Keyboards #9"
 description: ""
 category: "weekinkeyboards"
 tags: []
+redirect_from: "/2015/08/18/week-in-keyboards-9/"
 ---
 ## Matt3o Designing Next Topre Keyset
 I thought this was the biggest news from last week, and definitely one of the more interesting things to happen. With the recent development in Topre keycaps such as [JTKeycaps](https://geekhack.org/index.php?topic=71630.0) and the [pbt spacebar](https://geekhack.org/index.php?topic=72127.0), it was always a possibility that more Topre keysets were on the horizon. What's interesting about this news, is the fact it is being created in liaison with the community, and it is also going to be made by Topre.

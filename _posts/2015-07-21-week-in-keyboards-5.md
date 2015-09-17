@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Week in Keyboards #5"
+title: "Week in Keyboards V5"
 description: ""
 category: 
 - weekinkeyboards
 
 tags: [Keyboardr, Atomic, Ortholinear, Keyboardio, KC60, AUNK, Smart68]
+redirect_from: "/2015/07/21-week-in-keyboards-5/"
 ---
-I was away last week and I regret not writing the week in  keyboards for that week. This week I will cover everything for this week, and the week I missed. Sorry for the inconvenience. 
+I was away last week and I regret not writing the week in keyboards for that week. This week I will cover everything for this week, and the week I missed. Sorry for the inconvenience. 
 
 # Keyboards
 ## Smart68

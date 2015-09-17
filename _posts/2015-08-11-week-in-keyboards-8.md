@@ -3,7 +3,10 @@ layout: post
 title: "Week in Keyboards #8"
 description: ""
 category: 
+- weekinkeyboards
+
 tags: []
+redirect_from: "/2015/08/11/week-in-keyboards-8/"
 ---
 
 ## Triumph Adler Lands

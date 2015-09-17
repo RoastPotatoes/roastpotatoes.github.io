@@ -3,7 +3,10 @@ layout: post
 title: "Small Interview with BunnyLake of [CTRL]ALT"
 description: "An interview with BunnyLake concerning the newly announced keyset from JTKeycaps."
 category: 
+- interview
+
 tags: [ctrlalt, BunnyLake, JT Keycaps, Doubleshot, Interview]
+redirect_from: "/2015/05/26/small-interview-with-bunnylake-about-jt-keycaps-and-ctrlalt/"
 ---
 ![ctrlaltlogo]({{ site-url }}/assets/ctrlalt/ctrlaltfinal.png)
 I have wanted to talk to BunnyLake for a while since the announcement of the JT Keycaps GB. I have always found {{ site.ctrlalt }} to be one of the more reliable stable platforms in the community. So it's no secret I'm kind of a fan of their entire ethos. You will probably be able to tell by some questions I asked. But the main reason for this interview was the JT Keycaps announcement. It a new step in the community as this is a community group, who have managed to get some form of keycap production service that it suited to how the community consumes these types of keycaps.

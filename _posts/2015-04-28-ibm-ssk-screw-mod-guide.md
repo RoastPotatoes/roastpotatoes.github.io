@@ -12,12 +12,12 @@ To make the holes I just used a 1.5mm drill bit.
 ------------------
 ## Remove Case and Keycaps
 The case is simple to remove if you have a 5.5mm driver. Without one I suggest using the biro trick. This involves melting the end of a biro and sticking it over a bolt to form the perfect driver. Doing this is surprisingly effective although you might find it takes a couple of tries. For me this took a huge amount of tries but satisfiable when it worked, if you don't want to do this I suggest you invest in a 5.5mm nut driver.  
-![rm case](http://i.imgur.com/EoNScJZ.jpg)
+![IBM SSK Without Top Plate](http://i.imgur.com/EoNScJZ.jpg)
 
 Once you have the case open, detach the controller. Use enough force until it just slides out, at this stage it is fairly hard to break.  
 First remove the keycaps. You cannot put the keyboard together with the keycaps still attached because of how the springs are pushed in even when not pressed. So to get anywhere with this mod the keycaps must be removed first.  
 Once you have all the keycaps removed be, careful not to bend any of the exposed springs. This is easier to do than you think.
-![rm keycaps](http://i.imgur.com/g8fS5Vc.jpg) 
+![Visible buckling springs](http://i.imgur.com/g8fS5Vc.jpg) 
 
 ----------------------------------
 ## label 

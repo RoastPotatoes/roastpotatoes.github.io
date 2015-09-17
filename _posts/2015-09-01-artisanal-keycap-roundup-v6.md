@@ -34,24 +34,24 @@ I tried to come up with a decent sounding name for the sudden event of keycap sa
 
 ### KatzenKinder Revive Sale
 This was the first official KatzenKinder sale in a while. Small sales were sporadically placed on mechmarket but this was a mega sale with a new design. Previously unnamed, the new design is now Monkey King.
-![](http://i.imgur.com/GSg3XA5.jpg)
+![KatzenKinder Artisan Keycaps Monkey King](http://i.imgur.com/GSg3XA5.jpg)
 
 * [KatzenKinder Thread](https://geekhack.org/index.php?topic=64501.0)
 
 ### Binge
-![](http://i.imgur.com/4Aveifa.jpg)
+![Binge Artisans: skulthulu slo-fi](http://i.imgur.com/4Aveifa.jpg)
 Binge also had a sale on the 28th. This took place on his site and was titled "50 Shades of Green" and for obvious reasons featured a menagerie of different green caps. The excitement quickly overran the site which resulted in tumultuous checkout. Despite the troubles, the site did become usable and everything quickly sold out. Needless to say I did not get any. This was a good sale and the keycaps look awesome, Binge is certainly a maker to admire.
 
 * [General Binge Thread](https://geekhack.org/index.php?topic=46284.0)
 
 After the sale, Binge also released photos of the exclusive Zealio themed bingecaps.
 
-[![](http://i.imgur.com/SbZznQW.jpg)](https://geekhack.org/index.php?topic=46284.msg1851513#msg1851513)
+[![Exclusive Zealio Slo-fi artisan keycap](http://i.imgur.com/SbZznQW.jpg)](https://geekhack.org/index.php?topic=46284.msg1851513#msg1851513)
 
 To get a chance of winning this keycap you have to purchase some [zealios](http://zealpc.net/collections/group-buy-pre-orders). This is a good GB to support even without the Binge incentive as it is a keyboard community first.
 
 ### HKP
-![](http://i.imgur.com/vhXibN4.jpg)
+![REd and white HOT keys project G2 Artisan cap](http://i.imgur.com/vhXibN4.jpg)
 Although not a rushed sale it also began on the 28th. Included in this sale are:
 
 * Warmasters
@@ -78,7 +78,7 @@ It is cool to see some more custom spacebars and Doom Cap's patterns are like no
 * [Order Info](https://geekhack.org/index.php?topic=71990.0)
 
 ## KeyKollectiv
-![](https://i.imgur.com/ReyJvyT.jpg)
+![Keykollectiv blue artisan modifier set](https://i.imgur.com/ReyJvyT.jpg)
 I am referring to KeyKollectiv as a Kollectiv as they are definitely onto bigger things. KeyKollectiv came out of nowhere and completely stepped up their keycap operation. They offered complete modifier sets for the HHKB, Realforce and FC660C. There was an incredible amount of choice on offer. You were able to buy a single colour set or customise your own and choose as many colours as possible. Because of the large scale, these are all made to order. This is more similar to how Martin of HKP runs his sales. Again because of how large scale this was, it was limited to 15 orders, so if you didn't get in just wait for the future.  
 A bonus boombox keycap is also being included in this sale.
 
@@ -86,13 +86,13 @@ A bonus boombox keycap is also being included in this sale.
 
 ## Krytone
 The Krap sales this time are hosted on [mechanicalkeyboards.co.id](http://mechanicalkeyboards.co.id/) which is a new keycap and keyboard retailer. The initial launch of Krap on [mechanicalkeyboards.co.id](http://mechanicalkeyboards.co.id/) featured an exclusive white and red colourway.
-[![](http://i.imgur.com/090m05m.jpg)](https://geekhack.org/index.php?topic=63758.msg1837265#msg1837265)
+[![mechanicalkeyboards.co.id exclusive krap artisan](http://i.imgur.com/090m05m.jpg)](https://geekhack.org/index.php?topic=63758.msg1837265#msg1837265)
 I thought the red and white looked stunning and I am ashamed to have missed out.
 This sold out quite quickly and new colours are available. See [here](http://mechanicalkeyboards.co.id/products/filter/col=keycaps) for what's currently left.
 
 
 ## War of Betrayal
-![](http://i.imgur.com/rh5IWcL.jpg?1)
+![WoB artisan keycaps](http://i.imgur.com/rh5IWcL.jpg?1)
 
 Whilst the mega sale happened you also had the opportunity to get some WoB caps. I believe this is the second sale featuring two new designs. This sale started on the 23rd and should run for one week, but the sale form is still up. So I suggest getting in while you can. These are another example of very high quality and they come in some packaging that I would very much enjoy.
 
@@ -193,3 +193,4 @@ Interesting photos have also been posted in the "Post your Nubs Thread". [This p
 
 ---------------------------------
  <p style="text-align: right" title="Equipped with Hasu's alternative controller">Typed on <font color="#373737">HHKB Pro 2</font></p>
+
