@@ -22,8 +22,10 @@
 	
 
       </div>
- <script>anchors.add('.post');</script>     
-      <div class="container content">
+  <script>anchors.add();
+anchors.remove('.masthead-title, h1');
+ </script>
+ <div class="container content">
         {{ content }}
       </div>
     </div>
