@@ -26,6 +26,12 @@
  * Reverse layout
  * Themes
  */
+.video 
+{
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+}
 .keyboard {
 	text-decoration: none;
 }
@@ -372,7 +378,7 @@ a.sidebar-nav-item:focus {
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+  /*border-top: 1px solid #eee;*/
 }
 .related-posts {
   padding-left: 0;

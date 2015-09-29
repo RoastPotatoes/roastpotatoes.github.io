@@ -6,7 +6,7 @@ category:
 - review
 tags: [review, Cherry 6.0, red, ]
 ---
-![ts](http://i.imgur.com/koKg0R8.jpg)
+![The Cherry Mx 6.0](http://i.imgur.com/koKg0R8.jpg)
 
 The Cherry MX 6.0 is full-size backlit keyboard with media and function keys. The main selling point of this keyboard is the RealKey technology, which is supposed to reduce the latency of key presses to 01.00 ms. I will talk about this later. 
 

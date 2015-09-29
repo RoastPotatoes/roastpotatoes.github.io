@@ -7,7 +7,7 @@ This is a blog that is primarily about Mechanical Keyboards and various input de
 
 I try to focus on a variety of different keyboards including the stock and custom variety that is popular in the community.
 
-The other major feature of this blog is Artisan/Artisanal keycaps. I try to cover what as much about the Artisan keycaps that I am able to find every month. 
+The other major feature of this blog is Artisan/Artisanal keycaps. I try to cover as much about the Artisan keycaps that I am able to find every month. 
 
 If you are interested in Mechanical Keyboards I suggest you visit:
 
