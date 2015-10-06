@@ -14,6 +14,10 @@ Overall I find the core of the input club to be relevant to the communities inte
 ![]({{ site-url }}/assets/ktype/2-5.jpg)
 *This is an early render*
 
+**06/10/15 New Renders**
+![The K-type](http://i.imgur.com/3bchOJo.jpg)
+![side angle K-type](http://i.imgur.com/9v4sliP.jpg)
+
 The new keyboard project from Input Club is the K Type. The following is the official press release from Input Club.
 
 >The K Type will be a stock Ten Keyless keyboard.
