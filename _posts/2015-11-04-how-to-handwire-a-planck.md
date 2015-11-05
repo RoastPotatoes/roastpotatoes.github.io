@@ -48,7 +48,7 @@ To fully complete the diode rows you will have to solder both point A and B. If 
 ## Wiring Columns
 The next part is probably the worst. This is because it requires preparing the wire which can be quite fiddly if you don't have any wire cutting tools.
 
-The best way to do this is to measure your wire against your planck. You want to create something like this (but vertical). You want to keep as much of the wire's insulation as possible as it can bee quite hectic in a hand wired board.
+The best way to do this is to measure your wire against your planck. You want to create something like this (but vertical). You want to keep as much of the wire's insulation as possible as it can be quite hectic in a hand wired board.
 
 ![How column wires should look](/assets/planck-hand-wire-guide/wire-look.png)
 
