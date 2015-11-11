@@ -88,7 +88,7 @@ This is a very rare GB and is the first of its kind at this scale.
 
 * [Deskthority F72 and F77 Thread](http://deskthority.net/group-buys-f50/brand-new-f62-kishsaver-f77-industrial-model-f-s-made-this-year-t11046.html)
  
-* <del>My Post</del>(Soon)
+* [My Post]({{ site-url }}news/2015/11/11/the-kishsaver-f62-and-f77-revival-project/)
 
 
 Keyboard Links of Interest:
