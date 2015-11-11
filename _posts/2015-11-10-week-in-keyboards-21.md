@@ -3,6 +3,8 @@ layout: post
 title: "Week in Keyboards #21"
 description: ""
 category: 
+- weekinkeyboards
+
 tags: []
 ---
 
