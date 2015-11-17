@@ -48,6 +48,13 @@ It is also worth mentioning the new board makers episode.
 
 * [Episode 21 Discussion - Looking at Massdrop data, automated Planck distribution, and launching keyboards into space](https://soundcloud.com/board-makers/episode-21)
 
+## TGR-Jane GB
+![TGR Jane red](http://i.imgur.com/dt7PPua.jpg)
+This is a very popular TKL GB that sold out very quickly. I believe in around 10 minutes all 25 spaces were taken. It is a very impressive keyboard all round and quite deserving of the price ($420 ish). It is a highly polished aluminium TKL with one of my favourite fancy features, the brass weight insert.
+
+* [TGR-Jane IC Thread. Lots of information.](https://geekhack.org/index.php?topic=76672.0)
+* [TGR-Jane GB Thread.](https://geekhack.org/index.php?topic=76964.0)
+
 ## The HacKeyboard
 Created by masaleiro in DT. This is a very nice custom build all round. On the surface it is just an alps TKL but it does have some additional features that make it stand out.
 
