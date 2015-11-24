@@ -97,6 +97,6 @@ Keyboard Links of Interest:
 * [Vertigo Keyboard (Split Custom)](https://redd.it/3rzavc)
 
 ---------------------------------
- <p style="text-align: right" title="Equipped with Hasu's alternative controller">Typed on <font color="#373737">HHKB Pro 2</font></p>
+ <p style="text-align: right" >Typed on The <font color="#3399CC">Planck</font></p>
 
 
