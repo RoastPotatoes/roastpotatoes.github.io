@@ -14,7 +14,7 @@ relative_permalinks: true
 title:              RoastPotatoes 
 tagline:             ''
 description:         'This is a blog about mechanical keyboards and artisan keycaps'
-url:                 https://roastpotatoes.github.io 
+url:                 blog.roastpotatoes.co 
 baseurl:             /
 paginate:            3
 
