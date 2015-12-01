@@ -105,6 +105,11 @@ I was hoping the favourite design was the Brobot V3 but I have no idea.
 ## Krytone
 A Krap sale is slated for this [Saturday the 5th](http://www.timeanddate.com/countdown/christmas?iso=20151205T22&p0=122&msg=Topre+KRAP+Sale%21&font=cursive&csz=1&swk=1) it is a Topre sale so will probably include Topre caps. Krytone has been teasing some very nice new skulls and cluster sets so this could be very interesting.
 
+## Official Closure of Bingecap
+This is a fairwell to the front of everything Binge as Bingecaps. After the year is up Bingecaps is officially Hunger Work Studio. This isn't bad or anything but just an evolution of what binge has created. I imagine it will be quite interesting.
+
+* [More Information](https://redd.it/3v1btq)
+
 ## RoastPotatoes 
 ![New RoastPotatoes Keycap](http://i.imgur.com/f3oLJrR.jpg)
 I have been mostly making posters this month. But I did make some keycaps at some point. I have made new moulds for Heart Hugs as that is one of my favourite keycaps. The Heart Hug should be reappearing in new MX, Topre, and buckling springs.
