@@ -66,7 +66,7 @@ Pyrolovesmoney is a new maker who has started painting 3d printed keycaps. I do 
 
 ## 401626283
 ![hydro dipped keycap](https://i.imgur.com/vwX39NS.jpg)
-The name you have to copy and paste has been experimenting with hydro dipped keycaps. The main concert here is will they last under even a small amount of duress. I do like some of these off the wall colour combinations. 
+The name you have to copy and paste has been experimenting with hydro dipped keycaps. The main concern here is will they last under even a small amount of duress. I do like some of these off the wall colour combinations. 
 
 * [Full Album of Hydro Dipped](http://imgur.com/gallery/u4viE)
 
