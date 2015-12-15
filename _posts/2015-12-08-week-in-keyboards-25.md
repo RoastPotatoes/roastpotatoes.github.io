@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postw
 title: "Week in Keyboards #25"
 description: "UHK meets it's goal and Topre is having a change of heart."
 category: 
