@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postw
 title: "Week in Keyboards #21"
 description: ""
 category: 

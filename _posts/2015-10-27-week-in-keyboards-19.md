@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postw
 title: "Week in Keyboards #19"
 description: "Week 19 a new cherry switch, bluetooth planck and sentrantpc rebranding."
 category: 

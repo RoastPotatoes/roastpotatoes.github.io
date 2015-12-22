@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postw
 title: "Week in Keyboards #23"
 description: "Week 23 shows the exciting new topre keyset."
 category: 

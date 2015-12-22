@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postw
 title: "Week in Keyboards #16"
 description: "The 16th week in keyboards featuring a new render of the K-Type an alps 60% with a numpad as well as the alpine winters keyset."
 category: 

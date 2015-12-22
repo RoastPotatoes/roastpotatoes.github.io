@@ -655,3 +655,20 @@ a.pagination-item:hover {
 
 #previousarticle {
 }
+
+.week-buttons {
+	background-color: #d8d8d8;
+	color: #ffffff;
+	float:left;
+	padding: 2px 4px;
+	border-radius: 3px;
+}
+.button-w {
+	color: #fff;
+}
+.week-next {
+	float: right;
+background-color: #d8d8d8;
+padding: 2px 4px;
+border-radius: 2px;
+}

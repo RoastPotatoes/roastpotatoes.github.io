@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postw
 title: "Week in keyboards #18"
 description: "Week 18 introduces the HHKB alu case from massdrop and the UHK now on crowdsupply."
 category: 

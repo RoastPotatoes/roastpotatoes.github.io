@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postw
 title: "Week in Keyboards #22"
 description: "Week 22 in keyboard news. Ortholinear keyboards expanding, hkp now back in stock at mk.com."
 category: 

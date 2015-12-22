@@ -21,7 +21,7 @@ layout: default
  <script>anchors.add();
 anchors.remove('.masthead-title, h1');
  </script>
-<!-- {% for post in site.categories.weekinkeyboards %}
+{% for post in site.categories.weekinkeyboards %}
 {% if post.url == page.url %}
 {% assign post_index0 = forloop.index0 %}
 {% assign post_index1 = forloop.index %}
@@ -35,13 +35,17 @@ anchors.remove('.masthead-title, h1');
 {% assign prev_post = post.url %}
 {% endif %}
 {% endfor %}
-{% if next_post %}
-<a href="{{ next_post }}">Next Week</a> <br>
-{% endif %}
+
+<div class="week-buttons">
 {% if prev_post %}
-<a href="{{ prev_post }}">Previous Week</a> <br>
-{% endif %}-->
-   
+<a style="color: #fff;link-style:none;"href="{{ prev_post }}">Previous Week</a> 
+{% endif %}
+</div>  
+<div class="week-next">
+{% if next_post %}
+<a style="link-style:none; color: #fff;"href="{{ next_post }}">Next Week</a> 
+{% endif %}
+</div>
 
 <div class="related">
   <h2>Related Posts</h2>

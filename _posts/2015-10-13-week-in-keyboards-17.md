@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postw
 title: "Week in Keyboards #17"
 description: "Updates on the Tiny Hacking Keyboard and the Wooting keyboard."
 category: 
