@@ -8,7 +8,6 @@ exclude:	    []
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:              RoastPotatoes 
@@ -28,6 +27,9 @@ author:
 version:             1.0.0
 ctrlalt: <span class="ctrlalt"><a href="https://ctrlalt.io/">[CTRL]ALT</a></span>
 
+paginate_path: "page:num"
+
 gems:
 - jekyll-sitemap
 - jekyll-redirect-from
+- jekyll-paginate
