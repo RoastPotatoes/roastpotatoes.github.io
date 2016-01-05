@@ -24,7 +24,7 @@ Winning this year's title, is E3E's Duck Eagle With Hotswappable Alps.
 ![Tengwar Granite R4 Beta1](http://i.imgur.com/pABgTmr.png)
 *My favourite addition*
 
-Granive R4 is looking as though it will be running in the near future (possibly a couple of days)](https://redd.it/3zl5ns), and the current designs are looking excellent. Also, note that this might be the last time Granite is run.
+Granive R4 is looking as though it will be running in the near future [(possibly a couple of days)](https://redd.it/3zl5ns), and the current designs are looking excellent. Also, note that this might be the last time Granite is run.
 
 The images are of the beta stage so things can change and input is welcome.
 
