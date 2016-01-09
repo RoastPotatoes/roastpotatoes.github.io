@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with Hot Keys Martin"
-description: ""
+description: "An interview with Martin the lead behind Hot Keys Project, the popular branch of Artisan keycaps."
 category: 
 - interview
 
