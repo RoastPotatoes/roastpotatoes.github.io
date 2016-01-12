@@ -30,7 +30,7 @@ It was created by HiddenPower who you will most likely know from their previous 
 ## Nubbinator 
 Nubbinator has been doing something very interesting for a while now. I never see too many sales but I see caps and an understanding that Nubb knows what they are doing. The project I am interested in is the Modular Cap System. This is interesting because of the ambition and also because it does seem to be working to an acceptable degree, and only getting better.  
 
-This project is really encompassing two things. The modular cap system works by itself having stems that can be swapped out into a specially made keycap that fits all of these stems. The other part of this project is Nubbinator's TMX stem which is a Topre and MX stem.o
+This project is really encompassing two things. The modular cap system works by itself having stems that can be swapped out into a specially made keycap that fits all of these stems. The other part of this project is Nubbinator's TMX stem which is a Topre and MX stem.
 
 **Modular Cap System Stems**
 ![Modular Stems](http://i.imgur.com/umA3D5E.png)
