@@ -651,6 +651,7 @@ a.pagination-item:hover {
 #adsense
 { text-align: center; 
 	width: 100%;
+	margin: 0 auto;
 }
 
 #previousarticle {
