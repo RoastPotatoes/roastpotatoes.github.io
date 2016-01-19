@@ -8,7 +8,7 @@ category:
 tags: [granite, dummytim, mak keyboard, dyesubs]
 ---
 
-## SPECILEE MADE Sleeves
+## SPECIALEE MADE Sleeves
 ![POK3R keyboard sleeve](http://imgur.com/umFEuSYh.jpg)
 
 I saw these a little bit of a while ago but did not remember their name. But I did remember them as they have a very distinctive look about them. The awesome looking business card and packaging also attributes to a aesthetic. 
@@ -16,8 +16,8 @@ I saw these a little bit of a while ago but did not remember their name. But I d
 At $35 + shipping these are quite reasonable.  
 Custom orders are also available.
 
-* [Specilee made dummytim Sleeves gh](https://geekhack.org/index.php?topic=78269.0)
-* [SPECILEE MADE Store](http://specialeemade.bigcartel.com/)
+* [Specialee made dummytim Sleeves gh](https://geekhack.org/index.php?topic=78269.0)
+* [SPECIALEE MADE Store](http://specialeemade.bigcartel.com/)
 
 ## January GH GB
 ![GEEkhack January GB](http://i.imgur.com/oDVJCt8.png)
