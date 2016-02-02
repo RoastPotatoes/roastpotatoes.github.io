@@ -47,8 +47,8 @@ padding-right: 2px;
 vertical-align: top;
 }
 .sale {
+	display:block;
 	float: right;
-	right: 5px;
 }
 .sidebarlogo {
 vertical-align: middle;
