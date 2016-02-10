@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posta
 title: "Artisanal Keycap Roundup V6"
 description: ""
 category: 

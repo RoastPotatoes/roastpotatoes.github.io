@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posta
 title: "Artisanal Keycap Roundup V1"
 description: "The first issue of the Artisanal Keycap Roundup. Heavily featuring Brocaps."
 category: 

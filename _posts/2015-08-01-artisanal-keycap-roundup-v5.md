@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posta
 title: "Artisanal Keycap Roundup #5"
 description: "A look at July's artisan keycap happenings."
 category: 

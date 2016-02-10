@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posta
 title: "Artisanal Keycap Roundup V9"
 description: "The 9th edition of the Artisan keycap roundup. ImpendingxDoom has created something incredible this month."
 category: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posta
 title: "Artisanal Keycap Roundup V7"
 description: "The 7th Edition including the introduction of the new Brocaps serial system, Zorborema and flehrad."
 category: 

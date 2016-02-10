@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posta
 title: "Artisanal Keycap Roundup V8"
 description: "The eighth edition to the Artisan Keycap roundup. Briefly featuring Bro-drama."
 category: 

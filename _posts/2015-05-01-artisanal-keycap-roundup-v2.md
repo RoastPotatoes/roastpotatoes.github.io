@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posta
 title: "Artisanal Keycap Roundup V2"
 description: "Artisan Keycap roundup for April of 2015, again heavily featuring brocaps."
 category: 
