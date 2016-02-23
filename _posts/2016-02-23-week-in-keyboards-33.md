@@ -8,6 +8,16 @@ category:
 tags: []
 ---
 
+## JD45
+![](http://i.imgur.com/FwNaBhC.jpg)
+I almost forgot, but this has been a long time coming. The JD45 is now available to pre-order. Starting at least 2 years ago this has been in development for a long time and looks to be a high quality 40%(ish keyboard). Designed by jdcarpe who you might know from the community (lately the designer behind Leandren's 60% plates) and Wilba who has designed a lot of PCB's (planck).  
+
+It is also being manufactured by TEX which is yet again another reputable name in keyboards. With the people that are involved it is one of the safer GB's to participate in.
+
+It can be bought assembled or as a kit, and supports both alps and MX switches. The case also offers a couple of options, my favourite being the HHKB style with blocked corners.
+
+* [Join the GB here](http://jd45.carpekeyboards.com/)
+* [JD45 gh thread](https://geekhack.org/index.php?topic=62641.0)
 
 ## Brocaps Sale (Closing Very Soon)
 There are currently (at time of writing) two bro sales happening right now. These are raffle sales so do not guarantee a cap.  
@@ -72,3 +82,13 @@ I like the colours, the limited edition markings the choice of keyboard. Might b
 
 * [Rama Store](http://rama.works/store/)
 * [RAMA gh thread](https://geekhack.org/index.php?topic=78796.0)
+
+## RoastPotatoes Posters
+![](http://i.imgur.com/GAvlAF2.png)
+Just promoting myself here. I still have HHKB Posters. They are A3 and really quite nice.
+
+* [Poster Order Form](https://docs.google.com/forms/d/1qnBoFbkBhJ5soaexC_V68Oaik4lIYRGcRTBDs1c2qAE/viewform)
+
+---------------------------------
+
+<p style="text-align: right" title="Equipped with Hasu's alternative controller">Typed on <font color="#373737">HHKB Pro 2</font></p>
