@@ -3,7 +3,9 @@ layout: default
 ---
 
 <meta property="og:type:article:author" content="RoastPotatoes"/>
-<div class="post" itemscope itemType="http://schema.org/BlogPosting">
+<div class="post" itemscope="" itemType="http://schema.org/BlogPosting">
+		<div class="entry-content" itemprop="articleBody">
+
 
 
     <div class="wrap" id="adsense">
@@ -27,6 +29,7 @@ layout: default
 anchors.remove('.masthead-title, h1');
  </script>
     
+</div>
 
 <div class="related">
   <h2>Related Posts</h2>
@@ -42,6 +45,6 @@ anchors.remove('.masthead-title, h1');
       </li>
     {% endfor %}
   </ul>
-</div>
+		</div>
 
       <img class="footerlogo" width="50px" src="{{ site-url}}/assets/rpsticker2.svg">

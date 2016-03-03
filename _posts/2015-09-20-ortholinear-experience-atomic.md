@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Ortholinear Experience: The Atomic"
-description: "A review and totalling of the Ortholinear keyboard ethos. Part one is mainly focusing on the Atomic and introduction to the idea."
+description: "What is an ortholinear keyboard? A review and totalling of the Ortholinear keyboard ethos. Part one is mainly focusing on the Atomic and introduction to the idea. "
 categories: 
 - review
 
@@ -45,7 +45,7 @@ The finished Atomic. This is the PCB just with the simple sandwich style case. W
 ![Back view of the Atomic keyboard]({{ site-url }}/assets/atomic/back-of-atomic.jpg)
 ![Front View of the Atomic]({{ site-url }}/assets/atomic/front-of-atomic.jpg)
 
-### The Possibilities of the Ortholinear Layout
+### The Possibilities and/or Benefits of the Ortholinear Layout
 
 ![Profile view of the atomic]({{ site-url }}/assets/atomic/profile-of-atomic-with-gateron-pbt.jpg)
 

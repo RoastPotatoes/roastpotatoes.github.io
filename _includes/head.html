@@ -6,6 +6,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/1.2.1/anchor.js"></script>
+	<meta property="og:type" content="{% if page.thumbnail %}article{% else %}website{% endif %}">
+
+	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+	<meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail  }}{% else %}{{ {{baseurl}}/assets/rpsticker.png {% endif %}">
+
+	<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 	{% if page.description %}
 	<meta itemprop="description" property="og:description" name="description" content="{{ page.description }}" />
 	{% endif %}
@@ -16,7 +23,7 @@
   "@type" : "Organization",
   "name" : "RoastPotatoes",
   "url" : "https://blog.roastpotatoes.co",
-"logo" : "/assets/rpstirker.png",
+"logo" : "https:blog.roastpotatoes.co/assets/rpsticker.png",
   "sameAs" : [
     "http://www.twitter.com/RoastPotatoes_",
     "http://plus.google.com/b/106490301964938690164/106490301964938690164"
