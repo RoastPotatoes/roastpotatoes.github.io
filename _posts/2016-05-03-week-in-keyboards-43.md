@@ -6,7 +6,7 @@ category:
 - weekinkeyboards
 
 tags: []
-thumbnail:
+thumbnail: http://i.imgur.com/UEMIazW.jpg
 ---
 
 ## Wooting Using FlareTech Switches
