@@ -1,7 +1,7 @@
 # Dependencies
-markdown:            redcarpet
+markdown:            kramdown
 extensions:    ["with_toc_data", "tables"]
-highlighter:         pygments
+highlighter:         rouge
 exclude:	    []
 
 # Permalinks
@@ -10,26 +10,29 @@ exclude:	    []
 permalink:           pretty
 
 # Setup
-title:              RoastPotatoes 
+title:              RoastPotatoes
 tagline:             ''
 description:         'This is a blog about mechanical keyboards and artisan keycaps'
 url:                 http://blog.roastpotatoes.co
 baseurl:             /
-paginate:            3
 
 # About/contact
 author:
-  name:            T Rad  
-  url:              
-  email:             
+  name:            T Rad
+  url:
+  email:
 
 # Custom vars
-version:             1.0.0
+version:             1.2.0
 ctrlalt: <span class="ctrlalt"><a href="https://ctrlalt.io/">[CTRL]ALT</a></span>
 
 paginate_path: "page:num"
 
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-redirect-from
 - jekyll-paginate
+
+
+paginate:            3
+
