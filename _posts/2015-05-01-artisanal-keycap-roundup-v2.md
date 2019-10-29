@@ -42,13 +42,13 @@ Girldc is someone who I was not aware of until recently. I had seen their caps b
 I was drawn to this information by this [thread](https://geekhack.org/index.php?topic=66701.0). From my perspective they make some very nice keycaps and the metal keycaps are quite a niche that when done well, work well. I would like to see a return of Girldc to the geekhack marketplace but who knows what will happen.
 
 ## YM_Industries
-I'm not sure is there is any collaboration between v0idtek and YM_Industries. Nevertheless, v0idteks [post](http://www.reddit.com/r/MechanicalKeyboards/comments/32e8rv/keyboard_art_custom_keycaps_by_ym_industries_3d/#cqaek3j) on /r/MK drew my attention to these 3d printed keycaps. They are quite unlike anything you may have seen a lot of. It is certainly nice to see some new keycaps that aren't just fancy designs. This really mixes things up. Whether or not it will work, remains to be seen.
+I'm not sure is there is any collaboration between v0idtek and YM_Industries. Nevertheless, v0idteks [post](https://www.reddit.com/r/MechanicalKeyboards/comments/32e8rv/keyboard_art_custom_keycaps_by_ym_industries_3d/#cqaek3j) on /r/MK drew my attention to these 3d printed keycaps. They are quite unlike anything you may have seen a lot of. It is certainly nice to see some new keycaps that aren't just fancy designs. This really mixes things up. Whether or not it will work, remains to be seen.
 
 ## Hotkeys
 [![Raven](https://farm9.staticflickr.com/8788/16492994173_0001275399_c.jpg)](https://geekhack.org/index.php?topic=61096.0)
 
 *HKP photo. Links to sales thread.*  
-The Hotkeys Project has also been quite active this month. Most notably is the sales through [https://mechanicalkeyboards.com](mechanicalkeyboards.com). This is quite interesting and a step up from forum selling. It is a sign of the times when an artisan keycap maker is able to sell through these channels and nice to see some evolution in the market. The demand is for the product is clearly shown by how selling methods have been adapted. Also, note that the caps being sold through [mechanicalkeyboards.com](https://mechanicalkeyboards.com) include exclusive to the store keycaps.
+The Hotkeys Project has also been quite active this month. Most notably is the sales through [https://mechanicalkeyboards.com](https://mechanicalkeyboards.com). This is quite interesting and a step up from forum selling. It is a sign of the times when an artisan keycap maker is able to sell through these channels and nice to see some evolution in the market. The demand is for the product is clearly shown by how selling methods have been adapted. Also, note that the caps being sold through [mechanicalkeyboards.com](https://mechanicalkeyboards.com) include exclusive to the store keycaps.
 The April sale  began on the 29th and ended on the 1st of May.   
 This sale featured:
 
@@ -63,15 +63,15 @@ This sale was also accompanied by a giveaway that ended on the 30th. It seems cu
 Krytone had a recent sale titled MetalliKrap. I recommend checking the [thread](https://geekhack.org/index.php?topic=63758.600) to see some pictures of the recent keycaps. I am not a huge fan of their designs, but I do appreciate the talent. They all appear to be very well made with no visible defects. The colour combinations are also quite different. Krytone is doing something a little different to everyone else. Although Krytone seems to be a smaller seller their quality is still up there with the rest, I am sure you have seen their work elsewhere before.
 
 ## Buckling
-[![buck storm](http://i.imgur.com/hr5JwFJ.jpg)](http://redd.it/34a32o)
+[![buck storm](https://i.imgur.com/hr5JwFJ.jpg)](https://redd.it/34a32o)
 Buckling is still around and with another storm trooper iteration. It's certainly not perfect but is an improvement on the previous versions. They are worth keeping an eye on as there is some definite improvement. Keep going and you never know what could happen.
 
 ## igke
-[![keycap](http://i.imgur.com/9cJMn2e.jpg)](http://redd.it/33p1cv)
+[![keycap](https://i.imgur.com/9cJMn2e.jpg)](https://redd.it/33p1cv)
 A potential keycap maker. Only with one design of a polaroid keycap, the design seems very popular. It might only be launching in a semi private groupbuy at this stage. But I expect it will be available at some point. Quite rightly there are worries over the durability of 3d printed caps with smaller parts.
 
 ## WinterWinds/Defect
-[![beer beer](http://i.imgur.com/G4p3UT8.jpg)](http://redd.it/34jg8l)
+[![beer beer](https://i.imgur.com/G4p3UT8.jpg)](https://redd.it/34jg8l)
 Quite a late addition to this months edition is WinterWinds. Last month they created the watermelon keycap which I only gave an honourable mention to. This month they have created a beer cap. This may have some controversy surrounding it as has some obvious similarities to the clack of the similar nature. However I think this edition is fine, whilst it is quite a fine line, it does have some differences. Most obviously the addition of bubbles to the base, but most interestingly the fact it is an alps cap. I don't think Clack Factory has produced this particular design in alps form. From a design perspective it appears to be well made. It looks smooth all around, with no visible blemishes. This is all quite  impressive from someone who doesn't appear to have made a lot.
 
 # Non Artisan Keycap News
