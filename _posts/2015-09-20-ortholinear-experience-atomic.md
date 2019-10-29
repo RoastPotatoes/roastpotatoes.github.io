@@ -19,7 +19,9 @@ What this opens up is the possibility of your 48 key keyboard being 100 + key ke
 
 
 This is a small example of the near unlimited possibilities you could create with a planck.
-<img class="centered" src="{{ site-url }}/assets/atomic/planckortholinearconcept.svg" alt="Example of an extended keyboard layout shown by a planck."title="Example of an extended keyboard layout shown by a planck.">
+![Alt text](/assets/atomic/planckortholinearconcept.svg){: class="centered" }
+
+
 *[Taken from the OLKB Maker Faire Posters](https://www.dropbox.com/s/jjo98z2f1cd9ifw/olkb-maker-faire.pdf?dl=0)* 
 
 Think about extended layers as just another place on the keyboard. But this way your hands don't move, your virtual keyboard moves into position for your hands.
