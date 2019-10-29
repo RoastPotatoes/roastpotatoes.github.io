@@ -6,7 +6,7 @@ category:
 - weekinkeyboards
 
 tags: []
-thumbnail: http://i.imgur.com/bM5tRz9.png
+thumbnail: https://i.imgur.com/bM5tRz9.png
 ---
 
 ## The Wooting One Kickstarter is Live
@@ -17,7 +17,7 @@ At the time of writing the backer goals are close to gone. I would imagine there
 
 * [Wooting One Kickstarter](https://www.kickstarter.com/projects/wooting/the-analog-mechanical-keyboard-for-precise-movemen)
 
-![Wooting One Kickstarter overview](http://i.imgur.com/4vI8B7G.png)
+![Wooting One Kickstarter overview](https://i.imgur.com/4vI8B7G.png)
 
 ## POK3R RGB Reviews
 The POK3R is on the horizon, so here are a couple of reviews to tide you over.
