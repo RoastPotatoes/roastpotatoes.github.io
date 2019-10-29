@@ -26,12 +26,12 @@ This is not a major setback or anything. But at this stage everyone is patiently
 * [geekhack New F62 and F77 Thread](https://geekhack.org/index.php?topic=73363.msg1952775#msg1952775)
 
 ## RoastPotatoes Fancy New Domain
-It's happening. [blog.roastpotatoes.co](http://blog.roastpotatoes.co/) All previous links should still work. Potentially this opens up the possibility of store.roastpotatoes.co
+It's happening. [blog.roastpotatoes.co](https://blog.roastpotatoes.co/) All previous links should still work. Potentially this opens up the possibility of store.roastpotatoes.co
 
 I also managed to miss my deadline of Friday newsletter. It will happen this week.
 
 ## Other RoastPotatoes
-![RP poster disappointment](http://i.imgur.com/zeLmm16.jpg)
+![RP poster disappointment](https://i.imgur.com/zeLmm16.jpg)
 My posters were going excellent up until today when I really looked at them. They are OK, but maybe not where I had quite hoped the quality would be. Reprint is coming on Thursday so they are slightly delayed. I will see what happens from there.
 
 Designs for 4704 keyboards have moved along quite a bit and I am quite interested to see what I will settle with. I have designs wish legends and without and the relegendeble keycaps.

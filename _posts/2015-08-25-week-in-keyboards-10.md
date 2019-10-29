@@ -7,10 +7,10 @@ category:
 tags: [keychatter, zealios, GB, artisans, artisan, keycaps, geekhack, Binge,]
 ---
 ## Zealios Groupbuy Started
-This is an interesting GB as it is the first custom switch the community has seen. It comes in both tactile and linear variants with the option of 62g, 65g and 67g variants. It is being held at [zealpc.net](http://zealpc.net/collections/group-buy-pre-orders). Each order also allows you to be in an exclusive bingecap raffle.
+This is an interesting GB as it is the first custom switch the community has seen. It comes in both tactile and linear variants with the option of 62g, 65g and 67g variants. It is being held at [zealpc.net](https://zealpc.net/collections/group-buy-pre-orders). Each order also allows you to be in an exclusive bingecap raffle.
 
-* [Tactile Zealios](http://zealpc.net/collections/group-buy-pre-orders/products/zealio)
-* [Linear Zealios](http://zealpc.net/collections/group-buy-pre-orders/products/zealioclear-1)
+* [Tactile Zealios](https://zealpc.net/collections/group-buy-pre-orders/products/zealio)
+* [Linear Zealios](https://zealpc.net/collections/group-buy-pre-orders/products/zealioclear-1)
 
 ## Keychatter Store 
 Preparations have begun for the opening of the keychatter store.
@@ -24,14 +24,14 @@ I'm not sure what artisans and products will be offered. But this is a nice dire
 ## Shine 5 Release Date Still Murky
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=913006312107797&amp;id=117547488320354&amp;substory_index=0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=913006312107797&amp;id=117547488320354&amp;substory_index=0"><p>Ducky shine 5 will have its first launch in Australia in September.</p>Posted by <a href="https://www.facebook.com/pages/Ducky-Keyboard/117547488320354">Ducky Keyboard</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=913006312107797&amp;id=117547488320354&amp;substory_index=0">Wednesday, 19 August 2015</a></blockquote></div></div>
-*[imgur Mirror](http://i.imgur.com/hiGqosS.jpg)*
+*[imgur Mirror](https://i.imgur.com/hiGqosS.jpg)*
 
 So September for Australia and I believe it is already shipping in Taiwan. 
 
 There also seems to be something interesting going on regards to the double layer PCB.
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=915930498482045&amp;id=117547488320354&amp;substory_index=0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=915930498482045&amp;id=117547488320354&amp;substory_index=0"><p>Ducky&#x70ba;&#x4e86;&#x8b93; Cherry RGB &#x71c8;&#x5149;&#x66f4;&#x4eae;&#xff0c;&#x4e5f;&#x65b9;&#x4fbf;&#x5c08;&#x696d;&#x73a9;&#x5bb6;&#x65e5;&#x5f8c;&#x81ea;&#x884c;&#x6539;&#x88dd;SMD LED&#x71c8;&#x8207;&#x8ef8;&#x9ad4;&#xff0c;&#x56e0;&#x6b64;&#x63a8;&#x51fa;&#x300c;2&#x7247;&#x96d9;&#x5c64;&#x677f;&#x96fb;&#x8def;&#x677f;PCB&#x8a2d;&#x8a08;&#x300d;&#xff0c;&#x7387;&#x5148;&#x63a1;&#x7528;&#x65bc;Ducky Shine 5&#x8207;&#x7f8a;&#x5e74;&#x9650;&#x5b9a;&#x7248;&#x3002;&#x9019;&#x4e9b;&#x9ad8;&#x6210;&#x672c;&#x7684;&#x8a2d;&#x8a08;&#xff0c;&#x70ba;&#x7684;&#x4e0d;&#x53ea;&#x662f;&#x8b93;Ducky&#x9375;&#x76e4;&#x8868;&#x73fe;&#x66f4;...</p>Posted by <a href="https://www.facebook.com/pages/Ducky-Keyboard/117547488320354">Ducky Keyboard</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=915930498482045&amp;id=117547488320354&amp;substory_index=0">Tuesday, 25 August 2015</a></blockquote></div></div>
-*[imgur Mirror](http://i.imgur.com/Fi5qWZ2.png)*
+*[imgur Mirror](https://i.imgur.com/Fi5qWZ2.png)*
 
 This does look a bit like innovation. But I can't quite tell from the photos what is actually going on.
 
@@ -45,17 +45,17 @@ It seems sentrantpc is gearing up for something with an interest check for custo
 * [Form](https://docs.google.com/forms/d/1l2dfZDVED7UnU3xzEAKPYvT2ldh-Fa9qiyoQTH9mnRc/viewform)
 
 ## LeandreN
-![](http://i.imgur.com/sMtHlwh.jpg)
+![](https://i.imgur.com/sMtHlwh.jpg)
 The PCB and Plate GB is now over and in the production/invoicing stage. As this is an interesting GB, I think it worth covering. PayPal issues have been resolved. Everyone has been invoiced and around 80% already paid. Plates are done and are now ready for anodizing. This means you can expect them in 2 weeks ish.
 
-* [More Info](http://leandren.blogspot.no/p/leandren.html)
+* [More Info](https://leandren.blogspot.no/p/leandren.html)
 
 That previous link is to LeandreN's blog which hast just started up. I imagine it will be a good place for more information on what's happening.
 
 ## Blahlicus
 With a manufacturing delay on the Diverge II's PCB everything is now on track. Shipping should have started today.
 
-* [Blog Source](http://blog.uniquekeyboard.com/?p=127)
+* [Blog Source](https://blog.uniquekeyboard.com/?p=127)
 
 ## New Ortholinear Keyboard
 ![](https://i.imgur.com/LjG4xAr.jpg)
@@ -75,7 +75,7 @@ Binge bought 100 additional sets of GMK hyperfuse which ran on Ctrlalt earlier i
 * [GH Thread](https://geekhack.org/index.php?topic=74486)
 
 ### Gen.s
-[![](http://i.imgur.com/PNEn2HU.jpg)](https://geekhack.org/index.php?topic=74200.0)
+[![](https://i.imgur.com/PNEn2HU.jpg)](https://geekhack.org/index.php?topic=74200.0)
 A groupbuy has started for Gen.s's keycaps pictured [here](https://geekhack.org/index.php?topic=74200.0) Orders are ending 1st of September so I though it worth mentioning before it had gone.  
 They all look of great quality, but they are quite pricey.
 Prices:
@@ -86,7 +86,7 @@ Prices:
 
 * [GB Thread](https://geekhack.org/index.php?topic=74615.0)
 
-[<p style="text-align: center"><font color="#E62E8A">Stay up-to-date with my newsletter</font></p>](http://eepurl.com/bsc4wH)
+[<p style="text-align: center"><font color="#E62E8A">Stay up-to-date with my newsletter</font></p>](https://eepurl.com/bsc4wH)
 
 
 ---------------------------------

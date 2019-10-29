@@ -10,10 +10,10 @@ thumbnail: https://i.imgur.com/DIgLdgJ.jpg
 ---
 
 ## Dodgy
-![Dodgy caps](http://i.imgur.com/UuelzCW.jpg)
+![Dodgy caps](https://i.imgur.com/UuelzCW.jpg)
 Dodgy has been around for a while I only wish they were a little more active. They have quite a unique two piece construction and an excellent stamp on the back.
 
-![Dodgy artisan cap](http://i.imgur.com/Yw2txkj.jpg)
+![Dodgy artisan cap](https://i.imgur.com/Yw2txkj.jpg)
 There was a new design in January which I was quite a fan of but no sales to speak of. I'm sure there will be more in the future but it is a shame some makers are so rare in their appearances.
 
 * [Dodgy Thread](https://geekhack.org/index.php?topic=54513.msg2010131#msg2010131)
@@ -47,10 +47,10 @@ Threads worth watching in the eventuality that something happens.
 
 
 ## WiddleKitty
-![](http://i.imgur.com/LTtRwS1.jpg)
+![](https://i.imgur.com/LTtRwS1.jpg)
 *Keycap with Coffee Grounds*  
 
-I'm fairly certain these keycaps are from WiddleKitty. WiddleKitty popped up not so long back with some impressive first tries. They also made their own [aluminium master](http://i.imgur.com/5gWNhKv.jpg)
+I'm fairly certain these keycaps are from WiddleKitty. WiddleKitty popped up not so long back with some impressive first tries. They also made their own [aluminium master](https://i.imgur.com/5gWNhKv.jpg)
 
 Pictured above is a keycap with coffee grounds in the top which gives it an incredible visual texture.
 
@@ -64,7 +64,7 @@ I would be very interested in getting one of these coffee keycaps. I have tried 
 Please do a sale.
 
 ## ZorbCaps
-![Carbon Metaljar artisan keycap](http://i.imgur.com/UeCK84x.jpg)
+![Carbon Metaljar artisan keycap](https://i.imgur.com/UeCK84x.jpg)
 Zorb has had a lot of sales since I last mentioned them. Pictured above is the Carbon MetalJaw which was featured in the [Carbon Mine Sales.](https://docs.google.com/forms/d/1Kce8HaEWJshEMbf5fBAnENQRvqAdRzGt0oTXdwlBd8A/viewform)
 
 
@@ -80,7 +80,7 @@ It's only $15 for a design by one of the hottest designers currently out there.
 WoB has launched a new site featuring the many designs that were teased on instagram. These are very creative but not entirely to my taste.  
 One thing I am quite interested in is the rifle keycap puller which was teased a long time ago at the beginning of WoB.
 
-* [WoB Store](http://wobkeyboard.com/)
+* [WoB Store](https://wobkeyboard.com/)
 
 ## R.A.G.
 ![R.A.G mod set](https://i.imgur.com/ADIoi2A.jpg)
@@ -97,7 +97,7 @@ They will probably be sold through the facebook store which has been in testing.
 
 
 ## Ericaps Debut
-![Rosegold keycap](http://i.imgur.com/7KoNoqj.png)
+![Rosegold keycap](https://i.imgur.com/7KoNoqj.png)
 These are on the top side of my favourites from the past few months. Bold colours and simple designs done with apparent competence. Ericaps had a [debut sale on the 16th of march](https://redd.it/4alp0v) featuring 3 designs.
 
 * [Ericaps Instagram for more](https://www.instagram.com/ericaps16/)
@@ -115,13 +115,13 @@ Just a first attempt but it's nice to still see people pop up.
 * [Reddit Post](https://redd.it/4b90uw)
 
 ## KeyForge
-![Keyforge sneaky potato](http://i.imgur.com/M7Sd9ul.jpg)
+![Keyforge sneaky potato](https://i.imgur.com/M7Sd9ul.jpg)
 Sneaky Potato has a number of designs but I would say the saber is my favourite.
 
 * [Sneaky Potato Thread](https://geekhack.org/index.php?topic=80368)
 
 ## Rama
-![Rama CNC Keycaps & Macropad](http://i.imgur.com/J3lhx68.jpg)
+![Rama CNC Keycaps & Macropad](https://i.imgur.com/J3lhx68.jpg)
 The RAMA CNC caps have been produced and shipped, and they do look exactly as promised. They also look to come in some incredible looking packaging. 
 
 In other keycap news. RAMA also has an Aluminium mould prototype. This is similar to [HWS's $ynth.](/artisanroundup/2016/04/01/artisanal-keycap-roundup-v11/#hws-ynth)
@@ -135,20 +135,20 @@ Hullabaloo_Goat wants some sculpting feedback. If you have anything constructive
 * [Reddit post](https://redd.it/48uuet)
 
 ## HWS
-![Pink HWS Easter Keycap Offering](http://i.imgur.com/bkpZwpZ.jpg)
+![Pink HWS Easter Keycap Offering](https://i.imgur.com/bkpZwpZ.jpg)
 *My favourite of the Lot*  
-On the 23rd of March there was an Easter sale. This sale took place on [techkeys.us](http://techkeys.us) and was first come fist serve.
+On the 23rd of March there was an Easter sale. This sale took place on [techkeys.us](https://techkeys.us) and was first come fist serve.
 
-* [Full Album of Easter Sale](http://imgur.com/a/SRqDo)
+* [Full Album of Easter Sale](https://imgur.com/a/SRqDo)
 
 
 ### HWS and Massdrop
-[![deal with it jack artisan 2.0](http://i.imgur.com/6nRlrYZ.jpg)](https://geekhack.org/index.php?topic=46284.msg2098040#msg2098040)
+[![deal with it jack artisan 2.0](https://i.imgur.com/6nRlrYZ.jpg)](https://geekhack.org/index.php?topic=46284.msg2098040#msg2098040)
 [This is not the first time they have collaborated with Massdrop](https://www.massdrop.com/buy/topre-realforce-numpad-with-custom-bingecap?mode=guest_open), but the good news is that it will happen again.
 
 ### HWS :~$ynth
 There has been some movement on the keycap making aid the $ynth. On the left you have the pre-production model and on the right you have the production. It's not quite ready as it was almost released a couple of weeks ago.
-![HWS $ynth prototype](http://i.imgur.com/pFLMvfI.jpg)
+![HWS $ynth prototype](https://i.imgur.com/pFLMvfI.jpg)
 
 * [Info Thread](https://geekhack.org/index.php?topic=78551.msg2088114#msg2088114)
 
@@ -159,10 +159,10 @@ HKP also rode the easter sale wave featuring a nice amount of pastelly pink.
 * [Full Album](https://geekhack.org/index.php?topic=61096.msg2109846#msg2109846)
 
 ## Eat\_the\_Food
-![Halfshell artisan on hhkb](http://i.imgur.com/6wunEWZ.jpg)
+![Halfshell artisan on hhkb](https://i.imgur.com/6wunEWZ.jpg)
 Very popular and very awesome. I was taken by these caps the moment I saw them. Eat\_the\_Food or Nightcaps was the hype before jelly key. It started out with the half shell pictured above.
 
-![](http://i.imgur.com/dL8Bj0A.jpg)
+![](https://i.imgur.com/dL8Bj0A.jpg)
 *I wanted to share this image because it looks like a matte painting from STAR WARS.*
 
 ![Fugu Set](https://i.imgur.com/NT1RcY4.jpg)
@@ -170,7 +170,7 @@ Very popular and very awesome. I was taken by these caps the moment I saw them. 
 
 There are too many good caps to show off so have a look at the whole albums.
 
-* [March Mystery Monsters Album](http://imgur.com/a/hxtmb)
+* [March Mystery Monsters Album](https://imgur.com/a/hxtmb)
 
 So far Nightcaps has been a constant stream of good stuff.
 
@@ -186,17 +186,17 @@ The Coz Caps Sale happened on the 19th of February and appeared to be very popul
 They have also made some new designs that have yet to be sold.
 
 ![RAWr keycap](https://i.imgur.com/WUMMZKV.jpg)
-* [New Design Album](http://imgur.com/a/zGJbS)
+* [New Design Album](https://imgur.com/a/zGJbS)
 
 ## KeyKollectiv
 As always it is a little hard to keep up with all that KeyKollectiv has done as they get up to a lot. But one thing that happened was the booper and KeyKollectiv collaboration.
 
-* [Kosmnvavt Collaboration Album](http://imgur.com/a/GpkOa)
+* [Kosmnvavt Collaboration Album](https://imgur.com/a/GpkOa)
 
 The other good news is, mods are back on the menu. The latest mod sale is currently live.
 ![bubblegum crisis pink](https://i.imgur.com/XmZfEzr.jpg)
 
-* [Preview of new mods](http://imgur.com/a/IIgtj)
+* [Preview of new mods](https://imgur.com/a/IIgtj)
 * [Raffle Entry for Mod Sets](https://docs.google.com/forms/d/1WZwiVE-KOWks-nCbrTC15xkI1cp0txUpIZselW16BNY/viewform)
 * [KeyKollectiv Thread for More Information](https://geekhack.org/index.php?topic=74757.0)
 
@@ -207,40 +207,40 @@ The French Cuff sale happened featuring new designs.
 
 I also highly recommend reading Bambino's thread as there is lots of good information if you want to make some keycaps. You will also get to see a lot of upcoming keycaps.
 
-![](http://imgur.com/O0wxXUQ.jpg)
+![](https://imgur.com/O0wxXUQ.jpg)
 
 * [Bambino/SuitedUp thread](https://geekhack.org/index.php?topic=79097.0)
 
-* [French Cuff Sale Full Album](http://imgur.com/a/9FrOX)
+* [French Cuff Sale Full Album](https://imgur.com/a/9FrOX)
 
 ## Demiils
 ![Waddles keycap gravity falls](https://i.imgur.com/YHKyDI8.jpg)
 Just a little bit of sculpting from a new person. I really like the look of the pig and even with the uneven surface it looks like something from a clay animation. 
 
-* [Demiils Sculpting Album](http://imgur.com/a/1aRP2)
+* [Demiils Sculpting Album](https://imgur.com/a/1aRP2)
 
 ## Chesapeake_Stripper
 ![](https://i.imgur.com/l69zDoe.jpg)
 I was skeptical of these keycaps when I first saw the renders but they have come out very nice. With the renders as smooth and detailed as they were I just didn't think they would translate to the 3d printing.  
 They are available to purchase from shapeways.
 
-* [Full Album](http://imgur.com/a/V8Rro)
-* [Shapeways Store](http://www.shapeways.com/shops/callofcandy)
+* [Full Album](https://imgur.com/a/V8Rro)
+* [Shapeways Store](https://www.shapeways.com/shops/callofcandy)
 
 ## KeypressGraphics
 ![Keypress totoro](https://i.imgur.com/cLVuEO5.jpg)
 [*Totoro Cap in the wild*](https://redd.it/456i85)  
 A couple of new designs on keypress graphics. But they really caught my attention again as I saw the Totoro cap on reddit.
 
-* [KeypressGraphics.com](http://keypressgraphics.com/)
+* [KeypressGraphics.com](https://keypressgraphics.com/)
 
 It is also worth mentioning that they are doing an artisan roundup of all the keycaps on shapeways.
 
-* [Artisan Shapeways Roundup](http://keypressgraphics.com/february-shapeways-artisan-roundup/)
+* [Artisan Shapeways Roundup](https://keypressgraphics.com/february-shapeways-artisan-roundup/)
 
 
 ## CFC
-![boba fett keycap](http://i.imgur.com/1lMhEj7.jpg)
+![boba fett keycap](https://i.imgur.com/1lMhEj7.jpg)
 CFC has been popping up a little bit here and there with flash sales of boba heads. They are not readily available as of today.
 
 * [Fett sale thread](https://geekhack.org/index.php?topic=76352.0)

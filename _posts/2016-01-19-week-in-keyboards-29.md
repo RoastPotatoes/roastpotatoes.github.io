@@ -9,7 +9,7 @@ tags: [granite, dummytim, mak keyboard, dyesubs]
 ---
 
 ## SPECIALEE MADE Sleeves
-![POK3R keyboard sleeve](http://imgur.com/umFEuSYh.jpg)
+![POK3R keyboard sleeve](https://imgur.com/umFEuSYh.jpg)
 
 I saw these a little bit of a while ago but did not remember their name. But I did remember them as they have a very distinctive look about them. The awesome looking business card and packaging also attributes to a aesthetic. 
 
@@ -17,32 +17,32 @@ At $35 + shipping these are quite reasonable.
 Custom orders are also available.
 
 * [Specialee made dummytim Sleeves gh](https://geekhack.org/index.php?topic=78269.0)
-* [SPECIALEE MADE Store](http://specialeemade.bigcartel.com/)
+* [SPECIALEE MADE Store](https://specialeemade.bigcartel.com/)
 
 ## January GH GB
-![GEEkhack January GB](http://i.imgur.com/oDVJCt8.png)
+![GEEkhack January GB](https://i.imgur.com/oDVJCt8.png)
 This is a small GB for the geekhack keycaps. Set's are $5 + shipping and each set includes an MX and Alps mountable keycap.
 
 * [January GH GB thread](https://geekhack.org/index.php?topic=78489.0)
 * [Order Form](https://docs.google.com/forms/d/1qlfWbPKGeEinVaIIvl6GaQYKWGxw0g5XjY52hyCc0bM/viewform)
 
 ## RoastPotatoes Posters
-![RP posters hhkb and Topre](http://i.imgur.com/LZJwfBW.png)
+![RP posters hhkb and Topre](https://i.imgur.com/LZJwfBW.png)
 
 These are my posters and I now have both designs available.
 
 If this interests you, here is an order form.
 
-[RoastPotatoes Poster Order Form](http://goo.gl/forms/usxEIqkl7F)
+[RoastPotatoes Poster Order Form](https://goo.gl/forms/usxEIqkl7F)
 
 ## New F62 & F77 Order Available End of Jan
-![Possible new F62 box art](http://i.imgur.com/PwuMAys.jpg)
+![Possible new F62 box art](https://i.imgur.com/PwuMAys.jpg)
 *Possible Box art*
 
 This was something else that struck me as incredibly exciting. These new pictures are further proof that this project is indeed more than hot air. The image above is the potential box art.
 
 The other images are photos of almost fully assembled prototypes. At the bottom is a link to all the photos. Also, pictured is the custom styrofoam case.
-![Industrial Grey F77](http://i.imgur.com/ofwDQuo.png?1)
+![Industrial Grey F77](https://i.imgur.com/ofwDQuo.png?1)
 
 Orders are likely to open up sometime around the end of January.
 
@@ -50,7 +50,7 @@ Orders are likely to open up sometime around the end of January.
 
 The website is also close to completion however do not order anything yet.
 
-<http://www.modelfkeyboards.com/>
+<https://www.modelfkeyboards.com/>
 
 ## JD45 
 This project has been around for a while and it could be closer to a wider GB. You might have guessed from the name, but the JD45 is similar to the JD40 but has 5 more switches. JDCarpe does know what he's doing so it is of solid design.
@@ -80,7 +80,7 @@ R2 brings:
 * Different Purple for stem colour
 * Milky bottoms that withstand higher temperatures
 
-* [Available on ZealPC.net](http://zealpc.net/collections/group-buy-pre-orders/products/zealio)
+* [Available on ZealPC.net](https://zealpc.net/collections/group-buy-pre-orders/products/zealio)
 
 ## Max Keybords Custom Backlit Keycaps
 * [Reddit Post](https://redd.it/40kmfh)
@@ -89,11 +89,11 @@ R2 brings:
 This is an 8 key keyboard. Make of it what you will. It could be a media pad, WASD or whatever use you have for it.   
 You are given a large amount of customisation options on the maxkeyboards website so this is a bit of a unique product.
 
-* [Max Falcon-8 on maxkeyboard.com](http://www.maxkeyboard.com/max-falcon-8-custom-programmable-mini-mechanical-keyboard-assembled.html)
+* [Max Falcon-8 on maxkeyboard.com](https://www.maxkeyboard.com/max-falcon-8-custom-programmable-mini-mechanical-keyboard-assembled.html)
 
 
 ## Granite R4 is on Massdrop
-![Granite R4 bonus pack](http://i.imgur.com/WTNBPNp.png)
+![Granite R4 bonus pack](https://i.imgur.com/WTNBPNp.png)
 
 Every time Granite ends it immediately becomes in demand again. This is R4 the most likely final round.  
 Already it has proved to be very popular with 4310 kits purchased.
@@ -120,7 +120,7 @@ Everything is a little more expensive than the previous Gateron GB caps but they
 
 * [EnjoyPBT GB on geekhack](https://geekhack.org/index.php?topic=78563.0)
 
-[ISO Interest Check](http://goo.gl/forms/Ckluo53XzC)
+[ISO Interest Check](https://goo.gl/forms/Ckluo53XzC)
 
 ## Cooler Master Masterkeys Pro L/Pro S
 L = Fullsize
@@ -128,7 +128,7 @@ S = Tenkeyless
 
 This is an RGB keyboard. I am sort of seeing a peak in RGB keyboards. If this good quality, I think it could at least fill the need for RGB keyboards.
 
-* [More info](http://www.tweaktown.com/news/49547/cooler-master-updates-keyboards-mice-rgb-leds-sexy-good-looks/index.html)
+* [More info](https://www.tweaktown.com/news/49547/cooler-master-updates-keyboards-mice-rgb-leds-sexy-good-looks/index.html)
 
 ## 1upkeyboards Woodland Camo and ErgoDox
 ![](https://i.imgur.com/Kox90p8.jpg)
@@ -139,12 +139,12 @@ The other new availability is the ErgoDox sleeve. This is a nice design and some
 
 * [Reddit Post for camo](https://redd.it/3znszo)
 
-* [ErgoDox Sleeves](http://1upkeyboards.com/index.php?cPath=1_39)
+* [ErgoDox Sleeves](https://1upkeyboards.com/index.php?cPath=1_39)
 
 ## PMK Slightly Back
 It seems PMK is back to normal, and you are able to vote on new keyset designs. It still isn't the most responsive or fluid design. But as of now it seems to be doing something.
 
-* [PMK Launch Pad](http://pimpmykeyboard.com/launch-pad/)
+* [PMK Launch Pad](https://pimpmykeyboard.com/launch-pad/)
 
 ------------------------------------------------
  <p style="text-align: right" title="Screwed">Typed on <font color="#6c6c6c">SSK</font></p>

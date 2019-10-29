@@ -19,7 +19,7 @@ There was also a new photo of The Entling!
 
 ## Adamski
 Adamski created a good introduction with a keycap giveaway featuring the T800 design in both Topre and MX variants. 
-![Adamski Artisans and WASD set](http://i.imgur.com/64zfznS.jpg)
+![Adamski Artisans and WASD set](https://i.imgur.com/64zfznS.jpg)
 I have been a particular fan of the T800 design since I saw the creation photos on reddit.
 Also, notice the very nice looking WASD set. This is a design that I have not seen been done before. The colours here are also incredibly vibrant and look really good in this design.  
 I managed to win a Lava cap and I am very excited to get it.  
@@ -94,7 +94,7 @@ Binge has also started an official trade thread where you are able to trade your
 
 ## Krytone
 Krytones activity this month was contained to the Pre-Batman sale. This happened on the 4th of September. It featured a multitude of different colours and designs. My favourite being this
-![Krytone Krap Multi coloured](http://i62.photobucket.com/albums/h113/Krytone/02_zpsqosdgq0h.jpg)
+![Krytone Krap Multi coloured](https://i62.photobucket.com/albums/h113/Krytone/02_zpsqosdgq0h.jpg)
 Hopefully the batman sale is coming soon after this.
 
 * [Sale Thread](https://geekhack.org/index.php?topic=63758.0)
@@ -105,7 +105,7 @@ Retro has created a new design SHARPEI BÉRET! The detail on this is very nice a
 * [Photos](https://geekhack.org/index.php?topic=73671.msg1803839#msg1803839)
 
 ## Flehrad R.A.G Caps
-![Flehrad's translucent keycaps](http://i.imgur.com/OSPthLk.jpg)
+![Flehrad's translucent keycaps](https://i.imgur.com/OSPthLk.jpg)
 In the past I have said I really like these caps so of course I managed to miss the sale. This was quite a large sale that took place on mechmarket
 There was also an update with an incredibly nice evergreen keycap.
 ![Evergreen R.A.G cap](https://i.imgur.com/drFVwVM.jpg)
@@ -126,14 +126,14 @@ Luckily for me and many others a sale could be on the horizon. After removal of 
 * [Booper's thread](https://geekhack.org/index.php?topic=67744.0)
 
 ## RoastPotatoes
-![Roastpotatoes RGB modsets keycaps](http://i.imgur.com/NG4EVxN.jpg)
+![Roastpotatoes RGB modsets keycaps](https://i.imgur.com/NG4EVxN.jpg)
 It almost had to happen. I am now including myself in my roundup. My current project is RGB mod sets for the HHKB and Topre in general. This is also coming with a couple of pink sets. I have closed orders for now but potentially could make more in the future.
 
 ## Girldc
 ![](https://i.imgur.com/yunFo9L.jpg)
 Girldc seems to be having more of a presence lately. I have noticed more activity on geekhack and reddit. I am not familiar with these characters but they are of a very particular style. Girldc is also very good at translating them to keycap form.
 
-* [Additional Album](http://imgur.com/a/wHdUi)
+* [Additional Album](https://imgur.com/a/wHdUi)
 
 
 

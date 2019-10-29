@@ -9,9 +9,9 @@ tags: []
 ---
 
 ## 100 Colour Keycap Set
-![100 colour pbt dyesub keyset](http://i.imgur.com/24UvwXG.jpg)
+![100 colour pbt dyesub keyset](https://i.imgur.com/24UvwXG.jpg)
 I thought this set was worth mentioning as I felt it did catch my eye differently when I saw it compared to many others sets I see.  
-These are going to be available by thee end of the month on [geekkeys.com](http://www.geekkeys.com/). This news after all does come from feng the owner of geekkeys.  
+These are going to be available by thee end of the month on [geekkeys.com](https://www.geekkeys.com/). This news after all does come from feng the owner of geekkeys.  
 
 They are dyesub PBT and come with an equally interesting keycap stand.
 
@@ -37,11 +37,11 @@ To sum it up this quote from CPTBadAss works well:
 
 livingspeedbump of keychatter is next in line to get the case so more opinion should be available soon.
 
-If however you remain undiscouraged, it is the [HHKB aluminium case is now available on taobao](http://world.taobao.com/item/523139210844.htm?fromSite=main&spm=a1z10.5-c.w4002-3510863721.27.13jLVo)
+If however you remain undiscouraged, it is the [HHKB aluminium case is now available on taobao](https://world.taobao.com/item/523139210844.htm?fromSite=main&spm=a1z10.5-c.w4002-3510863721.27.13jLVo)
 
 ## SKIDATA+ GMK GB Live
 ![SKIDATA  base look](https://i.imgur.com/MRrYjNl.png)
-This GB is taking place on [zealpc.net](http://zealpc.net/products/skidata). [More information in the geekhack thread.](https://geekhack.org/index.php?topic=76521.0)
+This GB is taking place on [zealpc.net](https://zealpc.net/products/skidata). [More information in the geekhack thread.](https://geekhack.org/index.php?topic=76521.0)
 
 
 ## Leandren Round 3 60% GB
@@ -66,7 +66,7 @@ With the release of Fallout 4 this is particularly relevant. It has been a long 
 
 
 ## Topre Poster
-![Roastpotatoes topre poster](http://i.imgur.com/Td8YWWg.png?1)
+![Roastpotatoes topre poster](https://i.imgur.com/Td8YWWg.png?1)
 
 As, I will probably have some of these soon. I would just like to get them out there a bit more. I am getting some A3 prints. Price yet to be determined.
 
@@ -86,7 +86,7 @@ I thought it was worth another mention as it is getting closer to fruition. I am
 
 This is a very rare GB and is the first of its kind at this scale.
 
-* [Deskthority F72 and F77 Thread](http://deskthority.net/group-buys-f50/brand-new-f62-kishsaver-f77-industrial-model-f-s-made-this-year-t11046.html)
+* [Deskthority F72 and F77 Thread](https://deskthority.net/group-buys-f50/brand-new-f62-kishsaver-f77-industrial-model-f-s-made-this-year-t11046.html)
  
 * [My Post + Ellipse Smallterview}]({{ site-url }}news/2015/11/11/the-kishsaver-f62-and-f77-revival-project/)
 

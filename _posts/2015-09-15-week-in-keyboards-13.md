@@ -9,10 +9,10 @@ tags: []
 ---
 
 ## Ace Switches, Bamboo Cases and Mahogany Keycaps
-![Bamboo Keyboard CAse](http://i.imgur.com/pOwIMz9.jpg)
+![Bamboo Keyboard CAse](https://i.imgur.com/pOwIMz9.jpg)
 This is all coming from one person [/u/Dashwoodlll](https://www.reddit.com/user/DashwoodIII) on reddit. What started as a [IC for wooden cases](https://redd.it/3k6p0o), turned into something that seems to be a complete package. 
 
-[More photos of the ace keyboard.](http://imgur.com/gallery/S4eou)
+[More photos of the ace keyboard.](https://imgur.com/gallery/S4eou)
 
 Here is a short summary of what to expect.
 
@@ -26,7 +26,7 @@ Here is a short summary of what to expect.
 *[Source](https://www.reddit.com/r/pcmasterrace/comments/3kal8m/wooden_mechanical_keyboard_update/cuw05gs)*
 
 There is not a huge amount of information, but a new switch type may bring some interest.
-![Ace switches](http://i.imgur.com/VvkKaWV.jpg)
+![Ace switches](https://i.imgur.com/VvkKaWV.jpg)
 
 The idea of wooden switch plates is another good idea. But the lack of wooden switch plates is likely due to their practicality. Getting wood thin enough to function as a switch plate and still retain durability is not too easy. It is possible that the Ace switches make this easier in some way.
 
@@ -35,9 +35,9 @@ The idea of wooden switch plates is another good idea. But the lack of wooden sw
 * [Source for more info and discussion](https://redd.it/3kvjfe)
 
 ## UK Cherry Liquidation
-[With the news that Cherry UK is no more](http://www.keyboardco.com/blog/index.php/2015/09/cherry-uk/), the last remaining UK stock is being sold over on Deskthority. Some interesting stuff such as the mug sold very quickly. But it is an entire lot featuring boards, pcb's keycaps and cables. Now the entire lot is being sold to make the liquidation easier. Currently it looks like it might go to 7bit who is probably quite a good person for this stuff to go to. It will then likely be sold off when it is 7bit's hands. One product of interest is the cherry pin's, which I have never seen before.
+[With the news that Cherry UK is no more](https://www.keyboardco.com/blog/index.php/2015/09/cherry-uk/), the last remaining UK stock is being sold over on Deskthority. Some interesting stuff such as the mug sold very quickly. But it is an entire lot featuring boards, pcb's keycaps and cables. Now the entire lot is being sold to make the liquidation easier. Currently it looks like it might go to 7bit who is probably quite a good person for this stuff to go to. It will then likely be sold off when it is 7bit's hands. One product of interest is the cherry pin's, which I have never seen before.
 
-* [Deskthority Link](http://deskthority.net/vendors-f52/cherry-t11434.html)
+* [Deskthority Link](https://deskthority.net/vendors-f52/cherry-t11434.html)
 
 ## New DIY Cable Stock at 1UP Keyboards
 ![1up keyboards custom DIY cables](https://i.imgur.com/3lHrhJS.jpg)
@@ -57,14 +57,14 @@ Multi-colours:
 * Black/Red 
 * Black/Silver
 
-[Available Here](http://1upkeyboards.com/product_info.php?cPath=23_27&products_id=97)
+[Available Here](https://1upkeyboards.com/product_info.php?cPath=23_27&products_id=97)
 
 ## New Keyboard from Gigabyte
-![K83 Keyboard by gigabyte](http://i.imgur.com/AAc4GDr.png?1)
+![K83 Keyboard by gigabyte](https://i.imgur.com/AAc4GDr.png?1)
 This is a new full-size mechanical keyboard from Gigabyte available in red and blue Cherry switches. The Force K86 doesn't come with any particular flashy features, but the design is of interest.   
 They were going for a "minimalist" look with this and I think this does actually look quite nice. Nothing affronts my eyes with this design. I think the minimal branding of "Gigabyte" looks ok and the blue indicator lights are particularly complimentary to the overall look.
  
-* [Product Page](http://www.gigabyte.com/products/product-page.aspx?pid=5437#kf)
+* [Product Page](https://www.gigabyte.com/products/product-page.aspx?pid=5437#kf)
 
 ## New 68 Key Keyboard
 Similar to the Leopold FC660C/M the Apko K680 has two additional switches. This is not hugely interesting but I always think another layout makes at least one more person happy.

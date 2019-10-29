@@ -21,7 +21,7 @@ Winning this year's title, is E3E's Duck Eagle With Hotswappable Alps.
 * [Keyboard of the Month Subforum](https://geekhack.org/index.php?board=178.0)
 
 ## Granite R4 
-![Tengwar Granite R4 Beta1](http://i.imgur.com/pABgTmr.png)
+![Tengwar Granite R4 Beta1](https://i.imgur.com/pABgTmr.png)
 *My favourite addition*
 
 Granive R4 is looking as though it will be running in the near future [(possibly a couple of days)](https://redd.it/3zl5ns), and the current designs are looking excellent. Also, note that this might be the last time Granite is run.
@@ -29,11 +29,11 @@ Granive R4 is looking as though it will be running in the near future [(possibly
 The images are of the beta stage so things can change and input is welcome.
 
 * [Granite R4 geekhack Thread](https://geekhack.org/index.php?topic=78236.0)
-* [Granite R4 Beta 1 Full Album](http://imgur.com/a/jpG2E)
+* [Granite R4 Beta 1 Full Album](https://imgur.com/a/jpG2E)
 
 
 ## Sentraq S60-X on Massdrop
-[![Sentraq S60-X keyboard on massdrop](http://i.imgur.com/eqxd8ZJh.jpg)](https://www.massdrop.com/buy/sentraq-60-diy-keyboard-kit?mode=guest_open)
+[![Sentraq S60-X keyboard on massdrop](https://i.imgur.com/eqxd8ZJh.jpg)](https://www.massdrop.com/buy/sentraq-60-diy-keyboard-kit?mode=guest_open)
 This has been in waiting for a long time and it has now come to massdrop. Despite the interesting lead up, there does not seem to be an overwhelming amount of interest. This seems to be mostly up to the price of $129 + shipping. But it could also just be a factor of the large amount of 60%'s that have been on sale recently.
 
 What does make the S60-X stand out is the fact that it is a DIY kit. If you are looking for a kit this looks to be a solid community designed 60%.
@@ -46,7 +46,7 @@ For those who don't know Eitti Wada is the creator of the HHKB. This should inte
 * [Eitti Wada Interview on Massdrop](https://www.massdrop.com/article/eiiti-wada-interview?mode=guest_open)
 
 ## K-Type Prototypes
-![K-Type Prototype Angled](http://i.imgur.com/sJ4Skrf.jpg)
+![K-Type Prototype Angled](https://i.imgur.com/sJ4Skrf.jpg)
 
 The K-Type is a tenkeyless made by Input Club who created the Infinity Ergodox and the Infinity 60%. For this reason there is a fair amount of belief that this will be a nice keyboard.
 
@@ -54,9 +54,9 @@ There is not much new information, but nor is there much information needed. The
 
 The K-Type is currently at CES so if you want to see it in person you will have to find a way to get there. See the Forum post for addition information.
 
-![K-Type Flat](http://i.imgur.com/cViirnu.jpg)
+![K-Type Flat](https://i.imgur.com/cViirnu.jpg)
 
-* [K-Type Forum Post](http://input.club/forums/topic/k-type/page/2/#post-1880)
+* [K-Type Forum Post](https://input.club/forums/topic/k-type/page/2/#post-1880)
 
 ## Topre Keyset
 It was not much of a surprise that the Massdrop was not successful. It just wasn't making up the numbers these past few weeks. But it is not completely dead. And I am happy to see that the original thought is still there. This was entirely brought about by peoples interest and I still think with some tweaking this could be a future possibility.
@@ -75,7 +75,7 @@ I would like to mention this as it is an interesting custom keyboard from the co
 
 
 * [Katana Reddit Post](https://redd.it/3za8x2)
-* [Katana Prototype Full Album](http://imgur.com/a/Wpy9j)
+* [Katana Prototype Full Album](https://imgur.com/a/Wpy9j)
 
 I am working on an Artisan Roundup for December and something else. I am just a bit slow. 	
 

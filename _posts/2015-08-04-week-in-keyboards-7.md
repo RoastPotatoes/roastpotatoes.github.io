@@ -12,7 +12,7 @@ I have improved my organisation for this week and hopefully should have better c
 
 ## KC60 Update
 For those who partook in the GB there was a small update.	
-![](http://i.imgur.com/UhlxCW6.png)
+![](https://i.imgur.com/UhlxCW6.png)
 Nothing particularly interesting, other than the fact they are on target. Apart from the delays.
 
 ## Planck Milled Bottoms Shipping
@@ -21,11 +21,11 @@ These are looking really nice and I think work very well with the aesthetic of t
 
 
 I also spotted an atomic PCB in the wild. Hopefully mine is on the way.
-[![](http://i.imgur.com/SA1XK4C.jpg)](https://geekhack.org/index.php?topic=62471.msg1820868#msg1820868)
+[![](https://i.imgur.com/SA1XK4C.jpg)](https://geekhack.org/index.php?topic=62471.msg1820868#msg1820868)
 
 
-* [Buy Milled Bottom Here](http://ortholinearkeyboards.com/planck-milled-bottom)
-* [Atomic PCB Here](http://ortholinearkeyboards.com/atomic/atomic-keyboard-kit)
+* [Buy Milled Bottom Here](https://ortholinearkeyboards.com/planck-milled-bottom)
+* [Atomic PCB Here](https://ortholinearkeyboards.com/atomic/atomic-keyboard-kit)
 
 ## New Keyboard Forum KBDhub
 It has not yet skyrocketed into popularity. However, the admins are some recognisable names from geekhack.
@@ -39,12 +39,12 @@ I have made an account but I find it hard to justify its existence. I would be m
 ## UK Keycaps Update
 UK Keycaps seems to be shaping into a useful store for those in the UK. This latest stock update brings a few switch testers to the table.
 
-* <http://ukkeycaps.bigcartel.com/>
+* <https://ukkeycaps.bigcartel.com/>
 
 ## SentrantPC O-ring Restock
 For anyone interested in o-rings this seems like a good US source. It is also good to support the smaller stores.
 
-* <http://sentrantpc.com/>
+* <https://sentrantpc.com/>
 
 
 ## Gateron Producing ISO Enter Keys
@@ -53,7 +53,7 @@ After having no ISO enters for the shadovved GB, Gateron is now producing them. 
 ![](https://gd4.alicdn.com/bao/uploaded/i4/TB1HU4xIVXXXXcoXXXXXXXXXXXX_!!2-item_pic.png)
 
 ## Leandren Empire Expanding
-![](http://i.imgur.com/LLs9i7y.png)
+![](https://i.imgur.com/LLs9i7y.png)
 Leandren is now offering Spirit 60% pcb's with his universal 60% plate designed by JDcarpe. I thought this was awesome as this is a near perfect custom 60%. For anyone who doesn't want a stock 60%, this is a great purchase. Orders aren't quite up yet.
 
 * [geekhack Purchase Thread](https://geekhack.org/index.php?topic=73666.0)
@@ -65,16 +65,16 @@ Previously slated for release in August, now coming in September.
 ## Techmattr Cables on 1upkeyboards
 1upkeyboards which is known for high quality keyboard sleeves is now offering custom cables by techmattr. You are able to buy what is offered on the store as well as contacting [/u/techmattr](https://www.reddit.com/user/techmattr) for your custom needs.
 
-* [1upkeyboards](http://1upkeyboards.com/index.php)
+* [1upkeyboards](https://1upkeyboards.com/index.php)
 
 ## GMK Classic Beige
 I try not to function as a groupbuy tracker but this one has been planned for a while. GMK is considered the height of doubleshot ABS quality and this is an excellent colourway. For those looking to upgrade their keysets I suggest this as a great starting point. Of course GMK comes with a bit of a higher price tag compared to other offerings.
 
 This is also being run through precision buys which I remember seeing before but can't quite place it.
 
-![](http://precision-buys.com/images/123pcs.jpg)
+![](https://precision-buys.com/images/123pcs.jpg)
 
-* [Order Here](http://precision-buys.com/index.php?main_page=index&cPath=6_5)
+* [Order Here](https://precision-buys.com/index.php?main_page=index&cPath=6_5)
 * [GH Thread Here](https://geekhack.org/index.php?topic=74183.0)
 
 ---------------------------------

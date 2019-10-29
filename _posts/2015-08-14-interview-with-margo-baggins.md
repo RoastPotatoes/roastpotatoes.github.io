@@ -52,7 +52,7 @@ margo_baggins: hmm, vintage ones are quite pingy I find, and just alright, I did
 
 The Cheat - I use this almost exclusively at home, don't know why, I just love it - half plate, vintage browns, but mainly the half plate, I like plateless, maybe it's a sin but I like it...
 
-**skiwithpete: I had to look up "The Cheat" - ![](http://i.imgur.com/dKf3C.jpg)**
+**skiwithpete: I had to look up "The Cheat" - ![](https://i.imgur.com/dKf3C.jpg)**
 
 margo_baggins: At work I currently have a Realforce, just a stock beige one, 87 key. But, I rotate that board quite a lot and I take a plateless 60% there quite often, which is in a hammer case with a GON 60% PCB, one of the {{site.ctrlalt}} ones. I like this as it supports all layouts and plateless means I can change it around really easily. I also have a 60% alps board that I pop in that case sometimes, which has Monterey blue switches and I've finally got a complete cap set for it by getting my hands on 4 SGI Granite boards, only needed 1 for the keyset, but you know this game, it thrives on excess!  I also got a whole heap of boards that live about my flat (and annoy my girlfriend) that I rotate with work and home sometimes. I've got 5 or 6 cherry boards that I don't really use but, I just have: off the top of my head a G80-1800 ISO winkeyless, Raptor K1, G80-1000's, G80-11901 ANSI, G80-11900 ANSI and maybe that's it... They all have nice cherry doubleshots on them, which is why I pick them up.  I also pick up old alps boards and old typewriters that may or may not have mx switches and/or cherry profile caps. At the mo, I'm running about 30/70 success rate with the typewriters and I've had to stop for a bit as I get into real trouble for that because some of the things I've thought will be great are not great and have cost me more than they are worth :D
 
@@ -156,7 +156,7 @@ margo_baggins: But then, how in conversation with someone you don't know would y
 
 
 ### About the interviewer:   
-/u/skiwithpete is a regular on /r/mechmarket having bought and sold many boards, keysets and artisan products through the forum.  He's also one half of artisan sleeve makers <http://1upkeyboards.com> with his wife Stephanie.
+/u/skiwithpete is a regular on /r/mechmarket having bought and sold many boards, keysets and artisan products through the forum.  He's also one half of artisan sleeve makers <https://1upkeyboards.com> with his wife Stephanie.
 
 --------------------------------
  <p style="text-align: right" >Mildly Edited on an <font color="#6c6c6c">SSK</font></p>

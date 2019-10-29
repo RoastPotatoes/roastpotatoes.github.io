@@ -15,16 +15,16 @@ With the return of Geekhack, a long time moderator and site admin Mkawa has step
 For those who don't know this is a mechanical keyboard podcast This continues to be a very good podcast that I very much enjoy. For anyone in the mechanical keyboard hobby, this podcast will give you some insight and information into the whole keyboard process.   
 I was most excited for the Atomic PCB's which are getting closer. There is a lot of shipping around involved but the coming weeks could be interesting for the Atomic.
 
-* [Episode 3](http://redd.it/3c7s49)
+* [Episode 3](https://redd.it/3c7s49)
 
 ## Ripster
 Today I was surprised with a new wealth of ripster posts. This all happened very quickly today but I am happy to see ripsters guides making a comeback.
 
-* [IBM Keycap Guide](http://redd.it/3cfs5l)
-* [Riporuster](http://redd.it/3cfodx)
+* [IBM Keycap Guide](https://redd.it/3cfs5l)
+* [Riporuster](https://redd.it/3cfodx)
 
 With the quiet announcement/discovery of the QuickFire Rapid XTi Ripster has a sample and has posted a gallery.  
-<http://redd.it/3brz70>  
+<https://redd.it/3brz70>  
 From the looks of things this looks to be a nice stock keyboard.
 
 
@@ -33,7 +33,7 @@ From the looks of things this looks to be a nice stock keyboard.
 ## The Diverge II
 Blahlicus is back with the second revision of the ErgoDox alternative the Diverge II. This is really a great project as it is making split keyboards more accessible than the ErgoDox did. It is cheaper and only uses 1u caps. You can preorder it with a surprising amount of custom options. You can choose the switches how assembled you want it, the colour of the case and the keycaps. Blahlicus is another rare member of the community who is offering something quite special.
 
-* [Preorder](http://uniquekeyboard.com/store/index.php?route=product/product&path=61&product_id=130)
+* [Preorder](https://uniquekeyboard.com/store/index.php?route=product/product&path=61&product_id=130)
 * [More info](https://www.reddit.com/r/MechanicalKeyboards/comments/3brtyi/photosthe_ergodox_is_still_too_expensive_so_i/csovn6p)
 
 ## The Last KBT Keyboards
@@ -44,12 +44,12 @@ The keyboard itself has 108 keys and blue led's. The project page suggests somet
 
 I also found it interesting that the project is being crowdfunded. The 'kickstarter' has rewards such as a big-ass enter key pillow and a keychain.
 
-* <http://uccu.cool3c.com/projects/80>
+* <https://uccu.cool3c.com/projects/80>
 
 ## EliteKeyboards
 The HHKB Pro 2 is $15 off at the moment. This is not the greatest deal, but if you are in America you wont find it much cheaper at a retail location.
 
-* [HHKB Pro 2 at EliteKeyboards](http://www.elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2)
+* [HHKB Pro 2 at EliteKeyboards](https://www.elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2)
 
 ## Mechanicalkeyboards.com Stocking FC660C
 This has been quite the hard keyboard to get hold of lately, and mk.com is making that easier. If I hadn't a HHKB, I would be seriously tempted by this.
@@ -60,7 +60,7 @@ This has been quite the hard keyboard to get hold of lately, and mk.com is makin
 ## Signs of the New PMK
 PMK have just put up the deep space DSA set up in their store for purchase. This is all part of them stocking popular GB's of keycaps which are always in demand. I am interested to see how well this works. This could be very beneficial for PMK and I do hope it works out because the community can only benefit from this.
  
-* [Deep Space on PMK](http://keyshop.pimpmykeyboard.com/products/full-keysets/deep-space)
+* [Deep Space on PMK](https://keyshop.pimpmykeyboard.com/products/full-keysets/deep-space)
 
 ## The Last Brobot V2 Auction
 This is most definitely artisan territory, but this is a limited engagement. A Topre and an MX brobot are up for auction on {{ site.ctrlalt }}. These are aluminium CNC milled brobots which will not go cheap. Although you only have a day, this will quickly go out of many peoples price range.
@@ -74,7 +74,7 @@ Just a heads up a sale is happening tomorrow on the 8th of July. This is featuri
 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
-For those who want to be notified of new posts I have created a mailing list. [Join it here](http://eepurl.com/bsc4wH)
+For those who want to be notified of new posts I have created a mailing list. [Join it here](https://eepurl.com/bsc4wH)
 
  ------------------------------------------------
  <p style="text-align: right" title="Colemak">Typed on Cherry <font color="#FE0058">MX 6.0</font></p>

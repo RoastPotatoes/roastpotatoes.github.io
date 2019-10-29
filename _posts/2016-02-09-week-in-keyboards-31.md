@@ -9,7 +9,7 @@ tags: []
 ---
 
 ## Cherry GMK Keycap GB
-![Cherry GMK Keycap GB](http://i.imgur.com/8QrPo1e.png)
+![Cherry GMK Keycap GB](https://i.imgur.com/8QrPo1e.png)
 This is a groupbuy for the recently available cherry GMK keys, In the above colours. This was around last week but as it is a rolling groupbuy it is still worth a mention.  
 
 It will be run until 150 sets have been ordered. At the time of writing this 102 have been ordered. Also, note that this set was previously for 6 keys however due to the popularity an additional keycap was added.
@@ -28,7 +28,7 @@ This could be the new GMK spacebar, certainly something nice to collect.
 * [Order Form](https://docs.google.com/forms/d/1re3zLNcn5E_fwZq9avHM_ZDAhKUbpKqmvTZJsJ-SuQ8/viewform)
 
 ## Pulse is Successful
-[![Pulse base set](http://i.imgur.com/IcGkEuO.png)](https://www.massdrop.com/buy/pulse-sa-keycap-set?mode=guest_open)
+[![Pulse base set](https://i.imgur.com/IcGkEuO.png)](https://www.massdrop.com/buy/pulse-sa-keycap-set?mode=guest_open)
 This is not really a surprise to anyone but it has happened. With this news the lowest price has been reached.
 
 * [PuLSE R2 on Massdrop](https://www.massdrop.com/buy/pulse-sa-keycap-set?mode=guest_open)
@@ -48,7 +48,7 @@ I was always looking for these when I had an ErgoDox so I thought they were wort
 ## New Model F's
 Not new this week but still worth a mention. The new Model F's are still here and in the early bird round. This should be a project remembered for a long time and it is incredibly to see it come to fruition.
 
-* [Model F Store](http://www.modelfkeyboards.com/)
+* [Model F Store](https://www.modelfkeyboards.com/)
 * [Elipse Interview with some more information](/news/2015/11/11/the-kishsaver-f62-and-f77-revival-project/)
 
 ## VE.A Information

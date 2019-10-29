@@ -385,7 +385,7 @@ toprequest 9
 toprequest 10
 nexus 10 toppreise"
 ---
-![my band selection](http://i.imgur.com/0LME7hH.jpg)
+![my band selection](https://i.imgur.com/0LME7hH.jpg)
 *From left to right: 1/8", 3/16" and Limited edition RoastPotatoes silencing pad.*
 
 Upon and before purchasing my HHKB I was quite sure there was a sure-fire way to silence the HHKB quite easily with little cost. It is also supposed to be one of the better ways to silence Topre, because of this I thought that I need not look any further to find a method to silence my HHKB.
@@ -408,7 +408,7 @@ In reference to the reduced travel, I did not have any problem with this. So I w
 
 I honestly do not really know what causes this problem. What I am guessing is that the springs are already compressed (due to the reduced space because of the dental bands) and this effects how they spring back up when further compressed. The bands push the sliders up slightly so when you put the domes and plate on, the plate does not sit flat in the case. It has to be screwed in order for the keyboard to actually become together.
 
-To corroborate what I am saying and give at least some validity to what I am saying. cookie mentions something similar [here](http://deskthority.net/photos-f62/did-a-silence-mod-on-my-topre-88ub-t5955.html#wrapper)
+To corroborate what I am saying and give at least some validity to what I am saying. cookie mentions something similar [here](https://deskthority.net/photos-f62/did-a-silence-mod-on-my-topre-88ub-t5955.html#wrapper)
 
 # Investigation
 My first thought was that I had put the bands on wrong or I had unseated the springs. This is where I lost a lot of time, I have taken my HHKB apart and reassembled it a lot. I was madly trying to find the solution to this problem. 
@@ -423,7 +423,7 @@ The next step was creating my own silencing 'bands' this was done quite spontane
 After going back to dental bands and giving them a longer trial around a month. I have returned to stock. I have learned to appreciate my HHKB and am content with its stock thock.
 
 # The Future
-I understand that there are people who still want to find the perfect Topre silencing method. Going on the current research thin foam is the way to go. I would also like to draw attention to [this](http://deskthority.net/help-f53/silencing-rings-for-topre-rf-or-hhkb-t10051.html) interest check. This is the most promising way you will achieve the 'perfect' Topre sound.  
+I understand that there are people who still want to find the perfect Topre silencing method. Going on the current research thin foam is the way to go. I would also like to draw attention to [this](https://deskthority.net/help-f53/silencing-rings-for-topre-rf-or-hhkb-t10051.html) interest check. This is the most promising way you will achieve the 'perfect' Topre sound.  
 I did not find the solution to my problem or even find out the cause. But I have enjoyed the process and am very happy with my current almost stock HHKB.
 
 For me, dental banding did not work, and overall was a bad experience but others may like to try it out. Here are some guides I found most useful:

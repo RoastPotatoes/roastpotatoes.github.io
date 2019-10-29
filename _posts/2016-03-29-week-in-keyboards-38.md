@@ -43,16 +43,16 @@ With all of that information I would certainly say this is an interesting projec
 
 
 ## The K-Type Official Forum Presence
-![K-Type RGB TKL by Input Club](http://i.imgur.com/qAdJMvk.jpg)
+![K-Type RGB TKL by Input Club](https://i.imgur.com/qAdJMvk.jpg)
 I'm not sure if there has been much more development on the K-Type or if there is anything necessary to announce. But they now have official forum posts on [geekhack](https://geekhack.org/index.php?topic=80894.0), [deskthority](https://deskthority.net/keyboards-f2/k-type-mechanical-keyboard-input-club-t13416.html#p297751) and [reddit](https://redd.it/4cgje9).  
 Last week they also created a page on idea hunt. I'm not familiar with this website, but the name is fairly self explanatory. You are able to propose ideas and people feedback on those ideas.
 
-* [K-Type Ideahunt](http://www.ideahunt.io/coach/campaigns/what-awesome-feature-should-we-add-to-the-k-type-keyboard)
+* [K-Type Ideahunt](https://www.ideahunt.io/coach/campaigns/what-awesome-feature-should-we-add-to-the-k-type-keyboard)
 
 ## Frosty Flakes at 1upkeyboards
 The frost Flake is a custom controller for the Cooler Master QFR. I always thought these were a good idea especially when I was getting into keyboards. It is a good way that you can make a programmable keyboard. But if you have this already as your keyboard then it is a good introduction to what else you could do with your keyboard.
 
-* [Frosty Flake at 1upkeyboards](http://1upkeyboards.com/product_info.php?cPath=38&products_id=246)
+* [Frosty Flake at 1upkeyboards](https://1upkeyboards.com/product_info.php?cPath=38&products_id=246)
 
 
 
@@ -65,7 +65,7 @@ So hopefully this notifies somebody about the event they might have missed.
 ## WoB Online Shop
 The War of Betrayal keyboard shop is online. WoB's main export at the moment is the Star Wars inspired keycaps. But they are of course known for the War of Betrayal line of keycaps. 
 
-* [WOB Keyboard](http://wobkeyboard.com/)
+* [WOB Keyboard](https://wobkeyboard.com/)
 
 ---------------------------------
 

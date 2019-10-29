@@ -24,10 +24,10 @@ These switches were leaked last week and they are everything that they were expe
 
 The new speed switches are not that much of a draw.
 
-* [Corsair K70 RGB Speed](http://www.corsair.com/en-gb/k70-rgb-rapidfire-mechanical-gaming-keyboard-cherry-mx-speed-rgb-na)
+* [Corsair K70 RGB Speed](https://www.corsair.com/en-gb/k70-rgb-rapidfire-mechanical-gaming-keyboard-cherry-mx-speed-rgb-na)
 
 ## Jelly Key Giveaway (Ends 04/27/16)
-![Jelly Key The Abandoned Maze Keycap](http://i.imgur.com/PCgEqgF.jpg)
+![Jelly Key The Abandoned Maze Keycap](https://i.imgur.com/PCgEqgF.jpg)
 All you have to do is comment a random number between 1-9999
 
 * [Jelly Key Giveaway](https://www.facebook.com/jellykey.joinhandmade/posts/1545977122364873)
@@ -46,7 +46,7 @@ So... a dampening method, and some stabilisers? Could be exciting.
 Apparently this has been in the works for longer than I realised. [More information.](https://geekhack.org/index.php?topic=78155.0)
 
 ## VE.A Coming to Massdrop (thanks badnewscaps)
-![](http://i.imgur.com/p6duEU0.png)
+![](https://i.imgur.com/p6duEU0.png)
 So I managed to completely miss this before, but the extremely popular korean custom, is coming to massdrop. This is both good and bad. It makes it widely available, which I can't see any complaints about, but it is massdrop. Massdrop have had issues in the past, but I don't think they have ever completely failed. If they are packed correctly then this would solve a common concern people have. But I wouldn't imagine any shipping price decreases or anything like that.
 
 * [VE.A IC Thread](https://geekhack.org/index.php?topic=79318.0)

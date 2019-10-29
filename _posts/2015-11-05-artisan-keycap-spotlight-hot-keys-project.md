@@ -52,7 +52,7 @@ This is a good thing about Hot Keys. There are many colours available and more t
 Getting these keycaps can be a lot easier than many others. Martin often runs monthly-ish sales and keycaps are made to order so no raffle, and you are guaranteed a keycap.  
 The November sale is next and I think it features some great colours.
 
-![november Gray wolf gasmask v2](http://i.imgur.com/P7A6Hc6.jpg)
+![november Gray wolf gasmask v2](https://i.imgur.com/P7A6Hc6.jpg)
 
 
 I really like both of my HKP keycaps. These are some lovely keycaps and I am very happy to own them. I have been thinking about the keycaps as keycaps, and them as objects and the artistic value they hold. Although I have a lot of artisans, they are not often on my keyboard. I like how they look and what they represent. The fact that they are keycaps often doesn't matter, as that is just the context of these small sculptures and creations. I like them as the canvas that creates possibilities. At the same time I appreciate this as a limiting factor and like how keycaps are designed by the confines of what they are, and in the end they have a very simple function, and they all do the same thing. Many caps like clacks and bros create high resale prices and I don't think that is wrong, but I like the keycaps I have for various reasons. The prices are an inevitability of objects like this.

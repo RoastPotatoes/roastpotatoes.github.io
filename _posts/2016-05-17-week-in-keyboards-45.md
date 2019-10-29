@@ -6,11 +6,11 @@ category:
 - weekinkeyboards
 
 tags: []
-thumbnail: http://i.imgur.com/TQQgzja.jpg
+thumbnail: https://i.imgur.com/TQQgzja.jpg
 ---
 
 ## The Ducky Pocket
-![Ducky Pocket Mechanical Numpad/calculator](http://i.imgur.com/hlJjjMJ.jpg)
+![Ducky Pocket Mechanical Numpad/calculator](https://i.imgur.com/hlJjjMJ.jpg)
 *A Ducky Pocket in a pocket (potentially a Ducky employees).*    
 
 The Ducky Pocket is a mechanical numpad/calculator. Giving you both the great feeling of a mechanical numpad and the extended functionality of a calculator. If that wasn't enough, it also features RGB backlighting.  
@@ -25,17 +25,17 @@ Most of the information can be found on the Ducky facebook page. But there is no
 * [Ducky Facebook Page](https://www.facebook.com/Ducky-Keyboard-117547488320354/?fref=ts)
 
 ## Wooting One Coming to Kickstarter 22nd of May
-![Wooting One newsletter announcement](http://i.imgur.com/LbsbO8R.png)
+![Wooting One newsletter announcement](https://i.imgur.com/LbsbO8R.png)
 Nothing much to add to this. The Wooting One is quite an interesting keyboard and I imagine it will do well on Kickstarter.
 
 ## LPWL 
-![LPWL SHOP SELECTION](http://i.imgur.com/SbZUv0Z.png)
+![LPWL SHOP SELECTION](https://i.imgur.com/SbZUv0Z.png)
 "What is LPWL?", I didn't know myself until quite recently. It is a small shop selling a nice variety of o-rings for a nice price.
 
-* [lpwl.bigcartel.com](http://lpwl.bigcartel.com/)
+* [lpwl.bigcartel.com](https://lpwl.bigcartel.com/)
 
 ## Varmilo on geekhack
-![Varmilo pink mechanical keyboard](http://i.imgur.com/UfZj7NP.jpg)
+![Varmilo pink mechanical keyboard](https://i.imgur.com/UfZj7NP.jpg)
 Varmillo the keyboard company now has a geekhack account. They have always been a bit tricky to deal with directly, so this should make it a bit easier.  
 It appears they are taking direct orders if you enquire.
 
@@ -67,7 +67,7 @@ KeyClack is gone for a couple of days hiatus.
 [read more here](https://redd.it/4jsxmk)
 
 ## New Low Profile Kailh Switches
-![Low Profile kailh switches](http://i.imgur.com/TQQgzja.jpg)
+![Low Profile kailh switches](https://i.imgur.com/TQQgzja.jpg)
 I believe we may have seen these before, potentially at a previous computex. However, there was not much since their original sighting.  
 
 According to Matt3o they are finally being released. They are on the heavy side and the main issue is the lack of keycaps that support them. While it seems like regular MX caps would fit on individually, they will not fit alongside each other. Which is of course a problem if you want to make a board with them. Matt3o pointed out, these switches are closer to the Cherry ML switch than the MX. So they aren't quite another MX clone. 

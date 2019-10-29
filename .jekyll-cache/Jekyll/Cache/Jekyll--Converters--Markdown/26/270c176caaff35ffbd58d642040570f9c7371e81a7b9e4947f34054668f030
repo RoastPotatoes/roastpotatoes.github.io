@@ -1,0 +1,142 @@
+I"�%<p>It is likely that when you first build your ErgoDox you will be using the firmware created by Ben Blazak. Whilst this firmware works fine. The TMK firmware has some notable improvements.<br /> Such as:</p>
+
+<ul>
+  <li>Macros</li>
+  <li>Media Keys</li>
+  <li>Oneshot Modifiers</li>
+  <li>Mouse Keys 
+ </li>
+</ul>
+
+<p>So if you feel like you want to take advantage over some of these features, then continue reading. The first thing you will have to do is make sure you have all the necessary tools installed to compile the firmware. I have split the guide into two parts: Linux and windows. Although they are quite similar instructions it can be daunting if you don’t know what to do.
+It is also important to note that the ErgoDox support is only implemented in a fork of Hasu’s firmware made by Cub-Uanic.</p>
+<h3 id="linux">Linux</h3>
+<h4 id="prerequisites">Prerequisites</h4>
+<p>The fist step is to install avr-gcc. For this example I am using Arch Linux. But for other linux distributions the process is very similar, just use the package manager that is used on your system.</p>
+
+<p>To install avr-gcc on arch Linux</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo pacman -S avr-gcc
+</code></pre></div></div>
+
+<p>You also need git installed to clone the repository.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo pacman -S git
+</code></pre></div></div>
+
+<p>I also recommend using the command line version of the teensy loader. I find it easier to use as you can clearly understand and see what you are doing. This program is not on the official repository so you can install it from the AUR. An easy way to do this is through an aur helper (like in my example) or you can use makepkg.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yaourt teensy-loader-cli
+</code></pre></div></div>
+
+<p>This should be all you need to compile the firmware. So now you need to clone the git repository. Open a terminal and open the location you want to clone the repository to. This will just download the files and put them where you specify.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/cub-uanic/tmk_keyboard.git
+</code></pre></div></div>
+
+<p>Now you are ready to start building your firmware. For this part I will just show you how to build and flash the firmware. I will not get into the customization of the layout just yet. Once you are able to build the firmware, then you will find it much easier to edit the layout.</p>
+
+<h4 id="building">Building</h4>
+
+<ul>
+  <li>Once you have finished cloning the repository open a terminal and cd into the tmk_firmware folder.</li>
+  <li>
+    <p>Then you have to cd into the ergodox folder.</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  cd keyboard/ergodox
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>The next step is onto building the actual firmware.</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  sudo make -f Makefile.lufa clean It is good practice to get into using the `clean` the first time you build to ensure there is no left over files that will be used.
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>You will then need to run</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  sudo make -f Makefile.lufa However it is important to note that Hasu recommends using the lufa stack instead of the pjrc. This is because of a [bug](https://github.com/tmk/tmk_keyboard/issues/58) which affects the keyboard working after boot. This is why the lufa stack has been used in the tutorial. You may use pjrc if you wish. Just replace instances of `pjrc` with `lufa`.
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>You will find your firmware built in your current directory. The file you want is ergodox_lufa.hex <br />
+If you have chosen to use <code class="highlighter-rouge">sudo make -f Makefile.pjrc</code> in the previous step you must use the correct file for the next step. Instead of <code class="highlighter-rouge">ergodox_lufa.hex</code> it is <code class="highlighter-rouge">ergodox_pjrc.hex</code>.</p>
+  </li>
+  <li>
+    <p>Now you need to flash the flash file you have just generated onto your teensy. Run this command before following next step.</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  teensy-loader-cli -mmcu=atmega32u4 -w -v ergodox_pjrc.hex
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Once you have run the previous command then all you have to do is press the button on your teensy. You should see a short progress bar and you are done!</p>
+  </li>
+  <li>Once you get to customizing your firmware you will be able to create a software button that will act as the teensy button. This means you will not have to press the actual button on your teensy and therefore you do not need access to it. This is helpful as you can put your case back on and not worry about having to take it off all the time when you want to change the layout.</li>
+</ul>
+
+<h3 id="windows">Windows</h3>
+<p>I have to admit coming from linux I found compiling on windows a much harder task than I thought it would be. This was just due to my inexperience in using windows in such a way. I believe now that I can complete the task of building the tmk firmware.</p>
+
+<p>Although it is very similar to building on linux, windows does not come with the necessary tools to build the firmware out of the box.</p>
+<h4 id="prerequisites-1">Prerequisites</h4>
+<ul>
+  <li>
+    <p>First I recommend to installing git so you can easily clone the repository. This is easy to do on windows just go to this link: 	<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a> and download the windows installer.
+This should be an easy process as all you have to do is follow the installer.</p>
+  </li>
+  <li>
+    <p>The next step is to you then need to change to the directory where you want to clone the repository. For the purposes of this tutorial I recommend doing it somewhere like the Desktop, just to make things easier. To do this open “Git Bash”.
+Then in the bash prompt type:</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  cd Desktop Because when you opened the bash command  prompt you are in your user directory you can easily to change to the Desktop directory (which is inside your user directory) with the above command.
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Now clone the repository in the same command prompt with:</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  git clone https://github.com/cub-uanic/tmk_keyboard.git Once it has completed cloning the repository, you will be able to see the folder on the desktop containing the firmware source. 
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>The next step is to install <a href="https://cygwin.com/install.html">cywgin</a> follow the link and download the installer.</p>
+  </li>
+  <li>
+    <p>Finally download the pjrc firmware flasher, this is available from <a href="https://www.pjrc.com/teensy/loader_vista.html">here</a>. It  does not require installation just put the .exe where you can find it.</p>
+  </li>
+</ul>
+
+<h4 id="building-1">Building</h4>
+
+<ul>
+  <li>
+    <p>The next step is where I first got stuck. By default, when you open the cywgin shell it puts you in <code class="highlighter-rouge">C:\cygwin64\home\"yourusername"</code> and you have nothing in that directory.
+From here you want to change directory to the tmk firmware folder you cloned on your desktop. To do this use:</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  cd c:/Users/"yourusername"/Desktop/tmk_keyboard/keyboard/ergodox As you can see this has taken you quite the way. Your current working directory is now the ergodox folder inside of the tmk firmware repository you cloned earlier.
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>The next step is to do the initial build using:</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  make -f Makefile.lufa clean Just like in Linux it is good practice to get into using the `clean` the first time you build to ensure there is no left over files that will be used.
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Then run:</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  make -f Makefile.lufa All that is left now is to flash the firmware to your teensy. You will find the file in the ergodox directory you are currently in. It should be named `ergodox_lufa.hex`.
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Run the teensy loader application you downloaded earlier. For this step your ErgoDox needs to be connected to your PC. Press the teensy button on the controller as instructed by the program.<br />
+Here there are two ways you can program the file:</p>
+    <ol>
+      <li>Drag the .hex file onto the flashing program</li>
+      <li>Inside of the flashing program, click file then “Open HEX File”. Then you should be able to browse to the file you have just built.</li>
+    </ol>
+  </li>
+</ul>
+
+<p>You are now done. You should now start to experiment with your keyboard layout via editing the <code class="highlighter-rouge">keymap.c</code> file. This is where it really gets exciting.</p>
+
+:ET

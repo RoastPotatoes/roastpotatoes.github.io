@@ -8,27 +8,27 @@ tags: [ukkeycaps, mechanical keyboards, k3kc, vortex]
 ---
 ## UKKeycaps 
 ###  Devlin Keycaps
-![](http://i.imgur.com/mtCfFkq.jpg)
-UKKeycaps posted some interesting photos of some DSA like keycaps on reddit. These keycaps are made by another UK company Devlin. I had not heard of this manufacturer before but some searching indicated that they had been known to the community in the past. The now closed store "QWERkeys" had some involvement with buying from Devlin. There is a deskthority wiki page on [Devlin and the Q series keycaps.](http://deskthority.net/wiki/Devlin_Q_series)
+![](https://i.imgur.com/mtCfFkq.jpg)
+UKKeycaps posted some interesting photos of some DSA like keycaps on reddit. These keycaps are made by another UK company Devlin. I had not heard of this manufacturer before but some searching indicated that they had been known to the community in the past. The now closed store "QWERkeys" had some involvement with buying from Devlin. There is a deskthority wiki page on [Devlin and the Q series keycaps.](https://deskthority.net/wiki/Devlin_Q_series)
 
 The first keyset groupbuy is likely to be dolch in the Devlin Q series. MOQ for this will be around 60 units, the price is similar at around £65. Please be aware that this could all change. Although this will be the first keyset GB, the first GB may more likely be a tester pack so people are able to see what these caps are like. Expect 3-4 keycaps with a multitude of Devlin's profiles as well as a demonstration of their legend creating ability.
 
 * [Reddit Source](https://redd.it/3jmgee)
-* [Additional Photos](http://imgur.com/a/3Tr23)
+* [Additional Photos](https://imgur.com/a/3Tr23)
 
 ### UKKeycaps New Stock
 UKKeycaps should now be the cheapest source for cherry Blue,Red,Brown and Black switches in the UK. Since people live in the UK I see this as a good thing.  
 UKKeycaps is also running their second GB for Tai Hao PBT. This is also the first time ISO has been done. Each set will come with ansi relevant keys as well, which makes this set compatible with both.
 
-* [UKKeycaps Store](http://ukkeycaps.bigcartel.com/)
+* [UKKeycaps Store](https://ukkeycaps.bigcartel.com/)
 
 ## LeandreN
-The LeandreN side of things are continuing to expand as a new shop has opened [leandren.bigcartel.com](http://leandren.bigcartel.com/). Currently everything is "coming soon". I thought it was still worth a mention as LeandreN quickly became the proprietor of 60% plates and I expect you will see some extras popup soon.
+The LeandreN side of things are continuing to expand as a new shop has opened [leandren.bigcartel.com](https://leandren.bigcartel.com/). Currently everything is "coming soon". I thought it was still worth a mention as LeandreN quickly became the proprietor of 60% plates and I expect you will see some extras popup soon.
 
-* [LeandreN's Shop](http://leandren.bigcartel.com/)
+* [LeandreN's Shop](https://leandren.bigcartel.com/)
 
 ## New PBT Dyesubs by Varmillo
-![](http://i.imgur.com/n5SmXvl.jpg)
+![](https://i.imgur.com/n5SmXvl.jpg)
 
 I saw this on GH shared by HendyZone.    
 There is not a lot to tell from these photos, but they look quite fine. 
@@ -56,7 +56,7 @@ The 60% Royal Kludge that appeared a couple of weeks ago, is now available from 
 Has continued their line of lobos keycaps. This refresh comes with two new colours for the lobos keycap. I think this looks much nicer than the previous iterations. I can also say K3KC has a new favicon.
 
 ## Board Makers Podcast
-This the podcast from Jack Humbert of [OLKB.CO](http://ortholinearkeyboards.com/). Always an interesting podcast for those interested in keyboards.
+This the podcast from Jack Humbert of [OLKB.CO](https://ortholinearkeyboards.com/). Always an interesting podcast for those interested in keyboards.
 
 * [Episode on SoundCloud](https://soundcloud.com/board-makers/episode-12)
 * [Episode Discussion](https://redd.it/3k47pi)
@@ -69,7 +69,7 @@ Not major news but nice for shipping. Your Vortex keycaps will most likely be sh
 ## Cherry RGB Switches Available on Tao Bao
 Although still not too useful as there is a lack of RGB customs it is good that the Corsair exclusivity deal has run out. I imagine a Massdrop is on the way for the near future.
 
-* [TaoBao Link](http://tw.taobao.com/item/520160330432.htm?)
+* [TaoBao Link](https://tw.taobao.com/item/520160330432.htm?)
 
 ---------------------------------
  <p style="text-align: right" title="Ortholinear">Typed on the <font color="#6600CC">Atomic</font></p>

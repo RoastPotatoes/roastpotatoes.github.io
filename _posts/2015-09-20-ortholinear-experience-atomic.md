@@ -12,7 +12,7 @@ keywords: ortholiear, keyboard, keyboards,  mechanical, gateron, keycaps, olkb.c
 Well ortholinear is an almost made up word meaning straight and straight. This becomes instantly apparent when comparing an ortholinear keyboard with a standard keyboard you might be more familiar with. The rows are straight and in line with each other. Matrix is also used similarly to describe this type of layout.
 
 The true ortholinear keyboards were really started by Jack Humbert. Although other similar keyboards such as the type matrix exist. They are still not really the same.
-The first one made was the [Planck, a 12x4 grid keyboard](http://ortholinearkeyboards.com/planck). This not only introduced the ortholinear design to many people but also introduced keyboard deflation and the uses that come from both of these aspects.
+The first one made was the [Planck, a 12x4 grid keyboard](https://ortholinearkeyboards.com/planck). This not only introduced the ortholinear design to many people but also introduced keyboard deflation and the uses that come from both of these aspects.
 
 The other concept I think core to the ortholinear keyboard and more so the planck, is the use of different layers on the keyboard's firmware. This is not a new idea Fn layers are quite prevalent on most keyboards particularly laptop keyboards. But the planck utilises this in a way that has not really been done before. This is both a product of the design and a reason for the design. The ortholinear arrangement allows for uniformity in key spacing and shape. This therefore makes it great for reprogramming as you will not encounter any hardware differences for layouts. It is a better canvas for customisation simply because of this change.
 What this opens up is the possibility of your 48 key keyboard being 100 + key keyboard, all through virtual layers and keymaps. This is my favourite concept of the ortholinear keyboard. If this interests you I think you would be interested to hear the creator Jack Humbert talk about why the planck is the planck, and why he believes in its existence. Listening to him talk about the idea is the whole reason I wanted to try out the planck. You can listen to all of this on the [board makers podcast.](https://soundcloud.com/board-makers)
@@ -26,7 +26,7 @@ Think about extended layers as just another place on the keyboard. But this way 
 
 I have spent a lot of time talking about the planck but part one of this series is about the Atomic. This is the slightly larger brother of the planck with 75 keys with the grid layout. You could say it is not wholly inline with the ortholinear concept as it is larger than the planck, but I think it serves a useful purpose. For many the size of the planck is off putting. The Atomic is a middle ground which is useful to introduce the user to the concepts that could be further used on a smaller keyboard.
 
-I purchased the atomic out of fear for the smaller 40% size of the planck. This was also one of the prototype PCB's. But they are still [available here](http://ortholinearkeyboards.com/atomic/atomic-pcb)
+I purchased the atomic out of fear for the smaller 40% size of the planck. This was also one of the prototype PCB's. But they are still [available here](https://ortholinearkeyboards.com/atomic/atomic-pcb)
 
 ## The Atomic
 
@@ -66,7 +66,7 @@ Going into the Atomic I was typing on the HHKB and the corsair strafe. Both of t
 
 I am still interested in the planck because it is quite far removed from what I know. With a 60% I am very comfortable with minimal Fn layers, but the planck will require some adapting too.
 
-* [Get Ortholinear Keyboards at Ortholinearkeyboards.com](http://ortholinearkeyboards.com/)
+* [Get Ortholinear Keyboards at Ortholinearkeyboards.com](https://ortholinearkeyboards.com/)
 
 ---------------------------------
  <p style="text-align: right">Typed on The <font color="#2C2E30">Ultimate Hacking Keyboard</font></p>

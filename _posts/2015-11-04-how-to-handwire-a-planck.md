@@ -12,7 +12,7 @@ When I was hand wiring my planck, I could not really find a guide that I really 
 
 The hand wired planck is being phased out. But if you really want to do it, this is still a viable option.
 
-This is a slight rehash of [Matt3o's BrownFox](http://deskthority.net/workshop-f7/brownfox-step-by-step-t6050.html) guide, but I made some graphics to hopefully clarify a few things.
+This is a slight rehash of [Matt3o's BrownFox](https://deskthority.net/workshop-f7/brownfox-step-by-step-t6050.html) guide, but I made some graphics to hopefully clarify a few things.
 
 ## Switches
 This is the diagram I am using for a switch. This is the underside so it is sort of reversed but don't over think it.
@@ -84,7 +84,7 @@ One issue I had was flashing the hex use this command if the recommended command
 ## My hand wired Planck
 
 It took a long time to get it to a usable state. You may notice some additional wire here and there were things broke. But this should be assembled as per my instructions.
-![Handwired planck by roastpotatoes](http://i.imgur.com/ic3M6dI.jpg)
+![Handwired planck by roastpotatoes](https://i.imgur.com/ic3M6dI.jpg)
 
 ---------------------------------
  <p style="text-align: right" >Typed on The <font color="#3399CC">Planck</font></p>

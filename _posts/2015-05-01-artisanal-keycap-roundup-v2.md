@@ -12,21 +12,21 @@ redirect_from: "/2015/05/01/artisanal-keycap-roundup-v2/"
 ## Brocaps
 Quite excitingly Brocaps has been very active recently. Straight into April Brocaps introduced his new line of keycaps "Precision Gaming".
 ### Precision Gaming
-[![red precision gaming](http://i.imgur.com/Z2vv74a.jpg)](https://geekhack.org/index.php?topic=70644.0)
+[![red precision gaming](https://i.imgur.com/Z2vv74a.jpg)](https://geekhack.org/index.php?topic=70644.0)
 The current release of keycaps are the "Topre Gamers Set". The current offering is: Esc row key, WASD keys and Fn keys. This of course draws similarities to the previously ongoing announcement of the previous [Topre Gamer Set](https://geekhack.org/index.php?topic=60081.0). However one difference is the Esc row key.   
 I think this announcement is more representative of what he may be offering and the previous thread was just more of a showcase. However, these keycaps are looking incredibly nice. Brocaps standards are impeccable and these are some stunning looking keycaps. The texture on them looks amazing and the colour is very deep and almost entrancing. These are certainly holding a high standard for artisan keycaps.
 It is fair to say that the reception has been great for these keycaps. But this is a common theme with Brocaps. 
 ### Easter Keycaps
-[![pink easter keycaps](http://i.imgur.com/mP1ZHnh.jpg)](https://geekhack.org/index.php?topic=59295.msg1707550#msg1707550)
+[![pink easter keycaps](https://i.imgur.com/mP1ZHnh.jpg)](https://geekhack.org/index.php?topic=59295.msg1707550#msg1707550)
 Initially this was only a tease. The keycaps shown were pastel coloured Topre in Esc row, WASD and Fn. There are both textured caps which I believe to be the gamer keycaps and Brobots v2 for the Esc row. The sale eventually happened on the 15th of April. While this was not quite Easter, the sale was good. It did include Brobots V2, Bronads and the Topre Gamer set's. Again Brocaps set's quite a high quality and these keycaps lived up to his designs. 
 ### Kush 420 Sale
 This was another almost surprise sale. It featured mainly green and purple keycaps. The full list of what was included is [here](https://geekhack.org/index.php?topic=59295.msg1722422#msg1722422) it is quite a long list. Nothing much to say about these. I'm not a huge fan of the colours but his impeccable quality can still be seen in these caps.
 ### MFGT
-[![mfgt over](http://i.imgur.com/ecGcLXC.jpg)](https://geekhack.org/index.php?topic=71123.0)
+[![mfgt over](https://i.imgur.com/ecGcLXC.jpg)](https://geekhack.org/index.php?topic=71123.0)
 This was a small giveaway following the previous sale. It featured quite a nice range of different keycaps including some nice pink Topres. The frequency of the current Brocaps sales is quite refreshing as it gives more people opportunities to get the keycaps they want, and for new people to enter the market.
 
 ## KatzenKinder
-[![katzen sale](http://i.imgur.com/hIuFlRm.png)](https://geekhack.org/index.php?topic=64501.0)
+[![katzen sale](https://i.imgur.com/hIuFlRm.png)](https://geekhack.org/index.php?topic=64501.0)
 Had a 4.0 sale. The sale included:
 
 * 8 x Topre blanks
@@ -37,7 +37,7 @@ Had a 4.0 sale. The sale included:
 I think KatzenKinder is a great keycap maker and I really like the colour combinations used in most of their keycaps. The Axol design is also a very nice signature keycap.
 
 ## Girldc
-[![stormtrooper](http://i.imgur.com/I5NB3nC.jpg)](http://redd.it/334vt9)
+[![stormtrooper](https://i.imgur.com/I5NB3nC.jpg)](https://redd.it/334vt9)
 Girldc is someone who I was not aware of until recently. I had seen their caps before, but I didn't know who made them. Recently there has been a resurgence in production or so it seems. As I understand it they may or may not be banned at geekhack.  
 I was drawn to this information by this [thread](https://geekhack.org/index.php?topic=66701.0). From my perspective they make some very nice keycaps and the metal keycaps are quite a niche that when done well, work well. I would like to see a return of Girldc to the geekhack marketplace but who knows what will happen.
 

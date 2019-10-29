@@ -13,7 +13,7 @@ This is probably the biggest news but also not particularly interesting or at al
 
 These are RGB switches with 55cN weight.
 
-![Cherry White RGB Switch](http://i.imgur.com/K91rbdn.jpg)
+![Cherry White RGB Switch](https://i.imgur.com/K91rbdn.jpg)
 
 * [From Ducky Facebook](https://www.facebook.com/117547488320354/photos/a.117548801653556.22498.117547488320354/948877561854005/?type=3&theater)
 

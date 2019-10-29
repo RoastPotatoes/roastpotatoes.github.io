@@ -9,14 +9,14 @@ tags: []
 ---
 
 ## JD45
-![](http://i.imgur.com/FwNaBhC.jpg)
+![](https://i.imgur.com/FwNaBhC.jpg)
 I almost forgot, but this has been a long time coming. The JD45 is now available to pre-order. Starting at least 2 years ago this has been in development for a long time and looks to be a high quality 40%(ish keyboard). Designed by jdcarpe who you might know from the community (lately the designer behind Leandren's 60% plates) and Wilba who has designed a lot of PCB's (planck).  
 
 It is also being manufactured by TEX which is yet again another reputable name in keyboards. With the people that are involved it is one of the safer GB's to participate in.
 
 It can be bought assembled or as a kit, and supports both alps and MX switches. The case also offers a couple of options, my favourite being the HHKB style with blocked corners.
 
-* [Join the GB here](http://jd45.carpekeyboards.com/)
+* [Join the GB here](https://jd45.carpekeyboards.com/)
 * [JD45 gh thread](https://geekhack.org/index.php?topic=62641.0)
 
 ## Brocaps Sale (Closing Very Soon)
@@ -25,7 +25,7 @@ They feature the new Reaper in a collectors edition, that is an optional pack th
 
 * [Reaper Nightstalker CE](https://ctrlalt.io/invasion/buy)
 
-![Brocaps reaper and gamer sets](http://i.imgur.com/ADgM31j.jpg)
+![Brocaps reaper and gamer sets](https://i.imgur.com/ADgM31j.jpg)
 The other caps available are the 'classic' reaper, and some gamer sets. The classic reaper comes in IBM, Topre and MX variants whereas the gamer sets only come in either IBM or MX.
 
 * [Reaper and Gamer Sets](https://ctrlalt.io/reapersngamers)
@@ -61,10 +61,10 @@ Something is happening between these two.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//lHkavOnmHPA' frameborder='0' allowfullscreen></iframe></div>
 
-* [Subscribe to the KeyKollectiv Newsletter](http://keykollectiv.us10.list-manage.com/subscribe?u=c22517f61875249802efa927f&id=37e5e792f7)
+* [Subscribe to the KeyKollectiv Newsletter](https://keykollectiv.us10.list-manage.com/subscribe?u=c22517f61875249802efa927f&id=37e5e792f7)
 
 ## Widgie Pidge's Prints
-![](http://i.imgur.com/KQAYJVP.jpg)
+![](https://i.imgur.com/KQAYJVP.jpg)
 From HWS (Binge is a part of this) comes these very nice prints. Not directly keyboard related but HWS is a popular entity in the community and I really like them myself, so I thought they were worth mentioning. 
 
 $12 for some HWS art seems good to me.
@@ -74,17 +74,17 @@ $12 for some HWS art seems good to me.
 ## RAMA
 KingRama has seemingly come out of nowhere and has started to produce some very nice looking things.
 The first which I have mentioned before is a machined aluminium keycap. Everything about it seems quite nicely designed. The packaging and the design of the keycap itself all come together.
-![](http://i.imgur.com/S7aD8S0.png)  
+![](https://i.imgur.com/S7aD8S0.png)  
 
 More recently I noticed the addition of some really beautiful keyboard prints on their shop.
-![](http://i.imgur.com/qdQEDBr.jpg)
+![](https://i.imgur.com/qdQEDBr.jpg)
 I like the colours, the limited edition markings the choice of keyboard. Might be a little bit expensive for me but I am certainly tempted.
 
-* [Rama Store](http://rama.works/store/)
+* [Rama Store](https://rama.works/store/)
 * [RAMA gh thread](https://geekhack.org/index.php?topic=78796.0)
 
 ## RoastPotatoes Posters
-![](http://i.imgur.com/GAvlAF2.png)
+![](https://i.imgur.com/GAvlAF2.png)
 Just promoting myself here. I still have HHKB Posters. They are A3 and really quite nice.
 
 * [Poster Order Form](https://docs.google.com/forms/d/1qnBoFbkBhJ5soaexC_V68Oaik4lIYRGcRTBDs1c2qAE/viewform)

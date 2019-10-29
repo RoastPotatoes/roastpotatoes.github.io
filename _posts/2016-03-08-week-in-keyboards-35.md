@@ -9,19 +9,19 @@ tags: []
 ---
 
 ## CODE 60%
-![CODE 60% POK3R](http://i.imgur.com/OoNBAnJ.jpg)
+![CODE 60% POK3R](https://i.imgur.com/OoNBAnJ.jpg)
 This came out of nowhere, unless there was some hype I was unaware of. From WASD Keyboards in collaboration with Vortex this is a 60%.  
 The collaboration with Vortex makes sense since it is strikingly similar to the POK3R, maybe even comically so. The difference lies in the "CODE minimalist design aesthetic" that has been applied to make it stand out from all the other POK3R's.
 
 It is hard to see a huge need for this, but at the same time the POK3R is a great 60%.
 Available in Cherry MX Clear, Brown, Blue, and Green switches for $130-138.
 
-* [CODE 60%](http://www.wasdkeyboards.com/index.php/products/code-keyboard.html?mc_cid=e30766e2f8&mc_eid=ac3ffc6505)
+* [CODE 60%](https://www.wasdkeyboards.com/index.php/products/code-keyboard.html?mc_cid=e30766e2f8&mc_eid=ac3ffc6505)
 
-* [Announcement Newsletter](http://us11.campaign-archive2.com/?u=41bffbeba098c643ef13843f3&id=e30766e2f8&e=ac3ffc6505)
+* [Announcement Newsletter](https://us11.campaign-archive2.com/?u=41bffbeba098c643ef13843f3&id=e30766e2f8&e=ac3ffc6505)
 
 ## LY092-MINI A New Split-Mechanical
-![LY092-MINI keyboard ](http://i.imgur.com/z8iW9Oj.jpg)
+![LY092-MINI keyboard ](https://i.imgur.com/z8iW9Oj.jpg)
 I found this to be the more interesting news this week as split keyboards are less common. It is a split mechanical keyboard around the 75% form factor.
 
 It is not the most premium product but it does seem to be quite nicely put together. Aluminium housing and acrylic cut-outs do make it appealing. While it is said to be fully programmable I would be more interested to put the TMK firmware on it, but I was unable to identify the Microcontroller it uses.
@@ -38,23 +38,23 @@ The prices as far as I can tell:
 * 1 Half $35
 * 2 Halves $80
 
-* [Official Website](http://www.smartyao.com/page930.html)
+* [Official Website](https://www.smartyao.com/page930.html)
 * [TaoBao Store](https://shop114100401.world.taobao.com/)
 
 * [LY092-MINI Reddit Source](https://redd.it/493uwk)
 
-[Equally interesting, an ortholinear smaller version.](http://www.smartyao.com/page742.html)
+[Equally interesting, an ortholinear smaller version.](https://www.smartyao.com/page742.html)
 
 ## JD45
-![JD45 HHKB style honey](http://i.imgur.com/tJmf91Kl.jpg)
+![JD45 HHKB style honey](https://i.imgur.com/tJmf91Kl.jpg)
 The JD45 is still available to preorder and is a fantastic project. If you are looking for a smaller keyboard this is worth having a look at.
-![JD45 Hack'd](http://i.imgur.com/DTOwGlil.jpg)
+![JD45 Hack'd](https://i.imgur.com/DTOwGlil.jpg)
 
-* [pre-order the JD45](http://jd45.carpekeyboards.com/)
+* [pre-order the JD45](https://jd45.carpekeyboards.com/)
 * [JD45 gh GB thread](https://geekhack.org/index.php?topic=79797.0)
 
 ## Phantom Kits
-![](http://i.imgur.com/olJiDCm.jpg)
+![](https://i.imgur.com/olJiDCm.jpg)
 The Phantom is the community member designed TKL which was a bit before my time. Generally this is the PCB you will likely use if you want to build a TKL.  
 The reason for mentioning this is a new group buy run by roostrc0gburn is offering complete kits (minus stabilisers) for nice prices.
 
@@ -78,7 +78,7 @@ This is sad news but not fatal. It seems like the Keyboardio had some bad luck a
 * [Keyboardio Backer Update #32 on Kickstarter](https://www.kickstarter.com/projects/keyboardio/the-model-01-an-heirloom-grade-keyboard-for-seriou/posts/1501167)
 
 ## Aluminium Novatouch Case
-![Aluminium Novatouch Case](http://i.imgur.com/UuxI5ru.jpg)
+![Aluminium Novatouch Case](https://i.imgur.com/UuxI5ru.jpg)
 It's what it sounds like and it looks incredible. [That said I would be interested in finding out what it sounds like.](https://youtu.be/OelPpGkggGc)
 
 By gh user norbauer this is an aluminium case for the Novatouch. Due to the nature of the Topre switch it can be quite hard to completely replace the case with aluminium. So it is similar to the Digilog Realforce case.
@@ -88,21 +88,21 @@ Aiming for a $250 price point it's not too bad for what it is.
 * [Aluminium Novatouch Case gh Thread](https://geekhack.org/index.php?topic=80317.0)
 
 ## RAMA MX/Topre Stem
-![RAMA TMX ](http://i.imgur.com/BMtaUng.jpg)
+![RAMA TMX ](https://i.imgur.com/BMtaUng.jpg)
 RAMA has been doing some nice things and this seems like no exception. Currently in the prototyping stages this is an injection moulded stem that supports MX and Topre switches. It is not finished yet, but it does seem to be heading in the direction of success. The Latest iteration is slightly different and more like [Nubbinator's MCS](https://geekhack.org/index.php?topic=69433.0;nowap). This is different as it allows for swapping the stem on the cap instead of having a one stem fits all.
 
 * [RAMA Topre/MX Hybrid on gh](https://geekhack.org/index.php?topic=69433.0)
 
 ## Modular Gaming Keyboard
-![](http://i.imgur.com/dKgGnfN.png)
+![](https://i.imgur.com/dKgGnfN.png)
 I thought this was an interesting keyboard due to its modular nature but also its relaxed appearance. From the top down it does look like a Cherry G80 which from a full-size, is most agreeable.
 
 It might not be the best keyboard and it does come with Epic Gear switches but for the right price it could be nice.
 
-[890 TWD on newegg.com.tw](http://www.newegg.com.tw/item?itemid=531046) Importing one is probably more trouble than it's worth.
+[890 TWD on newegg.com.tw](https://www.newegg.com.tw/item?itemid=531046) Importing one is probably more trouble than it's worth.
 
 ## GH-122.2016 Revival PCB
-![GH-122.2016 Revival PCB](http://i.imgur.com/GB5S6xb.png)
+![GH-122.2016 Revival PCB](https://i.imgur.com/GB5S6xb.png)
 An interesting project to revive the GH-122 project and create the PCB. I don't think it needs much explanation. It's a big keyboard.
 
 MOQ 20 at $50

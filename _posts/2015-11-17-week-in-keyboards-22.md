@@ -11,19 +11,19 @@ tags: []
 ## Vim Caps
 Fairly self explanatory, these keycaps are vim themed with the vim logo as capslock replacement and a set of vim cursor keys (HJKL). These have been in IC for a fairly long time and have been privately funded. Similar caps have been available in the past but have not been too easy to get a hold of. 
 
-They are now available from [vimcaps.com](http://vimcaps.com/). They are available in SA and DSA profile. You can buy the cursor keys and the vim capslock replacement. They are available in packs so you get both the capslock and cursor keys separately or you can buy them together in a pack for a little less.
+They are now available from [vimcaps.com](https://vimcaps.com/). They are available in SA and DSA profile. You can buy the cursor keys and the vim capslock replacement. They are available in packs so you get both the capslock and cursor keys separately or you can buy them together in a pack for a little less.
 
 * [geekhak Vim caps Thread](https://geekhack.org/index.php?topic=75747.0)
 
 
 ## Hot Keys Project Keycaps Restocked on [mk.com](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=74)
-![HKP white raven](http://i.imgur.com/0k4vQbj.jpg)
+![HKP white raven](https://i.imgur.com/0k4vQbj.jpg)
 This is yet another way HKP keycaps are more accessible. There is a nice selection but only MX.
 
 * [Get them on mechanicalkeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=74)
 
 ## Ultimate Hacking Keyboard Add-on Modules
-![Ultimate Hacking keyboard addon modules](http://i.imgur.com/GFaze7x.jpg)
+![Ultimate Hacking keyboard addon modules](https://i.imgur.com/GFaze7x.jpg)
 This is an interesting addition to the campaign. With 27 days left the project is 76% funded. This is the 60% keyboard that has the ability to split.
 
 The add-ons come in the form of additional switches. 
@@ -49,7 +49,7 @@ It is also worth mentioning the new board makers episode.
 * [Episode 21 Discussion - Looking at Massdrop data, automated Planck distribution, and launching keyboards into space](https://soundcloud.com/board-makers/episode-21)
 
 ## TGR-Jane GB
-![TGR Jane red](http://i.imgur.com/dt7PPua.jpg)
+![TGR Jane red](https://i.imgur.com/dt7PPua.jpg)
 This is a very popular TKL GB that sold out very quickly. I believe in around 10 minutes all 25 spaces were taken. It is a very impressive keyboard all round and quite deserving of the price ($420 ish). It is a highly polished aluminium TKL with one of my favourite fancy features, the brass weight insert.
 
 * [TGR-Jane IC Thread. Lots of information.](https://geekhack.org/index.php?topic=76672.0)

@@ -5,26 +5,26 @@ description: "Week 37 featuring an update on the Wooting keyboard a HWS sale and
 category: 
 - weekinkeyboards
 
-thumbnail: http://i.imgur.com/fH4RIge.png
+thumbnail: https://i.imgur.com/fH4RIge.png
 tags: []
 ---
 
 ## Wooting Keyboard Update
-![Wooting Keyboard Prototype V0.3](http://i.imgur.com/TFQZVIP.jpg)
+![Wooting Keyboard Prototype V0.3](https://i.imgur.com/TFQZVIP.jpg)
 Wooting have continued to listen to the community about their upcoming keyboard. This will be the last prototype so if you are itching to give them feedback this could be the last chance to make a difference.
 
 A couple of changes have been made since the last iteration, so have a look at the blog post to see what's changed.
 
-* [Wooting One Prototype V0.3](http://blog.wooting.nl/the-wooting-one-prototype-keyboard-v0-3/)
+* [Wooting One Prototype V0.3](https://blog.wooting.nl/the-wooting-one-prototype-keyboard-v0-3/)
 
 ## A couple of sales worth knowing about:
 
 
 * **Hunger Work Studio**
-![HWS Easter Sale Promo Banner](http://i.imgur.com/1DBeCT6.png)
+![HWS Easter Sale Promo Banner](https://i.imgur.com/1DBeCT6.png)
 
- * [Keycaps Will Likely Be Here](http://techkeys.us/collections/artisan)
- * [Full Album of the Keycaps on Offer](http://imgur.com/a/SRqDo)
+ * [Keycaps Will Likely Be Here](https://techkeys.us/collections/artisan)
+ * [Full Album of the Keycaps on Offer](https://imgur.com/a/SRqDo)
 
 * **HKP**
 ![Pink Raven HKP](https://farm2.staticflickr.com/1609/25588162322_e1089b61aa_c.jpg)
@@ -35,10 +35,10 @@ A couple of changes have been made since the last iteration, so have a look at t
 ## Mechanical Keyboard US Market Research 2016
 This is almost interesting but it is not easily accessible. It is a huge report on the US mechanical keyboard industry, however the single user license is $3800 so I can't tell you anything insightful.
 
-If you are very serious about your knowledge of the [US keyboard market, you can find the report here](http://www.deepresearchreports.com/169793-toc.html)
+If you are very serious about your knowledge of the [US keyboard market, you can find the report here](https://www.deepresearchreports.com/169793-toc.html)
 
 ## Logitech Orion G610
-![Logitech Orion G610 with Brown Switches](http://i.imgur.com/P8aLbhZ.png)
+![Logitech Orion G610 with Brown Switches](https://i.imgur.com/P8aLbhZ.png)
 Logitech has brought out two new keyboards. I say two but it is actually one with two choices of switches.
 
 It is:
@@ -72,7 +72,7 @@ I think this has been a long time coming, as there is always someone asking how 
 
 There are 3 levels of kits:
 
-* [Complete $93](http://1upkeyboards.com/product_info.php?cPath=41&products_id=263)
+* [Complete $93](https://1upkeyboards.com/product_info.php?cPath=41&products_id=263)
 	* 1 ComposiMold Original 20oz
 	* 1 Clear Casting Plastic 16oz
 	* 1 Mold Release
@@ -80,13 +80,13 @@ There are 3 levels of kits:
 	* 1 plastic syringe
 	* 1 Packet of Delight Air Dry Modeling Compound
 	* 3 sculpting tools (Note: Actual tools may vary from those shown). 
-* [Advanced $83](http://1upkeyboards.com/product_info.php?cPath=41&products_id=262)
+* [Advanced $83](https://1upkeyboards.com/product_info.php?cPath=41&products_id=262)
  * 1 ComposiMold Original 20oz
  * 1 Clear Casting Plastic 16oz
  * 1 Mold Release
  * 1 Bubble Buster 4oz
  * 1 plastic syringe
-* [Basic $62](http://1upkeyboards.com/product_info.php?cPath=41&products_id=261)
+* [Basic $62](https://1upkeyboards.com/product_info.php?cPath=41&products_id=261)
  * 1 ComposiMold Original 20oz
  * 1 Clear Casting Plastic 16oz
  * 1 plastic syringe
@@ -96,14 +96,14 @@ All of these seem like useful kits. Even if you can only afford the basic, you s
 **TechMattr Cable Restock**
 These are the type of fancy USB cables you buy to complete your perfect keyboard.
 
-* [TechMattr Cables](http://1upkeyboards.com/index.php?cPath=23_28)
+* [TechMattr Cables](https://1upkeyboards.com/index.php?cPath=23_28)
 
 
 ## KingRama
 Only a small update, but for those who bought Rama's aluminium cnc'd keycaps. They have been produced and are on the way to Rama.
 
-![IBM SSK RAMA Poster](http://i.imgur.com/qdQEDBr.jpg)
-[The Rama.works store also has some really nice posters available.](http://rama.works/store/)
+![IBM SSK RAMA Poster](https://i.imgur.com/qdQEDBr.jpg)
+[The Rama.works store also has some really nice posters available.](https://rama.works/store/)
 
 RoastPotatoes has also made progress on his own Cherry MX Poster.
 

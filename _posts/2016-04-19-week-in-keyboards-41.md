@@ -6,7 +6,7 @@ category:
 - weekinkeyboards 
 
 tags: []
-thumbnail: http://i.imgur.com/8TUi3Do.jpg
+thumbnail: https://i.imgur.com/8TUi3Do.jpg
 ---
 
 ## New Cherry Switch Leaked
@@ -16,7 +16,7 @@ The idea behind this one is that it is 'faster'. But everything else about it su
 
 I can't say that it is the same switch, but really the differences are entirely negligible. Or are not going to change the game. 
 
-[Specs:](http://i.imgur.com/4F0ePjV.jpg)
+[Specs:](https://i.imgur.com/4F0ePjV.jpg)
 
 * 45g Actuation
 * 1.2mm Actuation Distance (2mm is the regular Cherry)
@@ -25,7 +25,7 @@ I can't say that it is the same switch, but really the differences are entirely 
 
 
 * [Deleted Reddit Post](https://redd.it/4fbmr8)
-* [Cached Newegg listing](http://webcache.googleusercontent.com/search?q=cache:X1U5RIC6DnQJ:www.newegg.com/Product/Product.aspx%3FItem%3D9SIA9FT3ZH3623%26cm_re%3Dcorsair_k70-_-9SIA9FT3ZH3623-_-Product+&cd=4&hl=en&ct=clnk&gl=us)
+* [Cached Newegg listing](https://webcache.googleusercontent.com/search?q=cache:X1U5RIC6DnQJ:www.newegg.com/Product/Product.aspx%3FItem%3D9SIA9FT3ZH3623%26cm_re%3Dcorsair_k70-_-9SIA9FT3ZH3623-_-Product+&cd=4&hl=en&ct=clnk&gl=us)
 
 ## LUSTRO
 ![Lustro 60% mechanical Keyboard](https://i.imgur.com/4LfodeR.jpg)
@@ -38,12 +38,12 @@ Another 60% project with a unique looking case. The above photo is of the produc
 Price TBC
 
 ## RAMA x Bro
-![TMX bro rama keycap](http://i.imgur.com/8TUi3Do.jpg)
+![TMX bro rama keycap](https://i.imgur.com/8TUi3Do.jpg)
 RAMA previously announced that the TMX stem was being discontinued, but here it is. And it looks awesome on this BroCaps collaboration. I love stamps in general but this looks incredible. Nothing more on this but I'm excited to see where this goes.
 
 RAMA has also opened up pre-orders for a M10-A t-shirt
 
-* [M10-A Shirt](http://rama.works/store/m10-a-shirt)
+* [M10-A Shirt](https://rama.works/store/m10-a-shirt)
 
 [## Nothing to see here](https://ctrlalt.io/IV)
 
@@ -61,13 +61,13 @@ This is just another place you can get zealios. Both 78g and 65g tactile version
 * [Zealios on mechanicalkeyboards.co.id](https://www.mechanicalkeyboards.co.id/search/Zealio)
 
 ## Specialeemade Sale
-![Specialeemade Keyboard Sleeve](http://i.imgur.com/WEY0iyQ.jpg)
+![Specialeemade Keyboard Sleeve](https://i.imgur.com/WEY0iyQ.jpg)
 The lowest price is now $25 but I'm not sure how many are available.
 
-* [Specialeemade Store](http://specialeemade.bigcartel.com/)
+* [Specialeemade Store](https://specialeemade.bigcartel.com/)
 
 ## Mech27 by 27 (formally xx7)
-![Mech27 keyboard](http://i.imgur.com/pF0kqAx.png)
+![Mech27 keyboard](https://i.imgur.com/pF0kqAx.png)
 This is a cnc aluminium milled TKL by 27. I always like this type of groupbuy and these type of designs. It is similar to the TGR Jane and has the general aesthetic of a korean custom.
 
 It is usually hard to go wrong with cnc'd aluminium, (unless you are making a hhkb case) so I am excited to see where this will go.

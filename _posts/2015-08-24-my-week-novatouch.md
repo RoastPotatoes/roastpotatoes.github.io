@@ -7,15 +7,15 @@ category:
 tags: []
 ---
 ## My week with the Novatouch
-![](http://i.imgur.com/Z9KbXvi.jpg)
+![](https://i.imgur.com/Z9KbXvi.jpg)
 
 This week I participated in the Novatouch Community tour. I am always interested in trying new keyboards and the Novatouch covers a couple of my interests. It is a Topre board (I have only experienced the HHKB) but also a unique (ish) Topre board. This is because it has the Topre to MX sliders. These reasons make this an interesting keyboard all around. The fact that a keyboard that is this much of a niche exists is interesting enough.
 
 I do what I always do with any keyboard and change the layout to how I want. This is colemak, with capslock as a dual-role modifier as ctrl/esc. These are options that are not given to you on the Novatouch but have to be done computer side.
 
 ## Unboxing
-![](http://i.imgur.com/hgsE51g.jpg)
-[*Additional Photos*](http://i.imgur.com/TIV9rub.jpg?1)
+![](https://i.imgur.com/hgsE51g.jpg)
+[*Additional Photos*](https://i.imgur.com/TIV9rub.jpg?1)
 
 When opening the keyboard, I was pleasantly impressed with the packaging. It is not too exciting, but it has a magnetic seal on the box. So of course I was excited. I am a fan of packaging and this just got me interested in the keyboard.  
 The box contains:
@@ -29,7 +29,7 @@ The box contains:
 
 The first thing I did was lift the Novatouch from the box. From this moment I was very impressed of how it felt in my hands. It has a really nice weight and nice matt finish. The only branding is on the back and the underside of the keyboard. The overall look of the keyboard is to my taste unless you see it from the backside. Where you have an unusual style change, with a strange line running across the board.
 
-![](http://i.imgur.com/5B3DKKv.jpg?1)
+![](https://i.imgur.com/5B3DKKv.jpg?1)
 
 The included cable is a nice braided cable but is a 90° cable. This is not something I can utilise  as it makes my cable setup just a little harder. However, I always have a good stock of cables so I am ready to connect keyboards. I used a standard white Micro USB that came with my Moto G. This worked fine as expected. 
 
@@ -65,7 +65,7 @@ The Novatouch is a strange keyboard. It's a great tenkeyless, but the feeling ju
 
 Thinking back on my week, I like this board. It took some adjusting and a new keyset. But once I got going I found I did enjoy typing on it. It is not the same and does not sound the same as my HHKB. But in its own category (as there are no others like it) it is a very nice keyboard. 
 
-<script type"text/javascript" src="http://test.gfycat.com/gfycat_test_june25.js"></script>
+<script type"text/javascript" src="https://test.gfycat.com/gfycat_test_june25.js"></script>
 
 #### Farewell Gyfcat:
 
@@ -75,7 +75,7 @@ Thinking back on my week, I like this board. It took some adjusting and a new ke
 ## typeracer Typing Data for the Week
 
 
-[![](http://i.imgur.com/F2kJLDi.png)](https://docs.google.com/spreadsheets/d/1XOeUu2zpCgmrvxTB1f_mMp6Q5SQsDhaZ5keKL5jT_TY/pubchart?oid=394658922&format=interactive)
+[![](https://i.imgur.com/F2kJLDi.png)](https://docs.google.com/spreadsheets/d/1XOeUu2zpCgmrvxTB1f_mMp6Q5SQsDhaZ5keKL5jT_TY/pubchart?oid=394658922&format=interactive)
 
 
 ---------------------------------

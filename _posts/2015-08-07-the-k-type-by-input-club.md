@@ -15,8 +15,8 @@ Overall I find the core of the input club to be relevant to the communities inte
 *This is an early render*
 
 **06/10/15 New Renders**
-![The K-type](http://i.imgur.com/3bchOJo.jpg)
-![side angle K-type](http://i.imgur.com/9v4sliP.jpg)
+![The K-type](https://i.imgur.com/3bchOJo.jpg)
+![side angle K-type](https://i.imgur.com/9v4sliP.jpg)
 
 The new keyboard project from Input Club is the K Type. The following is the official press release from Input Club.
 
@@ -77,11 +77,11 @@ As to where this keyboard will be sold, is still up in the air. Input Club's his
 
 That is all the information for now. But I look forward to the future of this keyboard and Input Club in General. Read more at their website.
 
-* [Input Club Website](http://input.club/)
-* [Press Release on Input Club Forum](http://input.club/forums/topic/k-type)
-* [Input Club Mailing List](http://input.club/email)
+* [Input Club Website](https://input.club/)
+* [Press Release on Input Club Forum](https://input.club/forums/topic/k-type)
+* [Input Club Mailing List](https://input.club/email)
 * [Input Club Github](https://github.com/kiibohd)
-* [KLL Configurator](http://input.club/configurator)
+* [KLL Configurator](https://input.club/configurator)
 
 Prototypes will be made available to select keyboard enthusiasts and you must be able to compile, to be considered.
 

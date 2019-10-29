@@ -13,7 +13,7 @@ published: true
 keywords: brobots, brocaps, geekhack, artisan, keycaps,
 ---
 
-[![pastel brobots](http://i.imgur.com/rjnl1QI.jpg)](https://geekhack.org/index.php?topic=70928.0)
+[![pastel brobots](https://i.imgur.com/rjnl1QI.jpg)](https://geekhack.org/index.php?topic=70928.0)
 A new Brocaps sale has been announced for possibly the 13th or 14th. Brocaps said the sale will last "about 24 hours"[<sup>1</sup>](https://geekhack.org/index.php?topic=70928.msg1715075#msg1715075). This is for the previously teased easter keycaps.   
 
 Featuring:

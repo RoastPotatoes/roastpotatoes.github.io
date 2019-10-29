@@ -16,9 +16,9 @@ The eagerly awaited project is nearly complete. You are currently able to order 
 
 There is no price difference between ordering in the early or later round. But these will likely be the only opportunities to order one.    
 
-They are available to purchase through <http://www.modelfkeyboards.com/shop/> 
+They are available to purchase through <https://www.modelfkeyboards.com/shop/> 
 
-* [modelfkeyboards.com](http://www.modelfkeyboards.com/shop/)
+* [modelfkeyboards.com](https://www.modelfkeyboards.com/shop/)
 
 * [Read more about the project here](/news/2015/11/11/the-kishsaver-f62-and-f77-revival-project/)
 
@@ -44,7 +44,7 @@ If you are interested in some drama and other matters relating to ownership of c
 * [Pulse on Massdrop](https://www.massdrop.com/buy/pulse-sa-keycap-set?mode=guest_open)
 
 
-![Flatline keyset keycap render](http://i.imgur.com/uMX1WDV.png)
+![Flatline keyset keycap render](https://i.imgur.com/uMX1WDV.png)
 What is more interesting is what happened in fallout from the debacle. Fulse (it went through a couple of names) now Flatline was created. A colourway reminiscent of the Pulse arrangement. Although, this is good because there was demand for a set like this. But the real reason this is important is the information it may have brought to light. And this is the new pricing structure for community GB's from Signature Plastics.
 
 > 25 sets                   $237.61 per set  
@@ -64,7 +64,7 @@ If you look at the currently run PuLSE keyset on massdrop, you will see the diff
 [Signature Plastics Response to pricing.](https://redd.it/4351fd)
 
 ## VE.A
-![VE.A Split keyboard](http://i.imgur.com/p6duEU0.png)
+![VE.A Split keyboard](https://i.imgur.com/p6duEU0.png)
 With very little information this is a split Korean custom keyboard created by zefyr.
 
 > Aluminium Armor  
@@ -88,14 +88,14 @@ Two new switches:
 * Alpha-Zulu Tactile
 * Alpha-Zulu Linear
 
-[Both of these are 45g actuation.](http://www.divisionzerogaming.com/switches/)
+[Both of these are 45g actuation.](https://www.divisionzerogaming.com/switches/)
 
 
 The X40 Keyboard
-![X40 daskeyboard keyboard](http://i.imgur.com/RjEmPKj.png)
+![X40 daskeyboard keyboard](https://i.imgur.com/RjEmPKj.png)
 Looks very much like a gaming keyboard. Unlike the regular daskeyboard this design involves more fins around the edges as well as a set of macro keys on the right-hand side.
 
-* [X40 Website](http://www.divisionzerogaming.com/x40/)
+* [X40 Website](https://www.divisionzerogaming.com/x40/)
 
 ---------------------------------
 

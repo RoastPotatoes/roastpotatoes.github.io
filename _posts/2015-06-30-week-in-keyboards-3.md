@@ -11,7 +11,7 @@ tags: [Cherry, MX, Mechanical Keyboards,  Keyboards, TextBlade, 6.0, QuickFire, 
 The first news should be the outage of geekhack. It is currently down and many resources  are still unavailable. At first it was a DoS attack and not their hosting has bailed. This is the reason for the longer than expected outage. With this  outage speculation around the funding of geekhack has come into question and it is possible donations might be needed  to get everything  running again. As a result of this, a t-shirt donation drive has been set up by fohat.  
 With the outage people have been left without information and communications that are all a part of geekhack. This could be a useful lesson to show people cannot rely on one service. It is a huge part of the community and the downtime is felt greatly.
 
-- [T-shirt Sale](http://deskthority.net/for-sale-f55/geekhack-benefit-t-shirt-sale-t11028.html)  
+- [T-shirt Sale](https://deskthority.net/for-sale-f55/geekhack-benefit-t-shirt-sale-t11028.html)  
 - [Geekhack Information twitter.](https://twitter.com/geekhackinfo) If anything actually changes it will be posted on this twitter.
 
 # Keyboards
@@ -39,10 +39,10 @@ Osu is a rhythm game and that is as much as I know. But this is a dedicated two 
 - [Demonstration Video](https://youtu.be/DZQGRQ-F628) This video justifies the existence.
 
 ## EASARS RGB Keyboard
-![easars](http://i.imgur.com/96Hi7Kn.gif)
+![easars](https://i.imgur.com/96Hi7Kn.gif)
 This is another full RGB keyboard supporting 16 million colours. It is said to use switches that have "50 million life cycle" but no actual mention of cherry. It supports  colour profiles and macros and possibly full programmability. The official page says "Customized programming setting can be controlled freely." but I expect a customisable Fn layer. Again this is another example of a strange keycap font choice.
 
-- [Official Product Page](http://www.easars.net/index.php/products/product_detail/44)
+- [Official Product Page](https://www.easars.net/index.php/products/product_detail/44)
 
 ## Ducky Blue One
 This appears to just be a backlit full size keyboard. An alternative to those who do not care for RGB but like backlighting. I was  unable to find  any other product page than the [mechanicalkeyboards.com](https://mechanicalkeyboards.com/) listing.
@@ -50,7 +50,7 @@ This appears to just be a backlit full size keyboard. An alternative to those wh
 - Pre-order on [mechanicalkeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1312)
 
 ## Quickfire Xti
-![xti](http://i.imgur.com/TEGPRtH.jpg)
+![xti](https://i.imgur.com/TEGPRtH.jpg)
 Yet another almost RGB backlit keyboard. This one however is a bit more appealing. It is full-size  has a removable cable, 35 backlighting colours and macro support. All of this puts it on the level of the Ducky Shine 4. My favourite part of this keyboard is the font. The gamecuben font has been ditched, which has been a huge annoyance to many people in the past. Overall the design of this keyboard does not  scream "gamer peripheral". This makes it my favourite upcoming stock keyboard at the moment. Ducky has the next place with the Ducky Shine 5, with its double pcb.
 
 ## TK78 Rev C.  Prototypes  Ordered 
@@ -62,7 +62,7 @@ SentrentPC is creating a  new keyboard design that I don't think has been done b
 This is straight from SentrantPC so I don't feel it needs editing.
 > We just ordered the PCB. It's a daughterboard plus main board, with the daughterboard being for the 2 port USB hub. Plate will be sandblasted aluminum and case will be milled from aluminum and both anodized to gunmetal grey. The plate is cool as it supports many different layouts (linked to the layouts supported below). PCB also supports all those layouts. GB date is looking to be August 1st and limited to 30 units. A GB for the version with the numbed on the left side will be done I'm hoping around September with it limited to 20 units and also 20 units of the right version as well. You can buy it with Plate only, PCB only, plate/PCB, case only, kit, or assembles with or w/ out keycaps. base price for kit is looking to be around $260.
 
-[Supported Layouts](http://www.keyboard-layout-editor.com/##@@=%0A%0A%0A%0A%60%20~%0A%0AESC&=!%0A1%0A%0A%0AF1&=%2F@%0A2%0A%0A%0AF2&=%23%0A3%0A%0A%0AF3&=$%0A4%0A%0A%0AF4&=%25%0A5%0A%0A%0AF5&=%5E%0A6%0A%0A%0AF6&=%2F&%0A7%0A%0A%0AF7&=*%0A8%0A%0A%0AF8&=(%0A9%0A%0A%0AF9&=)%0A0%0A%0A%0AF10&=%2F_%0A-%0A%0A%0AF11&=+%0A%2F=%0A%0A%0AF11&=~%0A%60&=Backs%3B&@_y:0.25%3B&=%0A%0A%0A%0A%60%20~%0A%0AESC&=!%0A1%0A%0A%0AF1&=%2F@%0A2%0A%0A%0AF2&=%23%0A3%0A%0A%0AF3&=$%0A4%0A%0A%0AF4&=%25%0A5%0A%0A%0AF5&=%5E%0A6%0A%0A%0AF6&=%2F&%0A7%0A%0A%0AF7&=*%0A8%0A%0A%0AF8&=(%0A9%0A%0A%0AF9&=)%0A0%0A%0A%0AF10&=%2F_%0A-%0A%0A%0AF11&=+%0A%2F=%0A%0A%0AF11&_w:2%3B&=Backspace&_x:0.25%3B&=Num%20Lock%0A%0A%0A%0APrt%20Sc&=%2F%2F%0A%0A%0A%0AScr%20Lk&=*%0A%0A%0A%0APause&=-%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5%3B&=%7C%0A%5C&_x:0.25%3B&=7%0A%0A%0A%0AInsert&=8%0A%0A%0A%0AHome&=9%0A%0A%0A%0APg%20Up&_h:2%3B&=+%3B&@_w:1.75%3B&=Caps%20Lock&=A&=S&=D&=F&=G&=H&=J&=K&=L&=%2F:%0A%2F%3B&=%22%0A'&_w:2.25%3B&=Enter&_x:0.25%3B&=4%0A%0A%0A%0ADelete&=5%0A%E2%86%91%0A%0A%0AEnd&=6%0A%0A%0A%0APg%20Dn%3B&@_w:2.25%3B&=Shift&=Z&=X&=C&=V&=B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:2.75%3B&=Shift&_x:0.25%3B&=1%0A%E2%86%90&=2%0A%E2%86%93&=3%0A%E2%86%92&_h:2%3B&=Enter%3B&@_w:1.25%3B&=Ctrl&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_w:6.25%3B&=&_w:1.25%3B&=Alt&_w:1.25%3B&=Win&_w:1.25%3B&=Fn&_w:1.25%3B&=Ctrl&_x:0.25&w:2%3B&=0%0AIns&=.%0ADel%3B&@_y:0.25&w:2.25%3B&=Shift&=Z&=X&=C&=V&=B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:1.75%3B&=Shift&=Fn%3B&@_w:1.5%3B&=Ctrl&=Win&_w:1.5%3B&=Alt&_w:7%3B&=&_w:1.5%3B&=Alt&=Win&_w:1.5%3B&=Ctrl)
+[Supported Layouts](https://www.keyboard-layout-editor.com/##@@=%0A%0A%0A%0A%60%20~%0A%0AESC&=!%0A1%0A%0A%0AF1&=%2F@%0A2%0A%0A%0AF2&=%23%0A3%0A%0A%0AF3&=$%0A4%0A%0A%0AF4&=%25%0A5%0A%0A%0AF5&=%5E%0A6%0A%0A%0AF6&=%2F&%0A7%0A%0A%0AF7&=*%0A8%0A%0A%0AF8&=(%0A9%0A%0A%0AF9&=)%0A0%0A%0A%0AF10&=%2F_%0A-%0A%0A%0AF11&=+%0A%2F=%0A%0A%0AF11&=~%0A%60&=Backs%3B&@_y:0.25%3B&=%0A%0A%0A%0A%60%20~%0A%0AESC&=!%0A1%0A%0A%0AF1&=%2F@%0A2%0A%0A%0AF2&=%23%0A3%0A%0A%0AF3&=$%0A4%0A%0A%0AF4&=%25%0A5%0A%0A%0AF5&=%5E%0A6%0A%0A%0AF6&=%2F&%0A7%0A%0A%0AF7&=*%0A8%0A%0A%0AF8&=(%0A9%0A%0A%0AF9&=)%0A0%0A%0A%0AF10&=%2F_%0A-%0A%0A%0AF11&=+%0A%2F=%0A%0A%0AF11&_w:2%3B&=Backspace&_x:0.25%3B&=Num%20Lock%0A%0A%0A%0APrt%20Sc&=%2F%2F%0A%0A%0A%0AScr%20Lk&=*%0A%0A%0A%0APause&=-%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5%3B&=%7C%0A%5C&_x:0.25%3B&=7%0A%0A%0A%0AInsert&=8%0A%0A%0A%0AHome&=9%0A%0A%0A%0APg%20Up&_h:2%3B&=+%3B&@_w:1.75%3B&=Caps%20Lock&=A&=S&=D&=F&=G&=H&=J&=K&=L&=%2F:%0A%2F%3B&=%22%0A'&_w:2.25%3B&=Enter&_x:0.25%3B&=4%0A%0A%0A%0ADelete&=5%0A%E2%86%91%0A%0A%0AEnd&=6%0A%0A%0A%0APg%20Dn%3B&@_w:2.25%3B&=Shift&=Z&=X&=C&=V&=B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:2.75%3B&=Shift&_x:0.25%3B&=1%0A%E2%86%90&=2%0A%E2%86%93&=3%0A%E2%86%92&_h:2%3B&=Enter%3B&@_w:1.25%3B&=Ctrl&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_w:6.25%3B&=&_w:1.25%3B&=Alt&_w:1.25%3B&=Win&_w:1.25%3B&=Fn&_w:1.25%3B&=Ctrl&_x:0.25&w:2%3B&=0%0AIns&=.%0ADel%3B&@_y:0.25&w:2.25%3B&=Shift&=Z&=X&=C&=V&=B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:1.75%3B&=Shift&=Fn%3B&@_w:1.5%3B&=Ctrl&=Win&_w:1.5%3B&=Alt&_w:7%3B&=&_w:1.5%3B&=Alt&=Win&_w:1.5%3B&=Ctrl)
 
 From this information it looks to be a very promising new 60ish% I hope everything goes well for this GB.
 
@@ -72,25 +72,25 @@ This may seem like an ambitious project and the delays they  are encountering se
 
 - [TextBlade Website](https://waytools.com/)
 - [Forum Update](https://forum.waytools.com/t/status-updates-29-june/713)
-- [Hands on Article](http://www.macrumors.com/2015/03/06/hands-on-with-the-textblade-keyboard/)
+- [Hands on Article](https://www.macrumors.com/2015/03/06/hands-on-with-the-textblade-keyboard/)
 
 ## Cherry  MX 6.0 Available on Amazon UK
 Now available on Amazon UK for £156.43. I have one and will be putting out a review at some point.
 
-- [Amazon link](http://www.amazon.co.uk/dp/B010B2235G)
+- [Amazon link](https://www.amazon.co.uk/dp/B010B2235G)
 
 # Keycaps
 
 ## Leopold Dyesubs Available Through Widebasket
 They became available shortly after last week's post. But here are the links:  
 
-- [Standard US](http://www.ebay.co.uk/itm/Leopold-PBT-Keycap-Set-for-Cherry-MX-based-Mecanical-Keyboard-Dye-Sublimated-/271910439599)
+- [Standard US](https://www.ebay.co.uk/itm/Leopold-PBT-Keycap-Set-for-Cherry-MX-based-Mecanical-Keyboard-Dye-Sublimated-/271910439599)
  
-- [US with Hangul](http://www.ebay.co.uk/itm/Leopold-PBT-Keycap-Set-for-Cherry-MX-based-Mecanical-Keyboard-Korean-English-/281733731502)
+- [US with Hangul](https://www.ebay.co.uk/itm/Leopold-PBT-Keycap-Set-for-Cherry-MX-based-Mecanical-Keyboard-Korean-English-/281733731502)
 
 
 ## Granite GB Update
-After the [comical](http://redd.it/39fkcp) update a couple of weeks ago it seems that production is moving forward. At this stage the keycaps should either be with massdrop or shipped by massdrop.
+After the [comical](https://redd.it/39fkcp) update a couple of weeks ago it seems that production is moving forward. At this stage the keycaps should either be with massdrop or shipped by massdrop.
 
 >  We spoke with Signature Plastics earlier today and they’re wrapping up the final production steps as we speak. They are aiming to have the order shipped out to us from their facility within the next day or so.
 

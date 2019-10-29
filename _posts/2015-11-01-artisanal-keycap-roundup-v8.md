@@ -12,7 +12,7 @@ tags: []
 The KeyKollectiv SnacKeys sale was successful and there have been some very nice photos appearing.
 
 The best photo that I think illustrates these keycaps is this from KeyKollectiv themselves:
-![Box full of Keyfruit](http://i.imgur.com/Yw0mgeW.jpg)
+![Box full of Keyfruit](https://i.imgur.com/Yw0mgeW.jpg)
 
 Sale one is now over but I can imagine that it is possible these come back in the future.
 
@@ -24,15 +24,15 @@ Bro has been both busy, and the attraction of some controversy. I don't think th
 There are currently two running giveaways (ending today) if you managed to miss these.
 
 The first is the Lycan giveaway. For this you have to [tell a story of how you became a werewolf.](https://geekhack.org/index.php?topic=76396.0)
-![Lycan brocap](http://i.imgur.com/5m5lzwg.jpg)
+![Lycan brocap](https://i.imgur.com/5m5lzwg.jpg)
 
 Another is the pumpkin carving contest. This is for the newly designed grumpkin caps.
-![Grumpkin Keycap](http://i.imgur.com/hn2gbgj.jpg)
+![Grumpkin Keycap](https://i.imgur.com/hn2gbgj.jpg)
 
 These are my current favourite of the newly designed caps.
 
 As well as these halloweeny type keycaps there is a new zombro.
-![Zomboro Keycap](http://i.imgur.com/Rb8Ftds.jpg)
+![Zomboro Keycap](https://i.imgur.com/Rb8Ftds.jpg)
 
 These are likely to be sold in a small upcoming sale in quite the near future. Your best bet is to watch the brocaps sale thread.
 
@@ -41,7 +41,7 @@ These are likely to be sold in a small upcoming sale in quite the near future. Y
 ## monty20python
 A new person has entered the scene with 'proof of concept' tab artisan.
 
-![new tab artisan](http://i.imgur.com/F7cD5Qn.jpg)
+![new tab artisan](https://i.imgur.com/F7cD5Qn.jpg)
 
 I am not entirely sure what it is, and using it might be a bit cumbersome. But it certainly does prove that it can be done. But the real question is "Should it?".
 
@@ -55,11 +55,11 @@ ZorbCaps Sale 2 has been and gone. It was titled "The Sale of Ice and Fire" and 
 ## Krytone
 Krytone has been posting some very nice images on reddit, although I believe I have seen these somewhere else before.
 
-My favourite has to be the [birdie](http://i62.photobucket.com/albums/h113/Krytone/Birdie_zpspaefpqgf.jpg)
+My favourite has to be the [birdie](https://i62.photobucket.com/albums/h113/Krytone/Birdie_zpspaefpqgf.jpg)
 
-There was also a [Krapster](http://i62.photobucket.com/albums/h113/Krytone/Harley%20Quinn_zpsr4zrgbvx.jpg)
+There was also a [Krapster](https://i62.photobucket.com/albums/h113/Krytone/Harley%20Quinn_zpsr4zrgbvx.jpg)
 
-Other new caps are the [ribcage](http://i62.photobucket.com/albums/h113/Krytone/Ribcage%20Poster_zpsydutb55p.jpg) and various [Topre WASD and Arrow cluster sets.](http://i62.photobucket.com/albums/h113/Krytone/HHKB_zpsnoxjldgn.jpg)
+Other new caps are the [ribcage](https://i62.photobucket.com/albums/h113/Krytone/Ribcage%20Poster_zpsydutb55p.jpg) and various [Topre WASD and Arrow cluster sets.](https://i62.photobucket.com/albums/h113/Krytone/HHKB_zpsnoxjldgn.jpg)
 
 ## Gloyz
 This is another new maker who has been somewhat around for a little while. They have a nice amount of designs featuring quite the range of colours.
@@ -81,14 +81,14 @@ The sticket raffle is over and the drawings were done on a livestream.
 
 ## Binge and KatzenKinder
 Both of these makers have been making SKIDATA+ themed keycaps for the SKIDATA+ GMK keyset GB (of course).
-![Skidata themed keycaps by binge ](http://i.imgur.com/XUQ8Ffu.jpg)
-The SKIDATA+ keyset is currently live on [zealpc.net](http://zealpc.net/collections/group-buy-pre-orders/products/skidata)
+![Skidata themed keycaps by binge ](https://i.imgur.com/XUQ8Ffu.jpg)
+The SKIDATA+ keyset is currently live on [zealpc.net](https://zealpc.net/collections/group-buy-pre-orders/products/skidata)
 
 KatzenKinder is now on hiatus accept for the small run of SKIDATA themed caps.
 
 ## Nubbinator
 The Dolly V2 intro sale was successful. I was very on the fence about these but in the end I did not participate. The colours used are quite different from many others you will see but I am not entirely sure they are for me. There are certainly some combinations that I like and they are quite the spectacle to look at. But in the end I could not decide.
-![Dolly V2](http://i.imgur.com/x5yCIAG.jpg)
+![Dolly V2](https://i.imgur.com/x5yCIAG.jpg)
 
 [Deckerson's may also make a comeback in the future.](https://geekhack.org/index.php?topic=75927.msg1892007#msg1892007)
 
@@ -102,7 +102,7 @@ Some more of GirlDC's high quality keycaps, which again I do not recognise the s
 * [GirlDC Reddit Post](https://redd.it/3qj6ua)
 
 ## Booper
-![Cosmonaut](http://i.imgur.com/xJsVYsp.jpg)
+![Cosmonaut](https://i.imgur.com/xJsVYsp.jpg)
 Booper had a very successful long awaited sale. These were all incredibly nice but I managed to win none. Hopefully Booper continues this quality as they really do look great.
 
 * [Booper geekhack Sale Thread](https://geekhack.org/index.php?topic=76134.0)

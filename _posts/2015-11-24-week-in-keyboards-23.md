@@ -9,8 +9,8 @@ tags: []
 ---
 
 ## New Topre Keyset
-![New Skull Squadron Keyset](http://i.imgur.com/KOjMqCW.jpg)
-I would say this is the most exciting news this week. The new Topre keyset up on massdrop. This is not a totally new idea as the design inspiration is Skull Squadron. [Previously seen in a limited DSA set.](http://keypuller.com/skull-squadron/) It is a 104 full keyset with Topre's profile. It also comes with a companion PBT spacebar to match the set.
+![New Skull Squadron Keyset](https://i.imgur.com/KOjMqCW.jpg)
+I would say this is the most exciting news this week. The new Topre keyset up on massdrop. This is not a totally new idea as the design inspiration is Skull Squadron. [Previously seen in a limited DSA set.](https://keypuller.com/skull-squadron/) It is a 104 full keyset with Topre's profile. It also comes with a companion PBT spacebar to match the set.
 
 This is exciting as we have not seen official Topre keysets produced in a while. The fact that it's this slightly interesting colour scheme makes it all the more interesting. 
 Although this is all exciting and good news the major hangup is the lack of HHKB and FC660C support. This might happen in the future but it will be the main thing that stops people from committing. The MOQ for this is 200 sets with the price at $139.99 changing to $99.99 once 500 orders have been placed.
@@ -30,20 +30,20 @@ It's worth looking at the photos for these. Click the links to see them.
 
 ### New techmattr Cables
 
-* [Brass (metal sleeve)](http://i.imgur.com/oOHHSXA.jpg)
-* [Copper (metal sleeve)]( http://i.imgur.com/00XVG82.jpg)
-* [Holly Jolly Red]( http://i.imgur.com/i3pnix4.jpg)
-* [Holly Jolly Green]( http://i.imgur.com/GhwsW5H.jpg)
-* [Arctic Digital]( http://i.imgur.com/WIme9Jp.jpg)
-* [Heart Attack]( http://i.imgur.com/lyA50JR.jpg)
-* [Diecast]( http://i.imgur.com/hOiq0AR.jpg)
-* [Scuba](: http://i.imgur.com/XY6ZGuW.jpg)
-* [LE04](http://i.imgur.com/vKgcEzH.jpg)
+* [Brass (metal sleeve)](https://i.imgur.com/oOHHSXA.jpg)
+* [Copper (metal sleeve)]( https://i.imgur.com/00XVG82.jpg)
+* [Holly Jolly Red]( https://i.imgur.com/i3pnix4.jpg)
+* [Holly Jolly Green]( https://i.imgur.com/GhwsW5H.jpg)
+* [Arctic Digital]( https://i.imgur.com/WIme9Jp.jpg)
+* [Heart Attack]( https://i.imgur.com/lyA50JR.jpg)
+* [Diecast]( https://i.imgur.com/hOiq0AR.jpg)
+* [Scuba](: https://i.imgur.com/XY6ZGuW.jpg)
+* [LE04](https://i.imgur.com/vKgcEzH.jpg)
 
 I'm quite a fan of the holly jolly here.
 
 
-Find all of these at [1upkeyboards.com](http://1upkeyboards.com/)
+Find all of these at [1upkeyboards.com](https://1upkeyboards.com/)
 
 ## A Look at the Hotswappable Chinese Keyboard
 This was an interesting keyboard as it seems to have trumped the smart68 quite quickly in the ability to swap switches without soldering.
@@ -70,9 +70,9 @@ There is a nice shoutout to geekhack and Deskthority.
 
 
 ## SSK's Available on Amazon
-Courtesy of [CorusKB](http://corus-kb.com/) quite a few SSK's have been put up for sale on amazon. At $230 it's an OK price. But considering Cindy of elecplus generally sells these at $99 maybe not. But this is the current only source you will easily find an SSK.
+Courtesy of [CorusKB](https://corus-kb.com/) quite a few SSK's have been put up for sale on amazon. At $230 it's an OK price. But considering Cindy of elecplus generally sells these at $99 maybe not. But this is the current only source you will easily find an SSK.
 
-* [IBM Model M SSK on Amazon](http://www.amazon.com/gp/offer-listing/B015WDLPVM/ref=dp_olp_used?ie=UTF8&condition=used)
+* [IBM Model M SSK on Amazon](https://www.amazon.com/gp/offer-listing/B015WDLPVM/ref=dp_olp_used?ie=UTF8&condition=used)
 
 ## Small Note about Katzenkinder
 ![Katzenkinder RGB artisans](https://i.imgur.com/YuMEIpb.jpg)

@@ -6,12 +6,12 @@ category:
 - weekinkeyboards
 
 tags: []
-thumbnail: http://i.imgur.com/UEMIazW.jpg
+thumbnail: https://i.imgur.com/UEMIazW.jpg
 ---
 
 ## Wooting Using FlareTech Switches
 
-![Wooting One FlareTech Switches REmoved demonstration](http://i.imgur.com/UEMIazW.jpg)
+![Wooting One FlareTech Switches REmoved demonstration](https://i.imgur.com/UEMIazW.jpg)
 So this is another thing that indicates that the Wooting Keyboard (The Wooting One) will be worthwhile.
 
 The FlareTech switches were seen a while ago but nothing had really come of them until now.
@@ -26,9 +26,9 @@ This is a good question and there seem to be two benefits.
 As they do not have to be soldered to the PCB they can be removed and replaced. This is something that has just been emerging for Cherry MX based keyboards. 
 
 
-[The wooting keyboard is coming to Kickstarter mid-may.](http://www.overclock3d.net/articles/input_devices/the_wooting_one_analog_mechanical_keyboard_will_hit_kickstarter_in_may/1)
+[The wooting keyboard is coming to Kickstarter mid-may.](https://www.overclock3d.net/articles/input_devices/the_wooting_one_analog_mechanical_keyboard_will_hit_kickstarter_in_may/1)
 
-* [More Information on the Wooting Blog](http://blog.wooting.nl/flaretech-the-optical-keyboard-switch/)
+* [More Information on the Wooting Blog](https://blog.wooting.nl/flaretech-the-optical-keyboard-switch/)
 
 ## New Buckling Spring Kickstarter Live
 [![new buckling spring switch render](https://i.imgur.com/P7V1dPA.jpg)](https://www.kickstarter.com/projects/1739705432/modernized-buckling-spring-keyboard-switch/description)  

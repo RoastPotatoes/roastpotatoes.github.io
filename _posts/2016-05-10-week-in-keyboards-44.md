@@ -16,34 +16,34 @@ I give an on and off mention of this, as it could be coming at any time. If you 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 ## Jukebox SA Back on Massdrop
-![JukeBox Keycap Keyset](http://i.imgur.com/13UXzhF.jpg)
-The popular keyset designed by Andy of [Keychatter](http://keychatter.com/) is back.
+![JukeBox Keycap Keyset](https://i.imgur.com/13UXzhF.jpg)
+The popular keyset designed by Andy of [Keychatter](https://keychatter.com/) is back.
 This is a great looking keyset but the drawback this time is the production time. Signature Plastics is continually developing their backlog as popularity rises. The aimed ship date of these is November the 7th. You may also have noticed that the 1976 keyset production has also run into delays. 
 
 * [Jukebox SA on massdrop](https://www.massdrop.com/buy/jukebox-sa-keyset?mode=guest_open)
 
 
 ## Ortholinear Leftovers
-![The Atomic Ortholinear Keyboard from the Side](http://blog.roastpotatoes.co/assets/atomic/side-view-of-atomic-keyboard.jpg)
+![The Atomic Ortholinear Keyboard from the Side](https://blog.roastpotatoes.co/assets/atomic/side-view-of-atomic-keyboard.jpg)
 Leftover parts from the OLKB massdrop are now for sale on the OLKB store. The store has switched over from magento to squarespace, and I must say it is looking really nice.
 
 I am highly fond of Ortholinear Keyboards and I recommend them wholeheartedly.
 
-[Most of my thoughts on Ortholinear Keyboards can be found here.](http://blog.roastpotatoes.co/review/2015/09/20/ortholinear-experience-atomic/) 
-* [OLKB Store](http://olkb.com/)
+[Most of my thoughts on Ortholinear Keyboards can be found here.](https://blog.roastpotatoes.co/review/2015/09/20/ortholinear-experience-atomic/) 
+* [OLKB Store](https://olkb.com/)
 
 ## The Pio One
-![The Pio One Prototype](http://i.imgur.com/JYHD6EI.png)
+![The Pio One Prototype](https://i.imgur.com/JYHD6EI.png)
 The Pio One is a keyboard very similar to the Optimus Keyboard. If you don't know what one of those is, the idea is a screen behind every switch. Giving you complete control over what is under each transparent keycap.
 
 This is obviously quite expensive and means they are not mechanical switches, or at least mechanical switches as we would commonly refer to.
 
 This will be a kickstarter idea, and I'm sure it will be very expensive. The real issue will be getting a price people feel this feature is worth.
 
-* [Pio Design](http://piodesign.org/)
+* [Pio Design](https://piodesign.org/)
 
 ## Lucid Cases
-![Firt Lucid Case Content](http://i.imgur.com/o02ujJr.jpg)
+![Firt Lucid Case Content](https://i.imgur.com/o02ujJr.jpg)
 *First Box Contents*  
 Lucid Cases it the Loot Crate esque keyboard subscription box. I don't really like the model, but if people like what they get then I can't complain.  
 
@@ -53,7 +53,7 @@ They are currently running a promotion to win a K-Type the new Tenkeyless from I
 
 
 ## New Buckling Spring Switch Kickstarter Still Going
-![New Buckling Spring Switch Prototype with Blue Keycap](http://i.imgur.com/J0bjCCI.jpg)
+![New Buckling Spring Switch Prototype with Blue Keycap](https://i.imgur.com/J0bjCCI.jpg)
 I've got to keep mentioning it as it will really be an uphill battle to get this funded.
 
 The product on offer is a single unit buckling spring switch. This differs from the actual buckling spring which is not available in individual switch modules. Having the possibility of creating new buckling spring keyboards in the future is what makes this an exciting kickstarter.
@@ -67,14 +67,14 @@ This latest blog post details the factory experience of the Wooting One. It come
 
 Find all the videos on the Wooting Blog.  
 
-* [Wooting Blog Factory Tour](http://blog.wooting.nl/the-factory-trip-for-wooting-one/)
+* [Wooting Blog Factory Tour](https://blog.wooting.nl/the-factory-trip-for-wooting-one/)
 
 ## KBS Offering 'Gaming Keyboards'
 Keyboard Specialists the UK based keyboard suppliers is now offering a couple of 'Gaming Keyboards'.
 
 No one really interesting but they could be a supplier to watch.
 
-* [KBS Announcement Blog Post](http://www.keyboardspecialists.co.uk/News/?articleID=36)
+* [KBS Announcement Blog Post](https://www.keyboardspecialists.co.uk/News/?articleID=36)
 
 
 

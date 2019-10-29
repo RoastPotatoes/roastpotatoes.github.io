@@ -34,7 +34,7 @@ Another small item is a mk.com switch opening tool. Nothing hugely interesting b
 ## Blahlicus
 Everything has shipped. For those invested in this I'm sure most of you know. All Phase 2 Blahlicus keyboards have shipped. I am most interested in seeing the Diverge II's in the wild.
 
-* [Blahlicus Blog](http://blog.uniquekeyboard.com/?p=138)
+* [Blahlicus Blog](https://blog.uniquekeyboard.com/?p=138)
 
 ## New Type Heaven Colours
 I am quite happy about Topre doing things. This and the [new keyset by Matt3o](https://geekhack.org/index.php?topic=74413.0) they are making some good moves for the keyboard community. The typeheaven is a 'cheaper' introduction into Topre. These new colour options make it a little more tempting to see what it is like in comparison to a HHKB.
@@ -44,7 +44,7 @@ I am quite happy about Topre doing things. This and the [new keyset by Matt3o](h
 I think the colours are interesting but the black keycaps ruin the whole aesthetic. A matched keyset colourway could go a long way in improving the image of the typeheaven.
 
 ## Zeal's Macro Shot's
-![](http://i.imgur.com/9MkRTj9.jpg)
+![](https://i.imgur.com/9MkRTj9.jpg)
 
 This is not really news but I wast intrigued by what I saw. Zeal has taken so me macro photos of Gateron and Cherry sliders and they really do speak for themselves. The smoothness you get with Gateron's is not unfounded and there is a real difference in the sliders.
 

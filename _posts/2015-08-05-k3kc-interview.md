@@ -129,7 +129,7 @@ Well I thought it was quite interesting to hear from K3 himself. For me two answ
 I'm not quite sure how people will react to this interview as I am giving him press. But I found it interesting and it gave me another viewpoint on the situation.
 
 
-If you would like to stay up-to-date with my blog stuff. [Please subscribe to my mailing list.](http://eepurl.com/bsc4wH)
+If you would like to stay up-to-date with my blog stuff. [Please subscribe to my mailing list.](https://eepurl.com/bsc4wH)
 
 ---------------------------------
  <p style="text-align: right" title="Equipped with Hasu's alternative controller">Typed on <font color="#373737">HHKB Pro 2</font></p>

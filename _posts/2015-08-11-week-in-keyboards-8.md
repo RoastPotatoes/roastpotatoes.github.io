@@ -18,13 +18,13 @@ The issues appear to be on GMK as there are many manufacturing issues, but also 
 
 * [Example of Disappointment](https://www.reddit.com/r/MechanicalKeyboards/comments/3g6e7o/photos_yet_another_triumph_adler_post/)
 
-* [Swirl by spoonraker](http://i.imgur.com/e53iBF7.jpg)
+* [Swirl by spoonraker](https://i.imgur.com/e53iBF7.jpg)
 
 ## Wooting Keyboard Information
 After releasing renders of the "next generation" mechanical keyboard, this week has revealed details about the Fn layer.
 I would say the only thing interesting revealed is the fact that it could be fully programmable.
 
-* [Blog Post](http://blog.wooting.nl/mechanical-keyboard-shortcuts-functions/)
+* [Blog Post](https://blog.wooting.nl/mechanical-keyboard-shortcuts-functions/)
 
 ## Input Club K-Type
 ![]({{site-url}}/assets/ktype/2-5.jpg)
@@ -40,24 +40,24 @@ Instantly my interest was drawn to the silent. The new silent Strafe includes a 
 ![](https://i.imgur.com/JXcHVwv.jpg)
 
 * [Model of Quiet Switches](https://sketchfab.com/models/4f4cfbf9f50949b193ab99e43f4ca23d)
-* [Corsair Press Release](http://www.corsair.com/en-gb/company/press-release/corsair-evolves-gaming-arsenal-with-new-rgb-keyboards-mice-and-headsets)
+* [Corsair Press Release](https://www.corsair.com/en-gb/company/press-release/corsair-evolves-gaming-arsenal-with-new-rgb-keyboards-mice-and-headsets)
 
 ## KBTalking Next is on taobao
 I am still interested in this board. But there doesn't appear to be anything overly special about it. The main interest I hold is for the unknown switches.
 
-* [Taobao Link](http://m.intl.taobao.com/detail/detail.html?spm=a1z10.1-c.w4024-8172676247.1.UnQ9zm&id=520039714625&ns=1&abbucket=4&scene=taobao_shop)
+* [Taobao Link](https://m.intl.taobao.com/detail/detail.html?spm=a1z10.1-c.w4024-8172676247.1.UnQ9zm&id=520039714625&ns=1&abbucket=4&scene=taobao_shop)
 
 ## Infinity ErgoDox Update
 The Infinity ErgoDox is getting closer to shipping. Photos were shown of a working LCD. I was not that interested in this upgrade however, this image has intrigued me. I am now disappointed that I did not get one.
-![](http://i.imgur.com/m4wUiYI.jpg)
+![](https://i.imgur.com/m4wUiYI.jpg)
 
-* [Update Post on Input Club Forum](http://input.club/forums/topic/infinity-ergodox-update)
+* [Update Post on Input Club Forum](https://input.club/forums/topic/infinity-ergodox-update)
 
 ## New WASD Keyboards Colours
-![](http://i.imgur.com/3BcBVLG.jpg)
+![](https://i.imgur.com/3BcBVLG.jpg)
 WASD Keyboards now offers 8 additional keycap colours to choose from when creating your keyboard. For those who are not acquainted with WASD, they allow you to completely customise your keycaps when you order one of their keyboards. You can also just buy customised keysets.
 
-* [WASD Keyboards Website](http://wasdkeyboards.com/)
+* [WASD Keyboards Website](https://wasdkeyboards.com/)
 
 ## Leandren now Accepting Orders
 This is for 60% plates and pcb's which are made by spirit. An excellent choice for a custom 60% also at an excellent price.
@@ -68,8 +68,8 @@ This is for 60% plates and pcb's which are made by spirit. An excellent choice f
 ## 1upkeyboards DIY Cable Kits	
 I thought this was noteworthy, as it was something I had not seen sold before. There are many custom cable makers, but kits to make your own are a new thing to me. For $10 dollars I think this is currently a unique offering.
 
-* [More Info](http://redd.it/3ge6ld)
-* [1upkeyboards](http://1upkeyboards.com/product_info.php?cPath=23_27&products_id=97)
+* [More Info](https://redd.it/3ge6ld)
+* [1upkeyboards](https://1upkeyboards.com/product_info.php?cPath=23_27&products_id=97)
 
 ## Ducky Shine One Being Released August 17th 
 For $119 you can own a fairly standard backlit keyboard. I think it is a good offering for the price but nothing that special. Ducky quality is generally good and for someone looking to get their first, maybe a bit extravagant keyboard, this is a good purchase.

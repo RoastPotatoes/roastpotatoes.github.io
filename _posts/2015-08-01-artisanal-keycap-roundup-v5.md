@@ -22,7 +22,7 @@ XX7 who is a maker known for their 3d printed artisans recently held a groupbuy 
 
 XX7 is also releasing the Topre MEGATRQN file which I believe uses XX7's original stem design.
 
-* [Photos and discussion](http://imgur.com/gallery/aL5r0)
+* [Photos and discussion](https://imgur.com/gallery/aL5r0)
 
 * KappaKapps is also a great maker who used a 3d printer. 
 
@@ -48,13 +48,13 @@ Bro teased another MX Gamer Set with little information. Not much to say on this
 ## Lootkeys Project
 Whizzard recently orchestrated the alpha giveaway of the Lootkeys Project. Read my spotlight for more information. To summarise, very impressive 10/10 would unpack again.
 
-* [Lootkeys Spotlight](http://roastpotatoes.github.io/keycapspotlight/2015/07/30/keycap-spotlight-lootkeys-project/)
+* [Lootkeys Spotlight](https://roastpotatoes.github.io/keycapspotlight/2015/07/30/keycap-spotlight-lootkeys-project/)
 
 ## Adamski
 ![](https://i.imgur.com/qedfaBg.jpg)
 This maker appeared just over a month ago and I would say has shown some continual improvement. My current favourite is the burning charcoal and melting ice, which I think shows improvement over the first iteration.
 
-* [MX WASD & Topre Fn](http://www.reddit.com/r/MechanicalKeyboards/comments/3d2oj4/artisanmx_wasd_and_fn_topre/)
+* [MX WASD & Topre Fn](https://www.reddit.com/r/MechanicalKeyboards/comments/3d2oj4/artisanmx_wasd_and_fn_topre/)
 
 
 
@@ -71,7 +71,7 @@ With the quality from meowcaps I expect them to be high quality. But this is sti
 I forgot to include two more people.
 
 ## Katzenkinder
-![](http://i.imgur.com/UhMEutA.jpg)
+![](https://i.imgur.com/UhMEutA.jpg)
 I am very happy to see more Katzenkinder keycaps. I am a huge fan and I am really liking the current colourways. Katz also said that this will be the last axol v1's before the relaunch.  
 There seems to be a lot of Topre in this round. Alongside a lot of axols. I am looking forward to this next sale.
 
@@ -81,7 +81,7 @@ There seems to be a lot of Topre in this round. Alongside a lot of axols. I am l
 ![](https://i.imgur.com/By9g6Up.png)
 Binge shared a photo of some upcoming '50 shades of green' keycaps. With whatever Binge does I am always impressed with the sculpt quality.
 
-* [reddit](http://www.reddit.com/r/mechanicalkeyboards/comments/3f1lv7/_/)
+* [reddit](https://www.reddit.com/r/mechanicalkeyboards/comments/3f1lv7/_/)
 
 --------------------------------
  <p style="text-align: right" title=":(">Typed on <font color="#373737">Moto G</font></p>

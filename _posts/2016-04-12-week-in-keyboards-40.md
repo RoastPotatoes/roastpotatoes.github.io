@@ -13,12 +13,12 @@ Thanks for the continued support. I appreciate all those who continue to read th
 Two things came out of nowhere this past week which were things I thought I'd never see.
 
 ## HHKB Professional BT
-![HHKB Professional BT Profile](http://i.imgur.com/sZMqAjP.jpg)
+![HHKB Professional BT Profile](https://i.imgur.com/sZMqAjP.jpg)
 The first one. I'm sure this hasn't flown under the radar at all, but if you didn't know, there is finally an official bluetooth HHKB. Ripster's yearly keyboard predictions have always included the hope for a HHKB 3 and I'm not sure if this counts but, it is close.
 
 Nearly everything seems good with this latest HHKB iteration. The only complaint I can think of is the bluetooth addition has ruined the aesthetic of the keyboard. I have always thought of the HHKB as meticulously designed and a very aesthetically pleasing product. As you can see from the images, the bluetooth addition  culminates in a protruding monstrosity to put the batteries.
 
-![HHKB Professional BT Reverse](http://i.imgur.com/sfrr2yr.jpg)
+![HHKB Professional BT Reverse](https://i.imgur.com/sfrr2yr.jpg)
 
 **Important Information:**
 
@@ -39,10 +39,10 @@ Nearly everything seems good with this latest HHKB iteration. The only complaint
 Buying one is going to require living in Japan or a proxy.  
 The other option is [hasu's bt controller](https://geekhack.org/index.php?topic=71517.0). The advantage with this controller is that it is not going to portrude from your HHKB. However, you will get significantly less battery life.
 
-* [HHKB Pro BT on Amazon](http://www.Amazon.Co.Jp/dp/B01DVH7C0O)
+* [HHKB Pro BT on Amazon](https://www.Amazon.Co.Jp/dp/B01DVH7C0O)
 
 
-* [Japanese Article](http://headlines.yahoo.co.jp/hl?a=20160412-00000015-impress-sci)
+* [Japanese Article](https://headlines.yahoo.co.jp/hl?a=20160412-00000015-impress-sci)
 * [Offial PFU Page](https://www.pfu.fujitsu.com/hhkeyboard/bt/)
 
 ## The Textblade 
@@ -56,7 +56,7 @@ I wouldn't quite buy one of these just yet as I really want to know a bit more a
 * [Textblade Store](https://waytools.com/store)
 
 ## More Specialeemade Sleeves
-![Specialeemade 60% sleeve](http://i.imgur.com/vxnNDLr.jpg)
+![Specialeemade 60% sleeve](https://i.imgur.com/vxnNDLr.jpg)
 These seem to be some very nice hand made sleeves. I don't have one myself but I think they look awesome.
 
 Prices:
@@ -65,7 +65,7 @@ Prices:
 * Vinyl 40%, 60%, 65%, TKL pre-made sleeves - USD$30 + Shipping
 * Custom orders - USD$35 + Shipping
 
-* [Specialeemade Web Store](http://specialeemade.bigcartel.com/)
+* [Specialeemade Web Store](https://specialeemade.bigcartel.com/)
 
 ---------------------------------
 

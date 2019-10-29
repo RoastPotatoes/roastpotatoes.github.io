@@ -7,8 +7,8 @@ category:
 
 tags: []
 ---
-![Kishsaver with USB cord](http://deskthority.net/resources/image/12957)
-*Photo from Muirium at [Deskthority](http://deskthority.net/photos-f62/kishsaver-photothread-t7483-30.html#p179934)*
+![Kishsaver with USB cord](https://deskthority.net/resources/image/12957)
+*Photo from Muirium at [Deskthority](https://deskthority.net/photos-f62/kishsaver-photothread-t7483-30.html#p179934)*
 
 
 The greatest keyboard revival project in current memory. This is the project to revive and fully re-create the IBM 4704 terminal keyboards. Lead by Ellipse this is a faithful recreation of the F62 and F77 4704 terminal keyboards. 
@@ -16,7 +16,7 @@ The greatest keyboard revival project in current memory. This is the project to 
 This may seem a little unusual but this is being done for good reason. These 4704’s are model F capacitive buckling springs. In a variety that is extremely hard to find. They are being made in two varieties the 62, and 77 key versions.
 Although similar to the ever, and increasingly popular model M. The capacitive pcb more commonly associated with the Model F, adds another dimensions to the switch feel. 
 
-To understand the root of this project I will go over a little bit of the history. Pretty much all information about the 4704’s was originally collated by kishy which is why the 62 key 4704 is generally referred to the Kishsaver. Pretty much all of this information is coming from [kishy's website.](http://kishy.ca/)  It was not solely Kishy as I believe it was a joint project to actually track down one in the first place. It is a very hard to find keyboard at the moment because it is quite old and  I’m not quite sure how many were made. They were originally used by tellers, back-office or administrative personnel. I imagine if the 62 key model was being used, it would have been used in conjunction with the 50 key 4704 which is an oversized numpad. The fact that this keyboard exists is slightly confusing to me as it seemed IBM’s style in the 80’s was more in-line with the unsaver keyboard. It has been fairly recently where we are seeing a huge popularity boost of the 60% and even 40% style boards. The kishsaver is an enigma of old keyboard design because of it’s size.
+To understand the root of this project I will go over a little bit of the history. Pretty much all information about the 4704’s was originally collated by kishy which is why the 62 key 4704 is generally referred to the Kishsaver. Pretty much all of this information is coming from [kishy's website.](https://kishy.ca/)  It was not solely Kishy as I believe it was a joint project to actually track down one in the first place. It is a very hard to find keyboard at the moment because it is quite old and  I’m not quite sure how many were made. They were originally used by tellers, back-office or administrative personnel. I imagine if the 62 key model was being used, it would have been used in conjunction with the 50 key 4704 which is an oversized numpad. The fact that this keyboard exists is slightly confusing to me as it seemed IBM’s style in the 80’s was more in-line with the unsaver keyboard. It has been fairly recently where we are seeing a huge popularity boost of the 60% and even 40% style boards. The kishsaver is an enigma of old keyboard design because of it’s size.
 
 ## 4704 Keyboard Family
 ![4704 keyboard family](/assets/4704/4704-keyboard-family.png)
@@ -25,7 +25,7 @@ To understand the root of this project I will go over a little bit of the histor
 ## Why the kishsaver?
 The main interest is the fact that it is a 60% sized keyboard in a switch type that is not easily transferred into custom projects. For this reason the Kishsaver is really one of a kind, as it is something that is a sought after form factor today. There are many articles detailing the fact that people still enjoy using the Model M and F keyboards today. But the Kishsaver includes both the switches that are loved from those boards, and the increasingly popular 60% size, this is just something that has not been available until now. 
 
-The first 4704 62 key was shown by Kishy but there was a subsequent discovery by [tinnie](http://deskthority.net/group-buys-f50/ibm-ssk-t6601.html) that got a few more in circulation. Getting one today you are either going to be extremely lucky coming across one at an electronics recycler, or you would be buying one for a high price in the after market. This alone makes it such an incredible project. Without this happening, it is would only get increasingly harder to get one of these excellent keyboards.
+The first 4704 62 key was shown by Kishy but there was a subsequent discovery by [tinnie](https://deskthority.net/group-buys-f50/ibm-ssk-t6601.html) that got a few more in circulation. Getting one today you are either going to be extremely lucky coming across one at an electronics recycler, or you would be buying one for a high price in the after market. This alone makes it such an incredible project. Without this happening, it is would only get increasingly harder to get one of these excellent keyboards.
 
 I have been focusing on the 62 key variety, but the 77 is also a very rare keyboard. Even more so than the Kishsaver I can’t say that I have come across one of these F77’s in the wild at all, before the introduction of this project.
 What Ellipse is doing is producing  more of the these 4704 terminal keyboards in 2015. Unicomp is still producing Model M’s to this day, but no one has produced a Model F in possibly 25+ years. 
@@ -75,7 +75,7 @@ Yes the project certainly was one of the more ambitious ones out there, and I co
 
 Yes - my intention is to put whatever orders come in by early December so that they can be here by Christmas ideally, though this may prove too ambitious. The major risks with this project is that the prototypes are not up to standard and may require some slight adjustments to the design, as well as the capacitive flippers not being of a suitable resin material, as well as quality control of the finished products which are all being made overseas. I asked the factory to mail me a few of the new prototype injection molded barrels and flippers ahead of the full prototypes to minimize the delay to the project from needing to altering the flipper resin if it proves to be not usable. After receiving and thoroughly testing the prototypes later this month, I expect to post some photos and videos and allow anyone in the NYC area to meet up and try out the keyboards. For more information on the project and to ask questions and stay in touch with updates, please check out the Deskthority.net and Geekhack.com forum threads here:
 
-* [Deskthority](http://deskthority.net/group-buys-f50/brand-new-f62-kishsaver-f77-industrial-model-f-s-made-this-year-t11046.html)  
+* [Deskthority](https://deskthority.net/group-buys-f50/brand-new-f62-kishsaver-f77-industrial-model-f-s-made-this-year-t11046.html)  
 * [geekhack](https://geekhack.org/index.php?topic=73363.0
 )
 
@@ -98,7 +98,7 @@ If you are interested fill out the [interest check form for the new F62 and F77.
 
 Stay up-to-date with whats happening at either link:
 
-* [Deskthority](http://deskthority.net/group-buys-f50/brand-new-f62-kishsaver-f77-industrial-model-f-s-made-this-year-t11046.html)  
+* [Deskthority](https://deskthority.net/group-buys-f50/brand-new-f62-kishsaver-f77-industrial-model-f-s-made-this-year-t11046.html)  
 * [geekhack](https://geekhack.org/index.php?topic=73363.0
 )
 

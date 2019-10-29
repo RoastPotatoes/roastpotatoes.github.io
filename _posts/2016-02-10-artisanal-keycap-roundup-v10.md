@@ -13,7 +13,7 @@ tags: []
 
 
 ## Nightcaps
-![collection of nightcaps](http://i.imgur.com/NnsKmIw.jpg)
+![collection of nightcaps](https://i.imgur.com/NnsKmIw.jpg)
 I have to say these are pretty spot on. The sculpting all looks really clean and awesome. The castle in particular has a very nice looking texture and the turtle shells have some very nice colours.  
 
 I would be interested in getting some of these. And on the 13th of February you have a chance. As, that is when a giveaway is taking place.
@@ -31,10 +31,10 @@ I saw these last month but I thought they were still worth a mention as there is
 
 
 ## Rama
-![](http://i.imgur.com/9XbameO.jpg)
+![](https://i.imgur.com/9XbameO.jpg)
 A new maker has appeared with an aluminium milled keycap. The design is quite something and they also come in some snazzy vacuum packed packaging.
 
-* [RAMA Store](http://rama.works/store/)
+* [RAMA Store](https://rama.works/store/)
 
 ## Sparkle Loft
 ![](https://i.imgur.com/A4Utxik.jpg)
@@ -53,13 +53,13 @@ KeyKollectiv is still going strong. This month saw 3 rounds of key-walas
 
 
 ## Suited Up by Bambino
-![keybuto](http://i.imgur.com/45zzGN3.jpg)
+![keybuto](https://i.imgur.com/45zzGN3.jpg)
 Bambino has started off very strong with three designs, the keybuto, Duke and Spartan. The duke is the standout with some excellent colour use.
-![](http://i.imgur.com/LX9tX6S.jpg)
+![](https://i.imgur.com/LX9tX6S.jpg)
 
 
 ## Whizzard
-![](http://i.imgur.com/DHnOSg5.jpg)
+![](https://i.imgur.com/DHnOSg5.jpg)
 Whizzard had another assorted sale featuring the new Space Race helmet and some quite striking colours for the abductor.
 
 * [Lootkeys Project gh thread](https://geekhack.org/index.php?topic=70816.0)
@@ -76,11 +76,11 @@ A lot of new caps have been shown on instagram most of them in a Star Wars theme
 * [HiddenPower Instagram](https://www.instagram.com/wobkeyboard/)
 
 ## Hunger Works Studio 
-![](http://i.imgur.com/SyiZNoJ.jpg)
+![](https://i.imgur.com/SyiZNoJ.jpg)
 The Polar Ice Sale happened incredibly quickly but featured some very nice keycaps, as you have guessed it was an icy theme.    
-Sadly there are none left but you can browse what you missed out on the [techkeys.us](http://techkeys.us/collections/artisan) store.
+Sadly there are none left but you can browse what you missed out on the [techkeys.us](https://techkeys.us/collections/artisan) store.
 
-* [Artisans on Techkeys](http://techkeys.us/collections/artisan)
+* [Artisans on Techkeys](https://techkeys.us/collections/artisan)
 
 ## Snowcaps
 ![](https://i.imgur.com/V9DyjRA.png)
@@ -89,7 +89,7 @@ A sale been and gone but [/u/TINYMONKEYT](https://www.reddit.com/user/tinymonkey
 I like the snow peaked mountain but it might benefit from a smoother texture which is often hard to get right.
 
 ## Krytone Year of the Sheep
-![](http://i.imgur.com/Qs1IDpY.jpg)
+![](https://i.imgur.com/Qs1IDpY.jpg)
 Although this sale was postponed, the keycaps still look awesome. I would be looking forward to this sale in the future.
 
 * [Krytone gh thread](https://geekhack.org/index.php?topic=63758.0)
@@ -100,12 +100,12 @@ Gloyz have been continuing to make their creature keycaps and a couple are still
 * [Gloyz Order Form](https://docs.google.com/forms/d/1hYWeEj1_WYZCC1X-rBmeeEttgmzfMSc6VceCW1MxWMQ/viewform?c=0&w=1)
 
 ## Keypress Graphics
-![Giza keycap](http://i.imgur.com/tItLk6j.jpg)
+![Giza keycap](https://i.imgur.com/tItLk6j.jpg)
 Keypress graphics is known for painting keycaps. And I do think some nice things have been created. 
 
 A lot of keycaps are currently available on the Keypress Graphics website.  
 
-* [Keypress Graphics](http://keypressgraphics.com/)
+* [Keypress Graphics](https://keypressgraphics.com/)
 
 ## Cozmosis
 ![](https://i.imgur.com/iZsmFhh.jpg)
@@ -139,13 +139,13 @@ I would also guess a good sized sale might be coming soon.
 [Bro's twitter is a good place to see what is happening.](https://twitter.com/BroCaps)
 
 ## ImpendingxDoom
-![impendingxdoom wasd cluster](http://i.imgur.com/1aty00Z.jpg)
+![impendingxdoom wasd cluster](https://i.imgur.com/1aty00Z.jpg)
 I have been loving ImpendingxDoom's recent swirly colour combinations. These latest arrow clusters are also quite spectacular.
 
 * [ImpendingxDoom Thread](https://geekhack.org/index.php?topic=71990.0)
 
 ## KatzenKinder
-![](http://i.imgur.com/L8I4aFA.jpg)
+![](https://i.imgur.com/L8I4aFA.jpg)
 There was an assorted keycap sale from katzenkinder. Everything again looked very nice. I do like katzenkinder.
 
 And if it means anything the KatzenKinder OP has been updated with:

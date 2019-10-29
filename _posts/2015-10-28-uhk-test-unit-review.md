@@ -84,7 +84,7 @@ Through extensive usage I can conclude that this is a great keyboard. What I wan
 
 These results are not to prove that the UHK will enhance your typing ability and completely change your speed. It is more proof that I did some typing on it and that it is usable.
 
-[![UHK typing test RP](http://i.imgur.com/I8UeXC3.png)](https://docs.google.com/spreadsheets/d/18MOdg3KNQ1JE0da3d03CT-9J9iWe4IpXTuONjnXG2m8/pubchart?oid=1491411210&format=interactive)
+[![UHK typing test RP](https://i.imgur.com/I8UeXC3.png)](https://docs.google.com/spreadsheets/d/18MOdg3KNQ1JE0da3d03CT-9J9iWe4IpXTuONjnXG2m8/pubchart?oid=1491411210&format=interactive)
 
 *Links to interactive chart.*
 

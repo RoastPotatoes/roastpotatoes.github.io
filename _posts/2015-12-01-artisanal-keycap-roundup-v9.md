@@ -8,12 +8,12 @@ category:
 tags: []
 ---
 ## ImpendingxDoom
-![Impendingxdoom cherry blanks](http://i.imgur.com/sWPj6Z2.jpg)
+![Impendingxdoom cherry blanks](https://i.imgur.com/sWPj6Z2.jpg)
 *Excellent photo & excellent keycaps.*
 
 To me these were the most eye catching keycaps I saw this month. These are cherry profile blanks in quite incredible colours. The sale is currently over but I imagine these won't be the last to make it into production. A stellar example of what makes artisan keycaps appealing.
  
-* [ImpendingxDoom geekhack Thread](http://i.imgur.com/sWPj6Z2.jpg)
+* [ImpendingxDoom geekhack Thread](https://i.imgur.com/sWPj6Z2.jpg)
 
 ## KatzenKinder
 ![Katzenkinder rGB Sale](https://i.imgur.com/YuMEIpb.jpg)
@@ -27,7 +27,7 @@ I really do admire KatzenKinder and appreciate their work.
 
 ## GirlDC
 ![](https://i.imgur.com/Uh4azTP.jpg)
-GirlDC has been maintaining the increased activity and shown new colours and new keycaps. It doesn't look like these are available just yet. But I would keep an eye out on [girldc.com](http://www.girldc.com/%EC%83%81%ED%92%88-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC/keycaps/)
+GirlDC has been maintaining the increased activity and shown new colours and new keycaps. It doesn't look like these are available just yet. But I would keep an eye out on [girldc.com](https://www.girldc.com/%EC%83%81%ED%92%88-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC/keycaps/)
 
 Also, watch [/u/girldc](https://www.reddit.com/user/girldc) for more photos and updates.
 
@@ -42,10 +42,10 @@ I was quite surprised to see a new Darth Vader cap this soon, but this is modell
 * [Dark Vader zombie caps](https://geekhack.org/index.php?topic=77535.0)
 
 ## XX7
-![XX7 MEGATRQN](http://i.imgur.com/ygieXZo.jpg)
+![XX7 MEGATRQN](https://i.imgur.com/ygieXZo.jpg)
 XX7 was on massdrop with the MEGATRQN design. It was available in Topre and MX with 3 colour schemes.
 
-If you missed out, then you can still purchase one in [xx7's store.](http://xx7keycaps.bigcartel.com/product/megatrqn)
+If you missed out, then you can still purchase one in [xx7's store.](https://xx7keycaps.bigcartel.com/product/megatrqn)
 
 ## KeyKollectiv
 ![KeyKollectiv Alien Skull](https://i.imgur.com/OQcRGva.jpg)
@@ -62,26 +62,26 @@ As a new maker this super meat boy keycap looks remarkably nice. It seems to be 
 ![](https://i.imgur.com/Uo3lsqr.jpg)
 Pyrolovesmoney is a new maker who has started painting 3d printed keycaps. I do think there is something that can be added to some keycaps through a bit of paint. I am particularly fond of what Bosk has done with some of mine.
 
-* [Full Album of Pyrolovesmoney](http://imgur.com/a/QFpeR)
+* [Full Album of Pyrolovesmoney](https://imgur.com/a/QFpeR)
 
 ## 401626283
 ![hydro dipped keycap](https://i.imgur.com/vwX39NS.jpg)
 The name you have to copy and paste has been experimenting with hydro dipped keycaps. The main concern here is will they last under even a small amount of duress. I do like some of these off the wall colour combinations. 
 
-* [Full Album of Hydro Dipped](http://imgur.com/gallery/u4viE)
+* [Full Album of Hydro Dipped](https://imgur.com/gallery/u4viE)
 
 
 
 ## Monty20python
 Monty20python is known for creating the most unwieldy keycap ever is back with bold designs. It's nice to see the tenacity in their continued work.
 
-* [Full Album](http://imgur.com/a/rflqL)
+* [Full Album](https://imgur.com/a/rflqL)
 
 ## Gloyz
 ![](https://i.imgur.com/64Yh2nr.jpg)
 Gloyz has quickly appeared and maintained their detailed high quality casts. These are photos from the upcoming Christmas sales which I'm sure will be along sometime in December. My favourite out of those would be the holly. It makes use of their superior sculpting ability but in a simpler design.
 
-* [gloyz.com](http://www.gloyz.com/)
+* [gloyz.com](https://www.gloyz.com/)
 
 ## Brocaps
 A small update from Bro was posted in the official sales thread on geekhack. [Read the full thing here.](https://geekhack.org/index.php?topic=59295.msg1950686#msg1950686)
@@ -103,7 +103,7 @@ The main points
 I was hoping the favourite design was the Brobot V3 but I have no idea.
 
 ## Krytone
-A Krap sale is slated for this [Saturday the 5th](http://www.timeanddate.com/countdown/christmas?iso=20151205T22&p0=122&msg=Topre+KRAP+Sale%21&font=cursive&csz=1&swk=1) it is a Topre sale so will probably include Topre caps. Krytone has been teasing some very nice new skulls and cluster sets so this could be very interesting.
+A Krap sale is slated for this [Saturday the 5th](https://www.timeanddate.com/countdown/christmas?iso=20151205T22&p0=122&msg=Topre+KRAP+Sale%21&font=cursive&csz=1&swk=1) it is a Topre sale so will probably include Topre caps. Krytone has been teasing some very nice new skulls and cluster sets so this could be very interesting.
 
 ## Official Closure of Bingecap
 This is a fairwell to the front of everything Binge as Bingecaps. After the year is up Bingecaps is officially Hunger Work Studio. This isn't bad or anything but just an evolution of what binge has created. I imagine it will be quite interesting.
@@ -111,7 +111,7 @@ This is a fairwell to the front of everything Binge as Bingecaps. After the year
 * [More Information](https://redd.it/3v1btq)
 
 ## RoastPotatoes 
-![New RoastPotatoes Keycap](http://i.imgur.com/f3oLJrR.jpg)
+![New RoastPotatoes Keycap](https://i.imgur.com/f3oLJrR.jpg)
 I have been mostly making posters this month. But I did make some keycaps at some point. I have made new moulds for Heart Hugs as that is one of my favourite keycaps. The Heart Hug should be reappearing in new MX, Topre, and buckling springs.
 
 RGB is not dead, but on hiatus until I can make them again.

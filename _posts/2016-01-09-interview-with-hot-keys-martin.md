@@ -67,7 +67,7 @@ The idea of revisiting previous designs and colorways highly depends on the popu
 
 My favorite design and colorway of my own collection will be the Raven. The black over red creates a stimulating color tone for the keyboard, and the fact that additional parts can be added onto the keycap makes it more interesting and fun.
 
-![black and red Raven](http://i.imgur.com/esmMxwL.jpg) 
+![black and red Raven](https://i.imgur.com/esmMxwL.jpg) 
 
 **I have been looking through your archive on geekhack and you have made a lot of different colourways. Do you have a number of all the variations of keycaps you have made? e.g. how many colours of gasmasks?**
 

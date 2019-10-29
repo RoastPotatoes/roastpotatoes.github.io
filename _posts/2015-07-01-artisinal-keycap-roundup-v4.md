@@ -7,65 +7,65 @@ category:
 tags: [Katzenkinder, keycaps, Binge KappaKapps, Keyboards, Hiddenpower, GirlDC, Ctrlalt, Brocaps, Bronads,]
 ---
 # KatzenKinder
-Only a small update but as a fan I like KatzenKinder information. From the [ama](http://redd.it/39bxpw) on the /r/katzenkinder subreddit, there might possible be a sale around the beginning of August.
+Only a small update but as a fan I like KatzenKinder information. From the [ama](https://redd.it/39bxpw) on the /r/katzenkinder subreddit, there might possible be a sale around the beginning of August.
 
 # GirlDC Surfaces
-After the banning debacle on geekhack it seems like GirlDC is expanding their opportunities and is somewhat active on /r/MK I don't like the homer vader design but the keycaps are incredibly clean. The stormtroopers are much more to my liking however they are pricey. The stormtroopers cost [$39 on techkeys.](http://techkeys.us/collections/artisan) 
-[![t](https://i.imgur.com/3GBEbka.jpg)](http://redd.it/3a1a8z)
+After the banning debacle on geekhack it seems like GirlDC is expanding their opportunities and is somewhat active on /r/MK I don't like the homer vader design but the keycaps are incredibly clean. The stormtroopers are much more to my liking however they are pricey. The stormtroopers cost [$39 on techkeys.](https://techkeys.us/collections/artisan) 
+[![t](https://i.imgur.com/3GBEbka.jpg)](https://redd.it/3a1a8z)
 
-- [First Post](http://redd.it/3a1a8z)
-- [Second Post](http://redd.it/3bmb7q)
-- [GirlDC Store](http://www.girldc.com/%EC%83%81%ED%92%88-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC/keycaps/)
+- [First Post](https://redd.it/3a1a8z)
+- [Second Post](https://redd.it/3bmb7q)
+- [GirlDC Store](https://www.girldc.com/%EC%83%81%ED%92%88-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC/keycaps/)
 
 # KappaKapps
-At the end of last month KappaKapps teased their ['Stark'](http://redd.it/381exc) keycaps (not official name) that are a new design for a [new line of keycaps](http://redd.it/38ytli).   
+At the end of last month KappaKapps teased their ['Stark'](https://redd.it/381exc) keycaps (not official name) that are a new design for a [new line of keycaps](https://redd.it/38ytli).   
 Then they moved on to their summer sale. This featured some very nice discounts on their keycaps. Undead Clackin' caps were 50% off at the beginning. For those who want some caps now, the July sale is currently running, as is the summer sale 2. The summer sale 2 is the 'Ocean Beach Pack' which includes the 'Ocean  White' and 'Seafoam White'. The July sale as you might expect is 3 Undead Clackin's in red white and blue.
 
-- [Summer Sale 2 Ocean Beach Pack](http://www.kappakapps.com/summer_sale2.html)
-- [July Sale](http://www.kappakapps.com/july_sale.html)
+- [Summer Sale 2 Ocean Beach Pack](https://www.kappakapps.com/summer_sale2.html)
+- [July Sale](https://www.kappakapps.com/july_sale.html)
 
 # Flehrad
 ![sakura](https://i.imgur.com/GPF817O.jpg)
 Another new maker with some promising designs. Currently they have 3 designs the Critical 20, Samboo and Sakura. My favourite is the Sakura and I can't quite say why. These are some nice designs and they seem well made. But I would agree that there is a definite over-spruing in making these caps.
 
-- [Reddit Post with Gallery](http://redd.it/3ahpm6)
+- [Reddit Post with Gallery](https://redd.it/3ahpm6)
 
 # fudorekz12/adamski07
 This is a new capmaker with a prototype design. I like the direction they are going and will be watching them for the future. The cap looks especially good when backlit.
 ![backlit](https://i.imgur.com/2ogoD3e.gif)
 
-- [Info Thread](http://redd.it/3avh4i)
+- [Info Thread](https://redd.it/3avh4i)
 
 # zorberema_
 Another upcoming maker. They have a concept that looks awesome and could make a great keycap. Expect some prototypes in the coming weeks. ;)
 ![the kinght](https://i.imgur.com/Qpvld7P.png)
 
-- [Info Post](http://redd.it/3baptf)
+- [Info Post](https://redd.it/3baptf)
 
 # kudos_and_godspeed
 Finally meowcaps are back and shipping. They also look incredible. These really do look good.
-[![t](https://i.imgur.com/FOckPx3.jpg)](http://redd.it/3b09p3)
+[![t](https://i.imgur.com/FOckPx3.jpg)](https://redd.it/3b09p3)
 
-- [Website](http://keykollectiv.com/)
+- [Website](https://keykollectiv.com/)
 
 On their website you can find a link to their mailing list, so I suggest if you are interested in future keycaps look there.
 
 # HiddenPower
 With the previous sale being a success and caps showing up everywhere new designs have been shown. Two named designs; Otto and Ninja. They look very inline with the rest of their character designs.
-[![ninja](https://i.imgur.com/6UCPlZD.jpg)](http://redd.it/3awjj9)
+[![ninja](https://i.imgur.com/6UCPlZD.jpg)](https://redd.it/3awjj9)
 
 # HfCx Handmade Backlit Keycaps
 I was drawn to these as they are another type of artisan keycaps that are made in an entirely different way. The making process seems really interesting but I do not have backlit keyboards to take advantage of these kind of caps.
 
-- [Available on Geekkeys](http://www.geekkeys.com/search.php?search_query=hfcx)
+- [Available on Geekkeys](https://www.geekkeys.com/search.php?search_query=hfcx)
 
 # XX7 Artisan Groupbuy
 The XX7 GB is underway and is very close to the MOQ. XX7 along with KappaKapps, they are producing the best 3d caps available.
 
-- [mechmarket GB link](http://redd.it/3bobs1)
+- [mechmarket GB link](https://redd.it/3bobs1)
 
 # vanpops
-[![vader](https://i.imgur.com/EEGr23i.jpg)](http://redd.it/39q4jb)
+[![vader](https://i.imgur.com/EEGr23i.jpg)](https://redd.it/39q4jb)
 A simple show of ability but interesting to see what they are able to produce.  All the caps pictured seem to be of great quality even if it is not an original sculpt or original design.
 
 # Brocaps
@@ -86,7 +86,7 @@ New sale is live and features some very appealing colour choices. Both MX and To
 
 # Binge
 Binge's latest sale is interesting as he is limiting the keycaps to a specific colour palette. This is something I have not seen done before and I thought to be interesting. The colours chosen are also quite interesting and I would like to see how they turn out.
-![oclour](http://i.imgur.com/crLovby.png?1)
+![oclour](https://i.imgur.com/crLovby.png?1)
 
 # Clack Watch
 Many clack sales in the past month. I find it interesting that all of a sudden clacks appear on ebay and are going for large amounts. It just seems to be accepted that now they will be sold for these prices so more are coming forward and putting them up for sale. Some of these are being sold for charity.
@@ -103,7 +103,7 @@ Many clack sales in the past month. I find it interesting that all of a sudden c
         <tr>
             <td>
                 <a href=
-                "http://www.ebay.com/itm/Click-Clack-Clack-Factory-Mint-Skull-Topre-Artisan-Keycap-NOT-Cherry-MX-/121675690096?">
+                "https://www.ebay.com/itm/Click-Clack-Clack-Factory-Mint-Skull-Topre-Artisan-Keycap-NOT-Cherry-MX-/121675690096?">
                 Mint Skull Topre</a>
             </td>
 
@@ -114,7 +114,7 @@ Many clack sales in the past month. I find it interesting that all of a sudden c
         <tr>
             <td>
                 <a href=
-                "http://www.ebay.com/itm/Clack-Factory-Topre-Candy-Corn-Skull-Click-Clack-Keycap-HHKB-Not-for-MX-Keyboard-/331577311506?">
+                "https://www.ebay.com/itm/Clack-Factory-Topre-Candy-Corn-Skull-Click-Clack-Keycap-HHKB-Not-for-MX-Keyboard-/331577311506?">
                 Candy Corn Skull Topre</a>
             </td>
 
@@ -124,7 +124,7 @@ Many clack sales in the past month. I find it interesting that all of a sudden c
 
         <tr>
             <td>
-                <a href="http://www.ebay.com/itm/121677277627?">Blood Splat
+                <a href="https://www.ebay.com/itm/121677277627?">Blood Splat
                 MX</a>
             </td>
 
@@ -134,7 +134,7 @@ Many clack sales in the past month. I find it interesting that all of a sudden c
 
         <tr>
             <td>
-                <a href="http://www.ebay.com/itm/151711583079?">Drunken Skull
+                <a href="https://www.ebay.com/itm/151711583079?">Drunken Skull
                 Topre</a>
             </td>
 
@@ -145,7 +145,7 @@ Many clack sales in the past month. I find it interesting that all of a sudden c
         <tr>
             <td>
                 <a href=
-                "http://www.ebay.com/itm/Mr-Friday-ClickClack-Skull-CC-topre-420-no-cherry-mx-click-clack-hhkb-/331564258302?pt=LH_DefaultDomain_77&amp;hash=item4d32c513fe">
+                "https://www.ebay.com/itm/Mr-Friday-ClickClack-Skull-CC-topre-420-no-cherry-mx-click-clack-hhkb-/331564258302?pt=LH_DefaultDomain_77&amp;hash=item4d32c513fe">
                 Mr Friday Skull Topre</a>
             </td>
 
@@ -155,7 +155,7 @@ Many clack sales in the past month. I find it interesting that all of a sudden c
 
         <tr>
             <td>
-                <a href="http://www.ebay.com/itm/-/121666255789">Salute Skull
+                <a href="https://www.ebay.com/itm/-/121666255789">Salute Skull
                 MX</a>
             </td>
 
@@ -163,7 +163,7 @@ Many clack sales in the past month. I find it interesting that all of a sudden c
         </tr>
         <tr>
             <td>
-                <a href="http://www.ebay.com/itm/121675709068?">Red Skull Topre</a>
+                <a href="https://www.ebay.com/itm/121675709068?">Red Skull Topre</a>
             </td>
 
             <td>$197.50
@@ -171,7 +171,7 @@ Many clack sales in the past month. I find it interesting that all of a sudden c
         </tr>
                 <tr>
             <td>
-                <a href="http://www.ebay.com/itm/121667377954?">Blue Skull Topre</a>
+                <a href="https://www.ebay.com/itm/121667377954?">Blue Skull Topre</a>
             </td>
 
             <td>$192.50
@@ -179,7 +179,7 @@ Many clack sales in the past month. I find it interesting that all of a sudden c
         </tr>
                      <tr>
             <td>
-                <a href="http://www.ebay.com/itm/121667394989?">Pink Skull Topre</a>
+                <a href="https://www.ebay.com/itm/121667394989?">Pink Skull Topre</a>
             </td>
 
             <td>$154.50

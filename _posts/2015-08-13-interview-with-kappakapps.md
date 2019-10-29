@@ -171,7 +171,7 @@ KappaKappsKeyboards: I foresee a bigger shift to mechanical keyboards as more pe
 
 KappaKappsKeyboards: give my partner a second, he's finding a gif ;)
 
-KappaKappsLogistics: There's another redditor that does a lot of the same stuff that we do...  this gif is super relevant: http://i0.kym-cdn.com/photos/images/newsfeed/000/638/626/5c6.gif
+KappaKappsLogistics: There's another redditor that does a lot of the same stuff that we do...  this gif is super relevant: https://i0.kym-cdn.com/photos/images/newsfeed/000/638/626/5c6.gif
 
 **skiwithpete: What's the motivation for donating profits to charity?  Is there a personal link to the cause?  Or just makes you guys feel good about something?  Or is it just an evil capitalist plan?  **
 
@@ -200,7 +200,7 @@ KappaKappsLogistics: haha
 **skiwithpete: ;)**
 
 ### About the interviewer:  
-/u/skiwithpete is a regular on /r/mechmarket having bought and sold many boards, keysets and artisan products through the forum.  He's also one half of artisan sleeve makers <http://1upkeyboards.com> with his wife Stephanie.
+/u/skiwithpete is a regular on /r/mechmarket having bought and sold many boards, keysets and artisan products through the forum.  He's also one half of artisan sleeve makers <https://1upkeyboards.com> with his wife Stephanie.
 
 
 --------------------------------

@@ -11,13 +11,13 @@ tags: []
 This is probably the most interesting different keyboard that comes with something slightly different. It is like the Optimus Maximus in that the keys are relengedable through individual screens in the keycaps.  
 In theory this concept seems interesting. But I really don't see this being interesting past the novelty. It's not really something many people are looking for. The problem is this removes one of the main customisation options you get with keyboards, the keycaps. But of course it does come with an alternative that allows you to change the legends. But this is not the same and I don't see it being particularly useful or exciting.
 
-![protean keyboard](http://i.imgur.com/XbUk3Qp.jpg)
+![protean keyboard](https://i.imgur.com/XbUk3Qp.jpg)
 
 The renders also make it look like the keycaps are inverse. I'm not sure if this is the idea or just how it looks but I can't see this being too comfortable.
 
 Obviously this is a unique keyboard, but I see no reason for it to be.
 
-* [Read More on the Protean Website](http://archtor.com/)
+* [Read More on the Protean Website](https://archtor.com/)
 
 ## Sentraq
 More updates on the previously announced keyboards.
@@ -44,21 +44,21 @@ The news is that they now have prototypes. So nothing ground breaking but if you
 ## New Mechanical Keyboard Line By Monoprice
 Full sized standard mechs in 3 configurations in either blue or reds.
 
-* [Backlit](http://www.monoprice.com/product?p_id=13788) $69.99
-* [RGB](http://www.monoprice.com/product?p_id=13858)  $89.99
-* [Standard](http://www.monoprice.com/product?p_id=13785) $96.39 
+* [Backlit](https://www.monoprice.com/product?p_id=13788) $69.99
+* [RGB](https://www.monoprice.com/product?p_id=13858)  $89.99
+* [Standard](https://www.monoprice.com/product?p_id=13785) $96.39 
 
 I'm not sure why the standard (Select Series) costs more. But in my opinion it is more aesthetically pleasing.
 
 The other question is "What switches do these have?". I was told "our made mechanical switches". So I imagine these are on the level of kalih or greetech (pure speculation). These could in fact turn out nice.
 
 ## Penclic MK1
-![](http://i.imgur.com/x2wIMUy.jpg)
+![](https://i.imgur.com/x2wIMUy.jpg)
 A new mechanical keyboard aimed at the professional typist. It looks like a squashed TKL with edges. From a new company with a slightly strange looking keyboard, I am not feeling too hostile towards it.
 
 No word on the switches so I really don't know.
 
-* [Penclic Website](http://www.penclic.se/nyheter--produkter/?lang=en)
+* [Penclic Website](https://www.penclic.se/nyheter--produkter/?lang=en)
 
 ## Artisan Sales
 The ever trendy artisans are at it again.
@@ -75,9 +75,9 @@ This was worth mentioning as the colourways are looking excellent.
 
 ![Hkp blue November](https://i.imgur.com/JjBKJHR.jpg)
 
-* Krap Sale This [Saturday](http://www.timeanddate.com/countdown/launch?iso=20151107T10&p0=12&msg=Batman+Sale&font=slab&csz=1&swk=1)
+* Krap Sale This [Saturday](https://www.timeanddate.com/countdown/launch?iso=20151107T10&p0=12&msg=Batman+Sale&font=slab&csz=1&swk=1)
 
-[![Krap Birdie](http://i62.photobucket.com/albums/h113/Krytone/Birdie_zpspaefpqgf.jpg)](https://geekhack.org/index.php?topic=63758.0)
+[![Krap Birdie](https://i62.photobucket.com/albums/h113/Krytone/Birdie_zpspaefpqgf.jpg)](https://geekhack.org/index.php?topic=63758.0)
 *Possibly relevant photo. Sale contents unknown. But I love these.*
 
 

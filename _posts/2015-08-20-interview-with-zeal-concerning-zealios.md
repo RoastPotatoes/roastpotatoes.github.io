@@ -114,7 +114,7 @@ It will depend on when Zealios start shipping! Kit Kats are prone to melting und
 
 No future plans have been finalized or disclosed yet. Though if Zealios take off, there might be something extra up my sleeves!
 
-* [Zealpc.net](http://zealpc.net/)
+* [Zealpc.net](https://zealpc.net/)
 * [Zealio Geekhack Thread](https://geekhack.org/index.php?topic=69590.0)
 
 
