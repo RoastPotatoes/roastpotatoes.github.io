@@ -2,14 +2,17 @@
 layout: post
 title: "Why you should buy an IBM Model F"
 description: "5 years in the making the new Model F keyeboards are only a few months away. But why should you buy a Model F?"
-category: 
+category:
 - news
 
 tags: []
 thumbnail: https://blog.roastpotatoes.co/assets/model-f/ibm-model-f-f66-beige.jpg
 keywords: ibm, new mechanical keyboard, mechanical keyboard, model f, model m, kishsaver
 ---
-![New IBM Model F F66 Beige](/assets/model-f/ibm-model-f-f66-beige.jpg)
+![New IBM Model F F66 Beige](){: class="lazy" data-src="/assets/model-f/ibm-model-f-f66-beige.jpg"}
+
+
+
 
 ## What is it?
 There are 4 keyboards being sold here with customisations available to each.
@@ -17,19 +20,21 @@ There are 4 keyboards being sold here with customisations available to each.
 
 | | F62 (Kishsaver) | F77 | Ultra Compact F62 | Ultra Compact F77 |
 |-|-------|--------|---------|---------|
-|| [![New IBM Model F F62 Beige](/assets/model-f/f62-model-f-kishsaver-small.jpg)](https://www.modelfkeyboards.com/product/f62-model-f-keyboard-kishsaver/) | [![New IBM Model F F77 Beige](/assets/model-f/f77-model-f-small.png)](https://www.modelfkeyboards.com/product/f77-model-f-keyboard/) | [![New IBM Model F F62 Black Compact](/assets/model-f/f62-compact-model-f-small.png)](https://www.modelfkeyboards.com/product/f62-model-f-keyboard-kishsaver-ultra-compact/) | [![New IBM Model F F77 Compact Beige](/assets/model-f/f77-compact-model-f-small.png)](https://www.modelfkeyboards.com/product/f77-model-f-keyboard-ultra-compact/) |
+|| [![New IBM Model F F62 Beige](/assets/model-f/f62-model-f-kishsaver-small.jpg)](){: class="lazy" data-src="https://www.modelfkeyboards.com/product/f62-model-f-keyboard-kishsaver/"} | [![New IBM Model F F77 Beige](/assets/model-f/f77-model-f-small.png)](https://www.modelfkeyboards.com/product/f77-model-f-keyboard/) | [![New IBM Model F F62 Black Compact](/assets/model-f/f62-compact-model-f-small.png)](https://www.modelfkeyboards.com/product/f62-model-f-keyboard-kishsaver-ultra-compact/) | [![New IBM Model F F77 Compact Beige](/assets/model-f/f77-compact-model-f-small.png)](https://www.modelfkeyboards.com/product/f77-model-f-keyboard-ultra-compact/) |
 |Weight| 3.4kg | 3.8kg | 1.5kg | 1.8kg |
 |Size| 59-62 keys | 74-77 keys | 59-62 keys | 74-77 keys |
 
 All can be bought with dyesub PBT keycaps or without.
 
 Available in these colour swatches but with additional cost for Silver Gray and True Red.
-![New Model F Available in These Colours](/assets/model-f/new-model-f-colour-swatches.jpg)
+![New Model F Available in These Colours](){: class="lazy" data-src="/assets/model-f/new-model-f-colour-swatches.jpg"}
 
+
+{: class="lazy" data-src=""}
 ## An improvement on the Model M?
 Model Ms use membrane buckling springs whereas the Model Fs use capacative buckling springs.
-What does this actually mean? 
-The capacitive switches sit on a pcb unlike the Model M which sit upon a plastic membrane. 
+What does this actually mean?
+The capacitive switches sit on a pcb unlike the Model M which sit upon a plastic membrane.
 This translates to a higher rating of keypresses. The metrics thrown around for old Model Fs are 100 million to the Model Ms 35 million. It's unlikely you'd see the switches fail.
 
 The main difference is in the *feel*. There's a bit more tactitily and feedback to a keypress.

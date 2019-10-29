@@ -2,7 +2,7 @@
 <html lang="en-us">
 
   {% include head.html %}
-  
+
 
   <body class="theme-base-0p">
 
@@ -21,14 +21,28 @@
             <small>{{ site.tagline }}</small>
           </h3>
         </div>
-	
+
 
 
       </div>
   <script>anchors.add();
 anchors.remove('.masthead-title, h1');
  </script>
+
  <div class="container content">
+   <div class="wrap" >
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Page Ad top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2028120109987382"
+     data-ad-slot="4123120214"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
         {{ content }}
       </div>
     </div>
@@ -71,8 +85,15 @@ anchors.remove('.masthead-title, h1');
 
       <img class="footerlogo" width="50px" src="{{ site-url}}/assets/rpsticker2.svg">
     </div>
+<script>
+var lazyLoadInstance = new LazyLoad({
+    elements_selector: ".lazy"
+    // ... more custom settings?
+});
 
-
-
+if (lazyLoadInstance) {
+    lazyLoadInstance.update();
+}
+</script>
   </body>
 </html>
