@@ -1,0 +1,34 @@
+I"�<p>I never thought I’d see the day but here we are.  A new set of HHKB keyboards.
+Announced on the 9th of December (and I’ve only now seen the announcement!.</p>
+
+<p>There are 3 new keyboards.</p>
+
+<p>HHKB Classic:</p>
+
+<p>HHKB Pro 2 but with USB-C and no usb ports!</p>
+
+<p>HHKB Hybrid:</p>
+
+<p>Bluetooth and USB-C
+Reprogrammable</p>
+
+<p>HHKB Hybrid Type-S
+Bluetooth and USB-C
+Reprogrammable
+Upgraded silencing</p>
+
+<p>Now it’s nothing entirely groundbreaking. Design wise, they’ve rounded the corners and removed the branding on the bottom row.
+For the classic model the only real change is the migration to usb-c. Sadly it is not reprogrammable and only has dip switches like previous models.</p>
+
+<p>The Hybrid models are more interesting as they have bluetooth, usb-c and are reprogrammable.</p>
+
+<p>For customising keymaps, PFU have created their own little tool (HHKBKeymapTool_100.exe), which is only available for windows. Try as I might I could not get this to work in wine so I have no idea what it looks like or the complexity of the keymaps.</p>
+
+<p>Eventually I span up a virtual machine to test it out. And unfortunately you can’t do anything without one of the new models plugged in. So I have no idea of it’s capabilities.</p>
+
+<p>So apologies this is the best I managed to get.
+<img src="/assets/new-hhkb-lineup/hhkb-keymap-tool-screenshot.png" alt="HHKB keymap remapping tool error screen" /></p>
+
+<hr />
+<p style="text-align: right" title="Screwed">Typed on <font color="#6c6c6c">SSK</font></p>
+:ET

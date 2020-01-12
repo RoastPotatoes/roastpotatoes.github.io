@@ -1,0 +1,36 @@
+I".<p><img src="/assets/new-hhkb-lineup/hhkb_3_hybrid_S_white_printed_ecom.jpg" alt="NEW HHKB Hybrid Type-S Silenced" />
+I never thought I’d see the day but here we are.  A new set of HHKB keyboards.
+Announced on the 9th of December (and I’ve only now seen the announcement!.</p>
+
+<p>There are 3 new keyboards.</p>
+
+<p>HHKB Classic:<br />
+HHKB Pro 2 but with USB-C and no usb ports!</p>
+
+<p>HHKB Hybrid:<br />
+Bluetooth and USB-C
+Reprogrammable</p>
+
+<p><a href="https://fujitsuscannerstore.com/cg01000-297001/">HHKB Hybrid Type-S:</a><br />
+Bluetooth and USB-C
+Reprogrammable
+Upgraded silencing</p>
+
+<p>Now it’s nothing entirely groundbreaking. Design wise, they’ve rounded the corners and removed the branding on the bottom row.
+For the classic model the only real change is the migration to usb-c. Sadly it is not reprogrammable and only has dip switches like previous models.</p>
+
+<p>The Hybrid models are more interesting as they have bluetooth, usb-c and are reprogrammable.</p>
+
+<p>For customising keymaps, PFU have created their own little tool (<a href="https://happyhackingkb.com/download/">HHKBKeymapTool_100.exe</a>), which is only available for windows. Try as I might I could not get this to work in wine so I wasted a few hours on that.
+Eventually I span up a virtual machine to test it out. And unfortunately you can’t do anything without one of the new models plugged in. So I have no idea of it’s capabilities.</p>
+
+<p>So apologies this is the best I managed to get.
+<img src="/assets/new-hhkb-lineup/hhkb-keymap-tool-screenshot.png" alt="HHKB keymap remapping tool error screen" /></p>
+
+<h2 id="availabilty">Availabilty</h2>
+<p>At the moment you can buy these on <a href="htts://amazon.co.jp">amazon.co.jp</a> or the <a href="https://fujitsuscannerstore.com/keyboards/">Fujitsu US Store</a><br />
+It appears Fujitsu/PFU is now managing the sales themselves instead of partnering with third parties. So sadly they are only officially available in Japan and the US.</p>
+
+<hr />
+<p style="text-align: right" title="Screwed">Typed on <font color="#6c6c6c">SSK</font></p>
+:ET
