@@ -1,4 +1,4 @@
-I"Ú<p>When I was hand wiring my planck, I could not really find a guide that I really liked. I really managed to get through building it by looking at as many photos of planck builds as possible. I hope this guide reduces the need somewhat. It is a great mechanical keyboard so I wanted at least a semi-comprehensive guide.</p>
+I"í<p>When I was hand wiring my planck, I could not really find a guide that I really liked. I really managed to get through building it by looking at as many photos of planck builds as possible. I hope this guide reduces the need somewhat. It is a great mechanical keyboard so I wanted at least a semi-comprehensive guide.</p>
 
 <p>The hand wired planck is being phased out. But if you really want to do it, this is still a viable option.</p>
 
@@ -74,7 +74,7 @@
 
 <p>One issue I had was flashing the hex use this command if the recommended commands are not working. This requires teensy-cli on linux systems.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>teensy-loader-cli -mmcu=atmega32u4 -w -v "name of your generated hex here"
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>teensy-loader-cli -mmcu=atmega32u4 -w -v "name of your generated hex here"
 </code></pre></div></div>
 
 <h2 id="my-hand-wired-planck">My hand wired Planck</h2>

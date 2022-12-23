@@ -1,4 +1,4 @@
-I"»!<p><img src="/assets/modelm/modelm.jpg" alt="bad model m photo" />
+I"ô!<p><img src="/assets/modelm/modelm.jpg" alt="bad model m photo" />
 The IBM Model M, was my first foray into mechanical keyboards. The reason for buying was part necessity and part intrigue in the mechanical keyboard world. I had just spilt coffee on my unbranded rubber dome. Yet the demise of the rubber dome was not a sad affair. I felt compelled to purchase a better keyboard. The time between the Model M and the rubber dome was filled with another rubber dome. A logitech K518. It is not a bad keyboard, certainly not the worst rubber dome. But it gave me no excitement or pleasure to type on.</p>
 
 <p>The reason for buying the Model M was both price and availability. At the time it seemed easy to attain. Nonetheless, it currently seems easier and cheaper to buy a Model M. So if you feel the need for a new keyboard as well as having an interest in vintage keyboards, the Model M is an incredible purchase. Not only is it a great keyboard it can be a gateway to other knowledge and interest in other keyboards. One of the great things about the Model M is the ability to modify the keyboard without breaking it. Depending on what level you are on, this might lead to new skills you learn from carrying out your own modifications.</p>
@@ -19,10 +19,10 @@ The IBM Model M, was my first foray into mechanical keyboards. The reason for bu
 
 <p><a href="https://gist.github.com/RoastPotatoes/f84b08c20dce50445805">Link to full layout</a></p>
 
-<p>As you can see in the gist, it is just a simple change. One mistake I made was changing the default <code class="highlighter-rouge">us</code> layout. This refers to qwerty only. So when I was using colemak the change was not in effect, to actually change the layout you have to edit the colemak portion in the <code class="highlighter-rouge">us</code> file.
+<p>As you can see in the gist, it is just a simple change. One mistake I made was changing the default <code class="language-plaintext highlighter-rouge">us</code> layout. This refers to qwerty only. So when I was using colemak the change was not in effect, to actually change the layout you have to edit the colemak portion in the <code class="language-plaintext highlighter-rouge">us</code> file.
 The two important lines are:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	key &lt;BKSL&gt; { [    BackSpace,    BackSpace,       BackSpace,        BackSpace ] };
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	key &lt;BKSL&gt; { [    BackSpace,    BackSpace,       BackSpace,        BackSpace ] };
 	key &lt;BKSP&gt; { [    backslash,          bar,      asciitilde,       asciitilde ] };
 </code></pre></div></div>
 
