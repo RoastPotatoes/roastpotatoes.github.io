@@ -13,7 +13,7 @@ thumbnail: https://blog.roastpotatoes.co/assets/ibm-model-m-replacement-controll
 keywords: IBM, Model M, replacement controller, mechanical keyboard, buckling spring, QMK, usb-c 
 
 ---
-![IBM Modl M SSK Keyboard](/assets/ibm-model-m-replacement-controller/ibm-ssk-profile.jpg)
+![IBM Model M SSK Keyboard](/assets/ibm-model-m-replacement-controller/ibm-ssk-profile.jpg)
 [I was browsing Deskthority and saw this post about an aftermarket Model M controller purchased from Taobao.](https://deskthority.net/viewtopic.php?f=2&t=25931) My SSK has been sitting around for a while and I've grown accustomed to the programmability of the ergodox I use every day. So this sounded like the perfect upgrade I was looking for. 
 It also looked to be a complete solution I could just easily swap with the stock controller. This didn't turn out to be the case.
 
